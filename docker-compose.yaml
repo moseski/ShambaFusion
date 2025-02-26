@@ -1,0 +1,37 @@
+# services:
+
+#   db:
+#     image: postgres:17
+#     environment:
+#       POSTGRES_DB: ${DATABASE_NAME}
+#       POSTGRES_USER: ${DATABASE_USER}
+#       POSTGRES_PASSWORD: ${DATABASE_PASSWORD}
+#     volumes:
+#       - db_data:/var/lib/postgresql/data
+#     networks:
+#       - shamba-network 
+
+#   shamba-fusion:
+#     image: dominickimani/shamba-fusion
+#     environment:
+#       DATABASE_URL: postgres://${DATABASE_USER}:${DATABASE_PASSWORD}@db:5432/${DATABASE_NAME}
+#       DATABASE_NAME: ${DATABASE_NAME}
+#       DATABASE_USER: ${DATABASE_USER}
+#       DATABASE_PASSWORD: ${DATABASE_PASSWORD}
+#       DATABASE_HOST: db
+#       DATABASE_PORT: ${DATABASE_PORT}
+    
+#     command: >
+#           dockerize -wait tcp://db:5432 -timeout 10s && python manage.py runserver 0.0.0.0:8000
+
+#     ports:
+#       - "8000:8000"
+#     depends_on:
+#       - db
+
+# volumes:
+#   db_data:
+
+# networks:
+#   shamba-network:
+#     external: true

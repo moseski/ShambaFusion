@@ -1,0 +1,3001 @@
+Commodity,Market,Wholesale,Retail,Supply Volume,County,Date,Month
+Tomatoes,Nairobi Wakulima,45.0,120.0,4000.0,Nairobi,2024-04-25,4
+Tomatoes,Kabati Kitui,68.57,100.0,4970.0,Kitui,2024-04-25,4
+Tomatoes,Kiria-ini Market,100.0,100.0,800.0,Muranga,2024-04-25,4
+Tomatoes,Kinango,77.78,100.0,6000.0,Kwale,2024-04-25,4
+Tomatoes,Soko Mjinga Wajir,112.0,100.0,3500.0,Wajir,2024-04-25,4
+Tomatoes,Kitale Municipality Market,100.0,120.0,20000.0,Trans-Nzoia,2024-04-25,4
+Tomatoes,Mogogosiek Market,73.53,80.0,400.0,Bomet,2024-04-25,4
+Tomatoes,Keroka,50.0,75.0,22100.0,Nyamira,2024-04-25,4
+Tomatoes,Marindi,70.31,83.33,30000.0,Migori,2024-04-26,4
+Tomatoes,Kitale Municipality Market,93.75,106.25,1500.0,Trans-Nzoia,2024-04-26,4
+Tomatoes,Nakuru Wakulima,100.0,,4000.0,Nakuru,2024-04-26,4
+Tomatoes,Cheptulu,,166.67,3500.0,Vihiga,2024-04-26,4
+Tomatoes,Kirwara Market,,40.0,1900.0,Muranga,2024-04-26,4
+Tomatoes,Kangeta,50.0,60.0,1300.0,Meru,2024-04-26,4
+Tomatoes,Nairobi Wakulima,42.0,120.0,4000.0,Nairobi,2024-04-26,4
+Tomatoes,Chepsonoi Market,113.33,100.0,7500.0,Nandi,2024-04-26,4
+Tomatoes,Sikhendu,80.0,120.0,2170.0,Trans-Nzoia,2024-04-26,4
+Tomatoes,Gikomba,,80.0,4000.0,Nairobi,2024-04-26,4
+Tomatoes,Chuka,60.0,70.0,3000.0,Tharaka-Nithi,2024-04-26,4
+Tomatoes,Diani Market,70.0,120.0,3500.0,Kwale,2024-04-26,4
+Tomatoes,Wundanyi,,60.0,2400.0,Taita-Taveta,2024-04-26,4
+Tomatoes,Makutano Kirinyaga,75.0,180.0,2160.0,Kirinyaga,2024-04-26,4
+Tomatoes,Ngurubani Market,70.0,90.0,2000.0,Kirinyaga,2024-04-26,4
+Tomatoes,Nambale,50.0,,4000.0,Busia,2024-04-27,4
+Tomatoes,Nairobi Wakulima,50.0,120.0,4000.0,Nairobi,2024-04-27,4
+Tomatoes,Kapsabet Market,50.0,150.0,10000.0,Nandi,2024-04-27,4
+Tomatoes,Mukuyu Market,40.0,60.0,4000.0,Muranga,2024-04-27,4
+Tomatoes,Molo,,100.0,2100.0,Nakuru,2024-04-27,4
+Tomatoes,Isebania Market,,57.14,1000.0,Migori,2024-04-27,4
+Tomatoes,Diani Market,70.0,120.0,4000.0,Kwale,2024-04-27,4
+Tomatoes,Kibiok,66.67,83.33,15000.0,Nandi,2024-04-28,4
+Tomatoes,Ahero,100.0,120.0,6000.0,Kisumu,2024-04-28,4
+Tomatoes,Keroka,55.0,75.0,24000.0,Nyamira,2024-04-28,4
+Tomatoes,Isebania Market,,66.67,1250.0,Migori,2024-04-29,4
+Tomatoes,Ngurubani Market,60.0,75.0,1500.0,Kirinyaga,2024-04-29,4
+Tomatoes,Marindi,75.0,87.72,23000.0,Migori,2024-04-29,4
+Tomatoes,Molo,,100.0,1600.0,Nakuru,2024-04-29,4
+Tomatoes,Kisasi,30.0,40.0,4000.0,Kitui,2024-04-29,4
+Tomatoes,Rongo,66.67,95.97,48000.0,Migori,2024-04-29,4
+Tomatoes,Kitale Municipality Market,93.75,106.25,20000.0,Trans-Nzoia,2024-04-29,4
+Tomatoes,Mabera,121.21,80.0,3000.0,Migori,2024-04-29,4
+Tomatoes,Chebunyo,62.5,70.0,2000.0,Bomet,2024-04-29,4
+Tomatoes,Diani Market,65.0,120.0,3500.0,Kwale,2024-04-29,4
+Tomatoes,Nakuru Wakulima,70.0,,4000.0,Nakuru,2024-04-29,4
+Tomatoes,Kabati Kitui,57.14,100.0,1600.0,Kitui,2024-04-29,4
+Tomatoes,Nairobi Wakulima,50.0,100.0,4000.0,Nairobi,2024-04-29,4
+Tomatoes,Kutus,42.86,55.81,2680.0,Kirinyaga,2024-04-29,4
+Tomatoes,Malindi Old Market,80.0,100.0,40.0,Kilifi,2024-04-29,4
+Tomatoes,Kerugoya,40.0,80.0,1000.0,Kirinyaga,2024-04-30,4
+Tomatoes,Cheptulu,,142.86,400.0,Vihiga,2024-04-30,4
+Tomatoes,Maua,40.0,60.0,13000.0,Meru,2024-04-30,4
+Tomatoes,Nakuru Wakulima,70.0,,4000.0,Nakuru,2024-04-30,4
+Tomatoes,Kirwara Market,,72.73,2300.0,Muranga,2024-04-30,4
+Tomatoes,Kawangware,100.0,,4000.0,Nairobi,2024-04-30,4
+Tomatoes,Kapsabet Market,85.71,150.0,5000.0,Nandi,2024-04-30,4
+Tomatoes,Charo wa Mae,71.43,100.0,1260.0,Kilifi,2024-04-30,4
+Tomatoes,Nkubu,6.0,40.0,4000.0,Meru,2024-04-30,4
+Tomatoes,Chuka,60.0,70.0,2500.0,Tharaka-Nithi,2024-04-30,4
+Tomatoes,Molo,,100.0,1800.0,Nakuru,2024-04-30,4
+Tomatoes,Nairobi Wakulima,60.0,80.0,4000.0,Nairobi,2024-04-30,4
+Tomatoes,Rongo,61.67,114.42,36000.0,Migori,2024-05-01,5
+Tomatoes,Chepterit Market - Nandi,84.0,100.0,1000.0,Nandi,2024-05-01,5
+Tomatoes,Molo,,100.0,1300.0,Nakuru,2024-05-01,5
+Tomatoes,Mwingi Town,54.69,70.0,3000.0,Kitui,2024-05-01,5
+Tomatoes,Mwatate,80.0,80.0,2500.0,Taita-Taveta,2024-05-01,5
+Tomatoes,Kitale Municipality Market,93.75,106.25,20000.0,Trans-Nzoia,2024-05-02,5
+Tomatoes,Kabiyet Market,70.0,100.0,5000.0,Nandi,2024-05-02,5
+Tomatoes,Molo,,100.0,2100.0,Nakuru,2024-05-02,5
+Tomatoes,Kinango,77.78,100.0,7000.0,Kwale,2024-05-02,5
+Tomatoes,Mogogosiek Market,73.53,80.0,1500.0,Bomet,2024-05-02,5
+Tomatoes,Malindi Old Market,70.0,90.0,40.0,Kilifi,2024-05-02,5
+Tomatoes,Charo wa Mae,66.67,80.0,2100.0,Kilifi,2024-05-02,5
+Tomatoes,Kagio,37.5,46.88,20000.0,Kirinyaga,2024-05-02,5
+Tomatoes,Kawangware,100.0,,4000.0,Nairobi,2024-05-02,5
+Tomatoes,Kutus,42.86,54.55,2680.0,Kirinyaga,2024-05-02,5
+Tomatoes,Nairobi Wakulima,45.0,60.0,4000.0,Nairobi,2024-05-02,5
+Tomatoes,Ngurubani Market,40.0,60.0,2500.0,Kirinyaga,2024-05-03,5
+Tomatoes,Ndanai,66.67,100.0,10000.0,Bomet,2024-05-03,5
+Tomatoes,Makutano Kirinyaga,40.0,60.0,2500.0,Kirinyaga,2024-05-03,5
+Tomatoes,Kerugoya,40.0,80.0,1000.0,Kirinyaga,2024-05-03,5
+Tomatoes,Kiria-ini Market,80.0,80.0,700.0,Muranga,2024-05-03,5
+Tomatoes,Kisasi,30.0,50.0,4000.0,Kitui,2024-05-03,5
+Tomatoes,Cheptulu,,166.67,2450.0,Vihiga,2024-05-03,5
+Tomatoes,Mabera,100.0,62.5,4000.0,Migori,2024-05-03,5
+Tomatoes,Charo wa Mae,84.44,100.0,675.0,Kilifi,2024-05-03,5
+Tomatoes,Malindi Old Market,66.67,90.0,42.0,Kilifi,2024-05-03,5
+Tomatoes,Molo,,100.0,1400.0,Nakuru,2024-05-03,5
+Tomatoes,Kirwara Market,,41.67,1700.0,Muranga,2024-05-03,5
+Tomatoes,Voi Wholesale,40.0,,2000.0,Taita-Taveta,2024-05-03,5
+Tomatoes,Voi Wholesale,46.67,,4500.0,Taita-Taveta,2024-05-03,5
+Tomatoes,Nairobi Wakulima,40.0,80.0,4000.0,Nairobi,2024-05-03,5
+Tomatoes,Kangeta,50.0,60.0,1600.0,Meru,2024-05-03,5
+Tomatoes,Gakoromone,50.0,60.0,3000.0,Meru,2024-05-03,5
+Tomatoes,Gikomba,30.0,60.0,4000.0,Nairobi,2024-05-03,5
+Tomatoes,Chuka,60.0,70.0,2500.0,Tharaka-Nithi,2024-05-03,5
+Tomatoes,Diani Market,70.0,120.0,2500.0,Kwale,2024-05-03,5
+Tomatoes,Nakuru Wakulima,100.0,,4000.0,Nakuru,2024-05-03,5
+Tomatoes,Diani Market,70.0,120.0,2500.0,Kwale,2024-05-04,5
+Tomatoes,Mulot,82.35,100.0,300.0,Bomet,2024-05-04,5
+Tomatoes,Lungalunga,100.0,180.0,4000.0,Kwale,2024-05-04,5
+Tomatoes,Mwatate,90.0,100.0,4000.0,Taita-Taveta,2024-05-04,5
+Tomatoes,Kawangware,80.0,150.0,4000.0,Nairobi,2024-05-05,5
+Tomatoes,Rongo,166.67,42.13,1680.0,Migori,2024-05-05,5
+Tomatoes,Rongo,104.0,49.26,32000.0,Migori,2024-05-05,5
+Tomatoes,Isebania Market,,60.0,1200.0,Migori,2024-05-05,5
+Tomatoes,Mabera,105.88,104.17,5000.0,Migori,2024-05-05,5
+Tomatoes,Kibiok,116.67,126.67,9000.0,Nandi,2024-05-05,5
+Tomatoes,Marindi,70.31,108.7,38000.0,Migori,2024-05-05,5
+Tomatoes,Nakuru Wakulima,100.0,,4000.0,Nakuru,2024-05-06,5
+Tomatoes,Marindi,70.31,107.76,15000.0,Migori,2024-05-06,5
+Tomatoes,Kerugoya,40.0,80.0,1000.0,Kirinyaga,2024-05-06,5
+Tomatoes,Kitale Municipality Market,93.75,106.25,10000.0,Trans-Nzoia,2024-05-06,5
+Tomatoes,Malindi Old Market,70.0,90.0,40.0,Kilifi,2024-05-06,5
+Tomatoes,Diani Market,70.0,120.0,3500.0,Kwale,2024-05-06,5
+Tomatoes,Kawangware,80.0,150.0,4000.0,Nairobi,2024-05-06,5
+Tomatoes,Charo wa Mae,64.29,80.0,1260.0,Kilifi,2024-05-06,5
+Tomatoes,Molo,,100.0,1200.0,Nakuru,2024-05-06,5
+Tomatoes,Nairobi Wakulima,50.0,120.0,4000.0,Nairobi,2024-05-06,5
+Tomatoes,Kirwara Market,,57.14,2000.0,Muranga,2024-05-07,5
+Tomatoes,Tawa,60.0,70.0,3000.0,Makueni,2024-05-07,5
+Tomatoes,Kathonzweni,85.0,100.0,14000.0,Makueni,2024-05-07,5
+Tomatoes,Nakuru Wakulima,100.0,,4000.0,Nakuru,2024-05-07,5
+Tomatoes,Isebania Market,,50.0,1400.0,Migori,2024-05-07,5
+Tomatoes,Kamukuywa,120.0,130.0,3000.0,Bungoma,2024-05-07,5
+Tomatoes,Kitale Municipality Market,100.0,118.75,20000.0,Trans-Nzoia,2024-05-07,5
+Tomatoes,Kapkwen,125.0,100.0,16000.0,Bomet,2024-05-07,5
+Tomatoes,Molo,,100.0,1300.0,Nakuru,2024-05-07,5
+Tomatoes,Nairobi Wakulima,40.0,100.0,4000.0,Nairobi,2024-05-07,5
+Tomatoes,Gikomba,,60.0,4000.0,Nairobi,2024-05-07,5
+Tomatoes,Nkubu,10.0,70.0,2000.0,Meru,2024-05-07,5
+Tomatoes,Kawangware,80.0,150.0,4000.0,Nairobi,2024-05-07,5
+Tomatoes,Bondeni,80.0,120.0,3000.0,Trans-Nzoia,2024-05-07,5
+Tomatoes,Ngurubani Market,50.0,65.0,1500.0,Kirinyaga,2024-05-07,5
+Tomatoes,Kapsabet Market,85.71,150.0,20000.0,Nandi,2024-05-07,5
+Tomatoes,Nakuru Wakulima,100.0,,4000.0,Nakuru,2024-05-08,5
+Tomatoes,Kabati - Muranga,50.0,70.0,4000.0,Muranga,2024-05-08,5
+Tomatoes,Rongo,66.67,60.1,48000.0,Migori,2024-05-08,5
+Tomatoes,Malindi Old Market,70.0,90.0,40.0,Kilifi,2024-05-08,5
+Tomatoes,Gongoni,76.0,100.0,10000.0,Kilifi,2024-05-08,5
+Tomatoes,Miruka,93.75,150.0,8064.0,Nyamira,2024-05-08,5
+Tomatoes,Charo wa Mae,83.33,100.0,1620.0,Kilifi,2024-05-08,5
+Tomatoes,Chepterit Market - Nandi,70.0,80.0,1000.0,Nandi,2024-05-08,5
+Tomatoes,Mukuyu Market,,80.0,4000.0,Muranga,2024-05-08,5
+Tomatoes,Kawangware,80.0,150.0,4000.0,Nairobi,2024-05-08,5
+Tomatoes,Diani Market,70.0,120.0,3500.0,Kwale,2024-05-08,5
+Tomatoes,Makutano Kirinyaga,40.0,60.0,2000.0,Kirinyaga,2024-05-08,5
+Tomatoes,Nairobi Wakulima,60.0,100.0,4000.0,Nairobi,2024-05-08,5
+Tomatoes,Kinango,88.89,120.0,6000.0,Kwale,2024-05-09,5
+Tomatoes,Molo,,100.0,1500.0,Nakuru,2024-05-09,5
+Tomatoes,Mabera,58.82,104.17,3000.0,Migori,2024-05-09,5
+Tomatoes,Kangemi Market,80.0,120.0,4000.0,Nairobi,2024-05-09,5
+Tomatoes,Kawangware,80.0,150.0,4000.0,Nairobi,2024-05-09,5
+Tomatoes,Nairobi Wakulima,45.0,120.0,4000.0,Nairobi,2024-05-09,5
+Tomatoes,Gikomba,,60.0,4000.0,Nairobi,2024-05-09,5
+Tomatoes,Gongoni,76.0,100.0,9000.0,Kilifi,2024-05-09,5
+Tomatoes,Diani Market,70.0,120.0,3000.0,Kwale,2024-05-09,5
+Tomatoes,Bungoma town,200.0,242.86,4800.0,Bungoma,2024-05-10,5
+Tomatoes,Voi Wholesale,80.0,,3750.0,Taita-Taveta,2024-05-10,5
+Tomatoes,Voi Wholesale,80.0,,3750.0,Taita-Taveta,2024-05-10,5
+Tomatoes,Voi Wholesale,80.0,,2250.0,Taita-Taveta,2024-05-10,5
+Tomatoes,Kawangware,80.0,150.0,4000.0,Nairobi,2024-05-10,5
+Tomatoes,Ngurubani Market,40.0,60.0,1500.0,Kirinyaga,2024-05-10,5
+Tomatoes,Makutano Kirinyaga,40.0,60.0,1800.0,Kirinyaga,2024-05-10,5
+Tomatoes,Kirwara Market,,71.43,1700.0,Muranga,2024-05-10,5
+Tomatoes,Mukuyu Market,50.0,70.0,4000.0,Muranga,2024-05-11,5
+Tomatoes,Diani Market,70.0,120.0,3000.0,Kwale,2024-05-11,5
+Tomatoes,Kawangware,80.0,150.0,4000.0,Nairobi,2024-05-11,5
+Tomatoes,Kagio,40.63,50.0,34000.0,Kirinyaga,2024-05-11,5
+Tomatoes,Kapsabet Market,100.0,120.0,10000.0,Nandi,2024-05-11,5
+Tomatoes,Isebania Market,,73.17,1100.0,Migori,2024-05-11,5
+Tomatoes,Mwatate,65.0,70.0,4000.0,Taita-Taveta,2024-05-12,5
+Tomatoes,Kibiok,116.67,126.67,8000.0,Nandi,2024-05-12,5
+Tomatoes,Keroka,60.0,100.0,24200.0,Nyamira,2024-05-12,5
+Tomatoes,Rongo,66.67,340.14,48000.0,Migori,2024-05-12,5
+Tomatoes,Ikonge,120.0,150.0,3600.0,Nyamira,2024-05-12,5
+Tomatoes,Kibuye,,171.43,4000.0,Kisumu,2024-05-12,5
+Tomatoes,Kangemi Market,100.0,150.0,4000.0,Nairobi,2024-05-13,5
+Tomatoes,Gongoni,76.0,100.0,10000.0,Kilifi,2024-05-13,5
+Tomatoes,Kawangware,64.0,130.0,4000.0,Nairobi,2024-05-13,5
+Tomatoes,Gakoromone,50.0,70.0,2000.0,Meru,2024-05-13,5
+Tomatoes,Gikomba,,80.0,4000.0,Nairobi,2024-05-13,5
+Tomatoes,Nairobi Wakulima,50.0,120.0,4000.0,Nairobi,2024-05-13,5
+Tomatoes,Diani Market,70.0,120.0,4000.0,Kwale,2024-05-13,5
+Tomatoes,Charo wa Mae,100.0,120.0,1260.0,Kilifi,2024-05-13,5
+Tomatoes,Nakuru Wakulima,100.0,,4000.0,Nakuru,2024-05-13,5
+Tomatoes,Ahero,150.0,180.0,6000.0,Kisumu,2024-05-13,5
+Tomatoes,Nakuru Wakulima,100.0,,4000.0,Nakuru,2024-05-14,5
+Tomatoes,Gikomba,,60.0,4000.0,Nairobi,2024-05-14,5
+Tomatoes,Kathonzweni,85.0,120.0,16000.0,Makueni,2024-05-14,5
+Tomatoes,Nkubu,16.0,90.0,300.0,Meru,2024-05-14,5
+Tomatoes,Ngurubani Market,50.0,70.0,1200.0,Kirinyaga,2024-05-14,5
+Tomatoes,Charo wa Mae,100.0,120.0,1120.0,Kilifi,2024-05-14,5
+Tomatoes,Kapkwen,75.0,80.0,16800.0,Bomet,2024-05-14,5
+Tomatoes,Kirwara Market,,693.08,1700.0,Muranga,2024-05-14,5
+Tomatoes,Nairobi Wakulima,80.0,150.0,4000.0,Nairobi,2024-05-14,5
+Tomatoes,Chuka,60.0,80.0,2500.0,Tharaka-Nithi,2024-05-14,5
+Tomatoes,Malindi Old Market,80.0,100.0,45.0,Kilifi,2024-05-14,5
+Tomatoes,Mariakani,90.0,130.0,4000.0,Kilifi,2024-05-14,5
+Tomatoes,Kangemi Market,100.0,150.0,4000.0,Nairobi,2024-05-14,5
+Tomatoes,Kawangware,64.0,130.0,4000.0,Nairobi,2024-05-14,5
+Tomatoes,Gongoni,76.0,100.0,7000.0,Kilifi,2024-05-14,5
+Tomatoes,Voi Wholesale,46.67,,2000.0,Taita-Taveta,2024-05-14,5
+Tomatoes,Kapsabet Market,100.0,120.0,2000.0,Nandi,2024-05-14,5
+Tomatoes,Voi Wholesale,46.67,,4500.0,Taita-Taveta,2024-05-14,5
+Tomatoes,Gongoni,76.0,120.0,9000.0,Kilifi,2024-05-15,5
+Tomatoes,Isebania Market,,111.11,1000.0,Migori,2024-05-20,5
+Tomatoes,Kagio,34.38,43.75,22000.0,Kirinyaga,2024-05-20,5
+Tomatoes,Kisasi,40.0,50.0,4000.0,Kitui,2024-05-20,5
+Tomatoes,Bondeni,90.0,110.0,2500.0,Trans-Nzoia,2024-05-21,5
+Tomatoes,Kabati - Muranga,50.0,80.0,4000.0,Muranga,2024-05-21,5
+Tomatoes,Kerugoya,50.0,80.0,1000.0,Kirinyaga,2024-05-21,5
+Tomatoes,Nkubu,12.0,70.0,4000.0,Meru,2024-05-21,5
+Tomatoes,Eldoret Main,116.67,133.33,5000.0,Uasin-Gishu,2024-05-21,5
+Tomatoes,Kapsabet Market,100.0,120.0,10000.0,Nandi,2024-05-21,5
+Tomatoes,Maua,40.0,60.0,13000.0,Meru,2024-05-21,5
+Tomatoes,Kitale Municipality Market,90.0,120.0,20000.0,Trans-Nzoia,2024-05-21,5
+Tomatoes,Kawangware,91.66,120.0,4000.0,Nairobi,2024-05-21,5
+Tomatoes,Chuka,80.0,80.0,5000.0,Tharaka-Nithi,2024-05-21,5
+Tomatoes,Gongoni,76.0,120.0,10000.0,Kilifi,2024-05-21,5
+Tomatoes,Nairobi Wakulima,50.0,150.0,4000.0,Nairobi,2024-05-21,5
+Tomatoes,Mtwapa,76.92,200.0,3000.0,Kilifi,2024-05-21,5
+Tomatoes,Gikomba,70.0,100.0,4000.0,Nairobi,2024-05-21,5
+Tomatoes,Kathonzweni,80.0,100.0,8000.0,Makueni,2024-05-21,5
+Tomatoes,Mabera,,88.24,6000.0,Migori,2024-05-21,5
+Tomatoes,Ngurubani Market,40.0,120.0,2100.0,Kirinyaga,2024-05-22,5
+Tomatoes,Ol-Kalou,40.0,60.0,1000.0,Nyandarua,2024-05-22,5
+Tomatoes,Makutano Kirinyaga,40.0,60.0,2500.0,Kirinyaga,2024-05-22,5
+Tomatoes,Rongo,66.67,95.97,24000.0,Migori,2024-05-22,5
+Tomatoes,Chepterit Market - Nandi,90.0,100.0,500.0,Nandi,2024-05-22,5
+Tomatoes,Mariakani,93.33,130.0,4000.0,Kilifi,2024-05-22,5
+Tomatoes,Kabiyet Market,60.0,70.0,2000.0,Nandi,2024-05-22,5
+Tomatoes,Gikomba,70.0,100.0,4000.0,Nairobi,2024-05-22,5
+Tomatoes,Mtwapa,70.0,100.0,3200.0,Kilifi,2024-05-22,5
+Tomatoes,Gongoni,76.0,120.0,25000.0,Kilifi,2024-05-22,5
+Tomatoes,Kangeta,60.0,70.0,1300.0,Meru,2024-05-22,5
+Tomatoes,Diani Market,70.0,120.0,4500.0,Kwale,2024-05-22,5
+Tomatoes,Kawangware,91.33,120.0,4000.0,Nairobi,2024-05-22,5
+Tomatoes,Kangemi Market,45.0,80.0,4000.0,Nairobi,2024-05-22,5
+Tomatoes,Nairobi Wakulima,50.0,150.0,4000.0,Nairobi,2024-05-22,5
+Tomatoes,Nairobi Wakulima,33.33,150.0,4000.0,Nairobi,2024-05-23,5
+Tomatoes,Kitale Municipality Market,111.76,129.41,30000.0,Trans-Nzoia,2024-05-23,5
+Tomatoes,Kagio,43.75,50.0,18000.0,Kirinyaga,2024-05-23,5
+Tomatoes,Keroka,65.0,100.0,25400.0,Nyamira,2024-05-23,5
+Tomatoes,Mogogosiek Market,58.82,70.0,400.0,Bomet,2024-05-23,5
+Tomatoes,Karatina,70.0,85.0,4000.0,Nyeri,2024-05-23,5
+Tomatoes,Gikomba,70.0,100.0,4000.0,Nairobi,2024-05-23,5
+Tomatoes,Kawangware,91.66,120.0,4000.0,Nairobi,2024-05-23,5
+Tomatoes,Kinango,77.78,100.0,7000.0,Kwale,2024-05-23,5
+Tomatoes,Kutus,50.0,60.0,2400.0,Kirinyaga,2024-05-23,5
+Tomatoes,Gongoni,76.0,120.0,12000.0,Kilifi,2024-05-23,5
+Tomatoes,Kawangware,91.66,120.0,4000.0,Nairobi,2024-05-23,5
+Tomatoes,Isebania Market,,75.0,1200.0,Migori,2024-05-23,5
+Tomatoes,Mtwapa,70.0,100.0,3600.0,Kilifi,2024-05-23,5
+Tomatoes,Diani Market,65.0,90.0,4500.0,Kwale,2024-05-23,5
+Tomatoes,Kiria-ini Market,100.0,100.0,700.0,Muranga,2024-05-24,5
+Tomatoes,Marindi,70.31,106.38,30000.0,Migori,2024-05-24,5
+Tomatoes,Kitale Municipality Market,105.88,12.94,20000.0,Trans-Nzoia,2024-05-24,5
+Tomatoes,Kisasi,25.0,40.0,4000.0,Kitui,2024-05-24,5
+Tomatoes,Sikhendu,120.0,160.0,580.0,Trans-Nzoia,2024-05-24,5
+Tomatoes,Soko Mjinga Wajir,70.0,100.0,3000.0,Wajir,2024-05-24,5
+Tomatoes,Gikomba,70.0,100.0,4000.0,Nairobi,2024-05-24,5
+Tomatoes,Ndanai,64.0,100.0,14400.0,Bomet,2024-05-24,5
+Tomatoes,Nairobi Wakulima,50.0,150.0,4000.0,Nairobi,2024-05-24,5
+Tomatoes,Diani Market,70.0,110.0,3500.0,Kwale,2024-05-24,5
+Tomatoes,Makutano Kirinyaga,40.0,60.0,2500.0,Kirinyaga,2024-05-24,5
+Tomatoes,Kawangware,91.66,120.0,4000.0,Nairobi,2024-05-24,5
+Tomatoes,Chuka,80.0,80.0,5000.0,Tharaka-Nithi,2024-05-24,5
+Tomatoes,Gongoni,76.0,120.0,7500.0,Kilifi,2024-05-24,5
+Tomatoes,Mtwapa,70.0,100.0,2500.0,Kilifi,2024-05-24,5
+Tomatoes,Gakoromone,60.0,70.0,1500.0,Meru,2024-05-24,5
+Tomatoes,Mwatate,70.0,80.0,2500.0,Taita-Taveta,2024-05-25,5
+Tomatoes,Mwatate,70.0,80.0,2500.0,Taita-Taveta,2024-05-25,5
+Tomatoes,Samburu,19.44,30.0,18000.0,Kwale,2024-05-25,5
+Tomatoes,Isebania Market,,50.0,1500.0,Migori,2024-05-25,5
+Tomatoes,Nairobi Wakulima,41.67,150.0,4000.0,Nairobi,2024-05-25,5
+Tomatoes,Kapsabet Market,100.0,120.0,10000.0,Nandi,2024-05-25,5
+Tomatoes,Diani Market,65.0,90.0,3500.0,Kwale,2024-05-25,5
+Tomatoes,Serem - Vihiga,,100.0,4000.0,Vihiga,2024-05-25,5
+Tomatoes,Kawangware,60.0,80.0,4000.0,Nairobi,2024-05-26,5
+Tomatoes,Kibiok,100.0,120.0,12000.0,Nandi,2024-05-26,5
+Tomatoes,Kibuye,114.29,100.0,4000.0,Kisumu,2024-05-26,5
+Tomatoes,Charo wa Mae,0.77,100.0,1170.0,Kilifi,2024-05-27,5
+Tomatoes,Kiria-ini Market,100.0,100.0,700.0,Muranga,2024-05-27,5
+Tomatoes,Ahero,180.0,200.0,5000.0,Kisumu,2024-05-27,5
+Tomatoes,Kitale Municipality Market,105.88,12.94,30000.0,Trans-Nzoia,2024-05-27,5
+Tomatoes,Nairobi Wakulima,60.0,150.0,4000.0,Nairobi,2024-05-27,5
+Tomatoes,Mariakani,93.33,150.0,4000.0,Kilifi,2024-05-27,5
+Tomatoes,Mtwapa,45.0,100.0,280.0,Kilifi,2024-05-27,5
+Tomatoes,Diani Market,60.0,90.0,3500.0,Kwale,2024-05-27,5
+Tomatoes,Kutus,60.0,70.0,2900.0,Kirinyaga,2024-05-27,5
+Tomatoes,Chebunyo,57.5,67.5,8000.0,Bomet,2024-05-27,5
+Tomatoes,Kawangware,60.0,80.0,4000.0,Nairobi,2024-05-27,5
+Tomatoes,Gongoni,76.0,120.0,7500.0,Kilifi,2024-05-27,5
+Tomatoes,Eldoret Main,70.0,100.0,5000.0,Uasin-Gishu,2024-05-27,5
+Tomatoes,Isebania Market,,75.0,1500.0,Migori,2024-05-28,5
+Tomatoes,Kerugoya,1500.0,80.0,1200.0,Kirinyaga,2024-05-28,5
+Tomatoes,Kapsabet Market,100.0,120.0,10000.0,Nandi,2024-05-28,5
+Tomatoes,Kapkwen,75.0,100.0,32000.0,Bomet,2024-05-28,5
+Tomatoes,Diani Market,65.0,90.0,2000.0,Kwale,2024-05-28,5
+Tomatoes,Nairobi Wakulima,80.0,150.0,4000.0,Nairobi,2024-05-28,5
+Tomatoes,Kathonzweni,60.0,80.0,21000.0,Makueni,2024-05-28,5
+Tomatoes,Nkubu,14.0,80.0,4000.0,Meru,2024-05-28,5
+Tomatoes,Kirwara Market,,76.92,3000.0,Muranga,2024-05-28,5
+Tomatoes,Tawa,65.0,70.0,4000.0,Makueni,2024-05-28,5
+Tomatoes,Kawangware,80.0,150.0,4000.0,Nairobi,2024-05-28,5
+Tomatoes,Gikomba,46.15,70.0,4000.0,Nairobi,2024-05-28,5
+Tomatoes,Eldoret Main,75.0,100.0,5000.0,Uasin-Gishu,2024-05-28,5
+Tomatoes,Bondeni,80.0,100.0,2500.0,Trans-Nzoia,2024-05-28,5
+Tomatoes,Voi Wholesale,71.43,,3500.0,Taita-Taveta,2024-05-28,5
+Tomatoes,Ngurubani Market,85.0,100.0,1200.0,Kirinyaga,2024-05-28,5
+Tomatoes,Wundanyi,,80.0,2000.0,Taita-Taveta,2024-05-28,5
+Tomatoes,Gongoni,76.0,120.0,4000.0,Kilifi,2024-05-28,5
+Tomatoes,Charo wa Mae,61.11,80.0,1170.0,Kilifi,2024-05-28,5
+Tomatoes,Kangemi Market,,150.0,4000.0,Nairobi,2024-05-28,5
+Tomatoes,Voi Wholesale,71.43,,2500.0,Taita-Taveta,2024-05-28,5
+Tomatoes,Rongo,51.67,153.85,48000.0,Migori,2024-05-29,5
+Tomatoes,Marindi,70.31,131.93,30800.0,Migori,2024-05-29,5
+Tomatoes,Kabiyet Market,0.03,0.02,2000.0,Nandi,2024-05-29,5
+Tomatoes,Kitale Municipality Market,105.88,129.41,10000.0,Trans-Nzoia,2024-05-29,5
+Tomatoes,Mwingi Town,101.56,120.0,4000.0,Kitui,2024-05-29,5
+Tomatoes,Mariakani,86.67,120.0,4000.0,Kilifi,2024-05-29,5
+Tomatoes,Mukuyu Market,130.0,150.0,4000.0,Muranga,2024-05-29,5
+Tomatoes,Nairobi Wakulima,50.0,120.0,4000.0,Nairobi,2024-05-29,5
+Tomatoes,Charo wa Mae,57.14,100.0,1960.0,Kilifi,2024-05-29,5
+Tomatoes,Kangeta,60.0,70.0,1400.0,Meru,2024-05-29,5
+Tomatoes,Gongoni,76.0,100.0,5000.0,Kilifi,2024-05-29,5
+Tomatoes,Kawangware,80.0,150.0,4000.0,Nairobi,2024-05-29,5
+Tomatoes,Makutano Kirinyaga,60.0,75.0,1500.0,Kirinyaga,2024-05-29,5
+Tomatoes,Cheptulu,,115.38,4100.0,Vihiga,2024-05-29,5
+Tomatoes,Kabati - Muranga,50.0,70.0,4000.0,Muranga,2024-05-30,5
+Tomatoes,Kinango,77.78,120.0,7500.0,Kwale,2024-05-30,5
+Tomatoes,Mogogosiek Market,73.53,80.0,1200.0,Bomet,2024-05-30,5
+Tomatoes,Nairobi Wakulima,50.0,150.0,4000.0,Nairobi,2024-05-30,5
+Tomatoes,Maua,60.0,80.0,16000.0,Meru,2024-05-30,5
+Tomatoes,Charo wa Mae,61.11,80.0,630.0,Kilifi,2024-05-30,5
+Tomatoes,Mtwapa,76.92,200.0,600.0,Kilifi,2024-05-30,5
+Tomatoes,Kangemi Market,70.0,120.0,4000.0,Nairobi,2024-05-30,5
+Tomatoes,Diani Market,75.0,120.0,3000.0,Kwale,2024-05-30,5
+Tomatoes,Kawangware,80.0,150.0,4000.0,Nairobi,2024-05-30,5
+Tomatoes,Gongoni,76.0,100.0,9000.0,Kilifi,2024-05-30,5
+Tomatoes,Lungalunga,150.0,200.0,8000.0,Kwale,2024-05-31,5
+Tomatoes,Cheptulu,,100.0,4500.0,Vihiga,2024-05-31,5
+Tomatoes,Gikomba,46.15,80.0,4000.0,Nairobi,2024-05-31,5
+Tomatoes,Nairobi Wakulima,60.0,150.0,4000.0,Nairobi,2024-05-31,5
+Tomatoes,Ndanai,80.0,100.0,8400.0,Bomet,2024-05-31,5
+Tomatoes,Gongoni,76.0,120.0,6000.0,Kilifi,2024-05-31,5
+Tomatoes,Kawangware,80.0,150.0,4000.0,Nairobi,2024-05-31,5
+Tomatoes,Chepterit Market - Nandi,65.0,75.0,210.0,Nandi,2024-05-31,5
+Tomatoes,Ngurubani Market,35.0,50.0,1500.0,Kirinyaga,2024-05-31,5
+Tomatoes,Sikhendu,120.0,150.0,1151.0,Trans-Nzoia,2024-05-31,5
+Tomatoes,Mariakani,86.67,120.0,4000.0,Kilifi,2024-05-31,5
+Tomatoes,Kawangware,80.0,150.0,4000.0,Nairobi,2024-06-01,6
+Tomatoes,Diani Market,60.0,90.0,2500.0,Kwale,2024-06-01,6
+Tomatoes,Mukuyu Market,50.0,80.0,4000.0,Muranga,2024-06-01,6
+Tomatoes,Mukuyu Market,50.0,80.0,4000.0,Muranga,2024-06-01,6
+Tomatoes,Kapsabet Market,100.0,150.0,5000.0,Nandi,2024-06-01,6
+Tomatoes,Molo,,80.0,1800.0,Nakuru,2024-06-01,6
+Tomatoes,Samburu,18.06,40.0,18000.0,Kwale,2024-06-01,6
+Tomatoes,Kibuye,114.29,,4000.0,Kisumu,2024-06-02,6
+Tomatoes,Rongo,60.0,48.08,36000.0,Migori,2024-06-02,6
+Tomatoes,Kawangware,80.0,150.0,4000.0,Nairobi,2024-06-02,6
+Tomatoes,Mabera,94.12,75.0,500.0,Migori,2024-06-02,6
+Tomatoes,Chwele,92.31,90.0,5200.0,Bungoma,2024-06-03,6
+Tomatoes,Cheptulu,,83.33,1500.0,Vihiga,2024-06-03,6
+Tomatoes,Gakoromone,50.0,60.0,3000.0,Meru,2024-06-03,6
+Tomatoes,Charo wa Mae,71.43,100.0,980.0,Kilifi,2024-06-03,6
+Tomatoes,Nairobi Wakulima,50.0,120.0,4000.0,Nairobi,2024-06-03,6
+Tomatoes,Molo,,100.0,1500.0,Nakuru,2024-06-03,6
+Tomatoes,Kutus,60.0,70.0,2600.0,Kirinyaga,2024-06-03,6
+Tomatoes,Gongoni,76.0,100.0,10000.0,Kilifi,2024-06-03,6
+Tomatoes,Kangemi Market,65.0,100.0,4000.0,Nairobi,2024-06-03,6
+Tomatoes,Kawangware,80.0,150.0,4000.0,Nairobi,2024-06-03,6
+Tomatoes,Gikomba,68.0,100.0,4000.0,Nairobi,2024-06-03,6
+Tomatoes,Mtwapa,42.31,100.0,360.0,Kilifi,2024-06-03,6
+Tomatoes,Bondeni,80.0,100.0,3000.0,Trans-Nzoia,2024-06-04,6
+Tomatoes,Ngurubani Market,30.0,40.0,1800.0,Kirinyaga,2024-06-04,6
+Tomatoes,Ngurubani Market,30.0,80.0,1800.0,Kirinyaga,2024-06-04,6
+Tomatoes,Kitale Municipality Market,82.35,94.12,20000.0,Trans-Nzoia,2024-06-04,6
+Tomatoes,Kerugoya,50.0,80.0,1200.0,Kirinyaga,2024-06-04,6
+Tomatoes,Kapsabet Market,100.0,120.0,5000.0,Nandi,2024-06-04,6
+Tomatoes,Cheptulu,,83.33,4000.0,Vihiga,2024-06-04,6
+Tomatoes,Kitale Municipality Market,68.75,81.25,10000.0,Trans-Nzoia,2024-06-04,6
+Tomatoes,Molo,,100.0,1300.0,Nakuru,2024-06-04,6
+Tomatoes,Kirwara Market,,83.33,2300.0,Muranga,2024-06-04,6
+Tomatoes,Diani Market,70.0,120.0,2500.0,Kwale,2024-06-04,6
+Tomatoes,Nairobi Wakulima,50.0,150.0,4000.0,Nairobi,2024-06-04,6
+Tomatoes,Maua,50.0,70.0,16000.0,Meru,2024-06-04,6
+Tomatoes,Wundanyi,,80.0,1.0,Taita-Taveta,2024-06-04,6
+Tomatoes,Nkubu,10.0,60.0,4000.0,Meru,2024-06-04,6
+Tomatoes,Chuka,80.0,80.0,5000.0,Tharaka-Nithi,2024-06-04,6
+Tomatoes,Charo wa Mae,56.0,100.0,1000.0,Kilifi,2024-06-04,6
+Tomatoes,Kawangware,80.0,150.0,4000.0,Nairobi,2024-06-04,6
+Tomatoes,Gongoni,76.0,100.0,3600.0,Kilifi,2024-06-04,6
+Tomatoes,Kangemi Market,,80.0,4000.0,Nairobi,2024-06-04,6
+Tomatoes,Kathonzweni,70.0,80.0,10000.0,Makueni,2024-06-04,6
+Tomatoes,Makutano Kirinyaga,35.0,50.0,2000.0,Kirinyaga,2024-06-05,6
+Tomatoes,Mwatate,50.0,60.0,4000.0,Taita-Taveta,2024-06-05,6
+Tomatoes,Rongo,60.0,53.65,48000.0,Migori,2024-06-05,6
+Tomatoes,Akala,55.56,71.43,1000.0,Siaya,2024-06-05,6
+Tomatoes,Charo wa Mae,78.57,100.0,1260.0,Kilifi,2024-06-05,6
+Tomatoes,Molo,,100.0,1100.0,Nakuru,2024-06-05,6
+Tomatoes,Kitale Municipality Market,82.35,94.12,30000.0,Trans-Nzoia,2024-06-05,6
+Tomatoes,Nairobi Wakulima,60.0,150.0,4000.0,Nairobi,2024-06-05,6
+Tomatoes,Diani Market,65.0,100.0,4500.0,Kwale,2024-06-05,6
+Tomatoes,Kangeta,50.0,60.0,1350.0,Meru,2024-06-05,6
+Tomatoes,Kimumu - Bahati,38.33,50.0,40000.0,Uasin-Gishu,2024-06-05,6
+Tomatoes,Kawangware,80.0,150.0,4000.0,Nairobi,2024-06-05,6
+Tomatoes,Mukuyu Market,,80.0,4000.0,Muranga,2024-06-05,6
+Tomatoes,Gongoni,76.0,100.0,35000.0,Kilifi,2024-06-05,6
+Tomatoes,Chepterit Market - Nandi,40.0,57.5,1500.0,Nandi,2024-06-05,6
+Tomatoes,Kabiyet Market,64.0,70.0,2000.0,Nandi,2024-06-06,6
+Tomatoes,Mogogosiek Market,80.0,100.0,34.0,Bomet,2024-06-06,6
+Tomatoes,Charo wa Mae,62.22,100.0,630.0,Kilifi,2024-06-06,6
+Tomatoes,Molo,,100.0,1700.0,Nakuru,2024-06-06,6
+Tomatoes,Nairobi Wakulima,60.0,150.0,4000.0,Nairobi,2024-06-06,6
+Tomatoes,Kimilili town,100.0,118.18,10000.0,Bungoma,2024-06-06,6
+Tomatoes,Mtwapa,42.31,100.0,260.0,Kilifi,2024-06-06,6
+Tomatoes,Kinango,66.67,90.0,6000.0,Kwale,2024-06-06,6
+Tomatoes,Gakoromone,60.0,80.0,2000.0,Meru,2024-06-07,6
+Tomatoes,Lungalunga,80.0,150.0,5000.0,Kwale,2024-06-07,6
+Tomatoes,Voi Wholesale,50.0,,3500.0,Taita-Taveta,2024-06-07,6
+Tomatoes,Voi Wholesale,53.57,,4000.0,Taita-Taveta,2024-06-07,6
+Tomatoes,Charo wa Mae,64.29,100.0,980.0,Kilifi,2024-06-07,6
+Tomatoes,Sikhendu,80.0,100.0,818.0,Trans-Nzoia,2024-06-07,6
+Tomatoes,Nairobi Wakulima,60.0,150.0,4000.0,Nairobi,2024-06-07,6
+Tomatoes,Sibanga,70.0,83.33,8800.0,Trans-Nzoia,2024-06-07,6
+Tomatoes,Kerugoya,50.0,80.0,1200.0,Kirinyaga,2024-06-07,6
+Tomatoes,Chuka,70.0,70.0,5000.0,Tharaka-Nithi,2024-06-07,6
+Tomatoes,Ngurubani Market,30.0,40.0,2300.0,Kirinyaga,2024-06-07,6
+Tomatoes,Mtwapa,45.0,100.0,1000.0,Kilifi,2024-06-07,6
+Tomatoes,Gongoni,70.0,100.0,14000.0,Kilifi,2024-06-07,6
+Tomatoes,Kawangware,80.0,160.0,4000.0,Nairobi,2024-06-07,6
+Tomatoes,Makutano Kirinyaga,35.0,50.0,2200.0,Kirinyaga,2024-06-07,6
+Tomatoes,Diani Market,65.0,100.0,3500.0,Kwale,2024-06-07,6
+Tomatoes,Akala,55.56,71.43,1000.0,Siaya,2024-06-08,6
+Tomatoes,Mukuyu Market,50.0,70.0,4000.0,Muranga,2024-06-08,6
+Tomatoes,Mulot,58.82,100.0,1200.0,Bomet,2024-06-08,6
+Tomatoes,Molo,,100.0,1500.0,Nakuru,2024-06-08,6
+Tomatoes,Kawangware,80.0,160.0,4000.0,Nairobi,2024-06-08,6
+Tomatoes,Kapsabet Market,120.0,120.0,5000.0,Nandi,2024-06-08,6
+Tomatoes,Kawangware,80.0,160.0,4000.0,Nairobi,2024-06-09,6
+Tomatoes,Kibuye,107.14,,4000.0,Kisumu,2024-06-09,6
+Tomatoes,Kibiok,100.0,116.67,10000.0,Nandi,2024-06-09,6
+Tomatoes,Mariakani,80.0,120.0,4000.0,Kilifi,2024-06-10,6
+Tomatoes,Kitale Municipality Market,76.47,88.24,40000.0,Trans-Nzoia,2024-06-10,6
+Tomatoes,Nairobi Wakulima,80.0,110.0,4000.0,Nairobi,2024-06-10,6
+Tomatoes,Kisasi,27.0,45.0,4000.0,Kitui,2024-06-10,6
+Tomatoes,Molo,,100.0,1200.0,Nakuru,2024-06-10,6
+Tomatoes,Mtwapa,92.31,200.0,3380.0,Kilifi,2024-06-10,6
+Tomatoes,Kawangware,80.0,160.0,4000.0,Nairobi,2024-06-10,6
+Tomatoes,Mabera,82.35,75.0,3500.0,Migori,2024-06-10,6
+Tomatoes,Charo wa Mae,71.43,100.0,1820.0,Kilifi,2024-06-10,6
+Tomatoes,Kerugoya,50.0,80.0,1200.0,Kirinyaga,2024-06-11,6
+Tomatoes,Maua,50.0,70.0,14000.0,Meru,2024-06-11,6
+Tomatoes,Maua,500.0,600.0,600.0,Meru,2024-06-11,6
+Tomatoes,Kitale Municipality Market,82.35,94.12,10000.0,Trans-Nzoia,2024-06-11,6
+Tomatoes,Cheptulu,,83.33,4500.0,Vihiga,2024-06-11,6
+Tomatoes,Charo wa Mae,50.0,100.0,1000.0,Kilifi,2024-06-11,6
+Tomatoes,Kirwara Market,,90.91,1300.0,Muranga,2024-06-11,6
+Tomatoes,Nkubu,12.0,70.0,4000.0,Meru,2024-06-11,6
+Tomatoes,Gikomba,,100.0,4000.0,Nairobi,2024-06-11,6
+Tomatoes,Gongoni,50.0,120.0,3500.0,Kilifi,2024-06-11,6
+Tomatoes,Kimumu - Bahati,50.0,150.0,4700.0,Uasin-Gishu,2024-06-11,6
+Tomatoes,Kapkwen,116.67,100.0,9000.0,Bomet,2024-06-11,6
+Tomatoes,Kawangware,80.0,160.0,4000.0,Nairobi,2024-06-11,6
+Tomatoes,Ngurubani Market,40.0,50.0,2000.0,Kirinyaga,2024-06-11,6
+Tomatoes,Kapsabet Market,100.0,120.0,5000.0,Nandi,2024-06-11,6
+Tomatoes,Akala,55.56,71.43,7500.0,Siaya,2024-06-12,6
+Tomatoes,Makutano Kirinyaga,40.0,60.0,2500.0,Kirinyaga,2024-06-12,6
+Tomatoes,Kibuye,107.14,120.0,4000.0,Kisumu,2024-06-12,6
+Tomatoes,Mulot,62.5,100.0,2500.0,Bomet,2024-06-12,6
+Tomatoes,Mariakani,86.67,120.0,4000.0,Kilifi,2024-06-12,6
+Tomatoes,Rongo,91.67,403.23,48000.0,Migori,2024-06-12,6
+Tomatoes,Chepterit Market - Nandi,50.0,60.0,3600.0,Nandi,2024-06-12,6
+Tomatoes,Molo,,100.0,1700.0,Nakuru,2024-06-12,6
+Tomatoes,Mwingi Town,54.69,100.0,6400.0,Kitui,2024-06-12,6
+Tomatoes,Charo wa Mae,57.14,100.0,1680.0,Kilifi,2024-06-12,6
+Tomatoes,Gongoni,50.0,100.0,3500.0,Kilifi,2024-06-12,6
+Tomatoes,Diani Market,70.0,120.0,3500.0,Kwale,2024-06-12,6
+Tomatoes,Kabiyet Market,66.0,70.0,1000.0,Nandi,2024-06-12,6
+Tomatoes,Kangeta,55.0,60.0,1600.0,Meru,2024-06-12,6
+Tomatoes,Kawangware,80.0,160.0,4000.0,Nairobi,2024-06-12,6
+Tomatoes,Kabati - Muranga,70.0,100.0,4000.0,Muranga,2024-06-12,6
+Tomatoes,Molo,,100.0,1200.0,Nakuru,2024-06-13,6
+Tomatoes,Kinango,77.78,100.0,6000.0,Kwale,2024-06-13,6
+Tomatoes,Mtwapa,92.31,100.0,3900.0,Kilifi,2024-06-13,6
+Tomatoes,Gongoni,84.0,120.0,3000.0,Kilifi,2024-06-13,6
+Tomatoes,Kawangware,80.0,160.0,4000.0,Nairobi,2024-06-13,6
+Tomatoes,Kutus,59.09,68.18,2100.0,Kirinyaga,2024-06-13,6
+Tomatoes,Kimumu - Bahati,50.0,150.0,14000.0,Uasin-Gishu,2024-06-14,6
+Tomatoes,Lungalunga,120.0,150.0,3000.0,Kwale,2024-06-14,6
+Tomatoes,Voi Wholesale,40.0,,2200.0,Taita-Taveta,2024-06-14,6
+Tomatoes,Ndanai,82.5,100.0,9800.0,Bomet,2024-06-14,6
+Tomatoes,Cheptulu,,83.33,4100.0,Vihiga,2024-06-14,6
+Tomatoes,Kisasi,30.0,45.0,4000.0,Kitui,2024-06-14,6
+Tomatoes,Voi Wholesale,40.0,,4000.0,Taita-Taveta,2024-06-14,6
+Tomatoes,Gikomba,,80.0,4000.0,Nairobi,2024-06-14,6
+Tomatoes,Charo wa Mae,66.67,100.0,1000.0,Kilifi,2024-06-14,6
+Tomatoes,Sikhendu,90.0,125.0,936.0,Trans-Nzoia,2024-06-14,6
+Tomatoes,Molo,,100.0,1300.0,Nakuru,2024-06-14,6
+Tomatoes,Mogogosiek Market,160.0,100.0,900.0,Bomet,2024-06-14,6
+Tomatoes,Kawangware,80.0,160.0,4000.0,Nairobi,2024-06-14,6
+Tomatoes,Wundanyi,50.0,60.0,1200.0,Taita-Taveta,2024-06-14,6
+Tomatoes,Nairobi Wakulima,80.0,,4000.0,Nairobi,2024-06-14,6
+Tomatoes,Akala,55.56,71.43,5000.0,Siaya,2024-06-15,6
+Tomatoes,Molo,,100.0,1500.0,Nakuru,2024-06-15,6
+Tomatoes,Ngurubani Market,75.0,90.0,1200.0,Kirinyaga,2024-06-15,6
+Tomatoes,Mukuyu Market,50.0,70.0,4000.0,Muranga,2024-06-15,6
+Tomatoes,Makutano Kirinyaga,75.0,90.0,2100.0,Kirinyaga,2024-06-15,6
+Tomatoes,Kawangware,80.0,160.0,4000.0,Nairobi,2024-06-15,6
+Tomatoes,Kapsabet Market,100.0,120.0,5000.0,Nandi,2024-06-15,6
+Tomatoes,Kibuye,107.14,100.0,4000.0,Kisumu,2024-06-16,6
+Tomatoes,Katito,114.29,150.0,6500.0,Kisumu,2024-06-16,6
+Tomatoes,Kawangware,80.0,160.0,4000.0,Nairobi,2024-06-16,6
+Tomatoes,Rongo,75.0,60.9,48000.0,Migori,2024-06-16,6
+Tomatoes,Kibiok,100.0,116.67,12000.0,Nandi,2024-06-16,6
+Tomatoes,Isebania Market,,44.44,1000.0,Migori,2024-06-16,6
+Tomatoes,Kawangware,80.0,160.0,4000.0,Nairobi,2024-06-17,6
+Tomatoes,Kutus,46.15,61.54,2100.0,Kirinyaga,2024-06-17,6
+Tomatoes,Mwangulu,100.0,120.0,542.0,Kwale,2024-06-17,6
+Tomatoes,Kabati Kitui,100.0,150.0,3600.0,Kitui,2024-06-17,6
+Tomatoes,Bondeni,80.0,110.0,3000.0,Trans-Nzoia,2024-06-18,6
+Tomatoes,Nairobi Wakulima,50.0,120.0,4000.0,Nairobi,2024-06-18,6
+Tomatoes,Molo,,110.0,1500.0,Nakuru,2024-06-18,6
+Tomatoes,Cheptulu,,76.92,4000.0,Vihiga,2024-06-18,6
+Tomatoes,Gongoni,50.0,120.0,4550.0,Kilifi,2024-06-18,6
+Tomatoes,Nkubu,12.0,70.0,4000.0,Meru,2024-06-18,6
+Tomatoes,Charo wa Mae,72.86,100.0,1120.0,Kilifi,2024-06-18,6
+Tomatoes,Kapsabet Market,100.0,120.0,5000.0,Nandi,2024-06-18,6
+Tomatoes,Kabiyet Market,56.0,64.0,2500.0,Nandi,2024-06-18,6
+Tomatoes,Gikomba,61.54,100.0,4000.0,Nairobi,2024-06-18,6
+Tomatoes,Kawangware,85.0,160.0,4000.0,Nairobi,2024-06-18,6
+Tomatoes,Ngurubani Market,75.0,90.0,1500.0,Kirinyaga,2024-06-18,6
+Tomatoes,Kangemi Market,,80.0,4000.0,Nairobi,2024-06-18,6
+Tomatoes,Akala,55.56,71.43,1000.0,Siaya,2024-06-19,6
+Tomatoes,Makutano Kirinyaga,80.0,100.0,2000.0,Kirinyaga,2024-06-19,6
+Tomatoes,Charo wa Mae,78.57,100.0,1260.0,Kilifi,2024-06-19,6
+Tomatoes,Kerugoya,53.33,80.0,1200.0,Kirinyaga,2024-06-19,6
+Tomatoes,Mwingi Town,39.06,70.0,6400.0,Kitui,2024-06-19,6
+Tomatoes,Kitale Municipality Market,76.47,94.12,20000.0,Trans-Nzoia,2024-06-19,6
+Tomatoes,Gongoni,50.0,120.0,2500.0,Kilifi,2024-06-19,6
+Tomatoes,Kabati - Muranga,50.0,70.0,4000.0,Muranga,2024-06-19,6
+Tomatoes,Mtwapa,92.31,100.0,3380.0,Kilifi,2024-06-19,6
+Tomatoes,Gikomba,66.67,80.0,4000.0,Nairobi,2024-06-19,6
+Tomatoes,Molo,,110.0,950.0,Nakuru,2024-06-19,6
+Tomatoes,Mulot,33.33,100.0,1000.0,Bomet,2024-06-19,6
+Tomatoes,Kangeta,70.0,80.0,1000.0,Meru,2024-06-19,6
+Tomatoes,Kawangware,85.0,160.0,4000.0,Nairobi,2024-06-19,6
+Tomatoes,Nairobi Wakulima,60.0,120.0,4000.0,Nairobi,2024-06-19,6
+Tomatoes,Gongoni,84.0,100.0,2550.0,Kilifi,2024-06-20,6
+Tomatoes,Mogogosiek Market,100.0,150.0,800.0,Bomet,2024-06-20,6
+Tomatoes,Kinango,77.78,100.0,6000.0,Kwale,2024-06-20,6
+Tomatoes,Mariakani,83.33,120.0,4000.0,Kilifi,2024-06-20,6
+Tomatoes,Kitale Municipality Market,76.47,97.56,40000.0,Trans-Nzoia,2024-06-20,6
+Tomatoes,Kitale Municipality Market,76.47,97.56,40000.0,Trans-Nzoia,2024-06-20,6
+Tomatoes,Nairobi Wakulima,60.0,120.0,4000.0,Nairobi,2024-06-20,6
+Tomatoes,test market,83.33,109.09,1500.0,,2024-06-20,6
+Tomatoes,Sibanga,66.67,83.33,3850.0,Trans-Nzoia,2024-06-20,6
+Tomatoes,Charo wa Mae,85.71,100.0,1260.0,Kilifi,2024-06-20,6
+Tomatoes,test market,83.33,109.09,2250.0,,2024-06-20,6
+Tomatoes,test market,83.33,109.09,2250.0,,2024-06-20,6
+Tomatoes,test market,83.33,109.09,2250.0,,2024-06-20,6
+Tomatoes,test market,83.33,109.09,2250.0,,2024-06-20,6
+Tomatoes,Kawangware,85.0,150.0,4000.0,Nairobi,2024-06-20,6
+Tomatoes,Molo,,110.0,1800.0,Nakuru,2024-06-20,6
+Tomatoes,Rongo,75.0,106.16,30000.0,Migori,2024-06-21,6
+Tomatoes,Ngurubani Market,85.0,200.0,1200.0,Kirinyaga,2024-06-21,6
+Tomatoes,Cheptulu,,76.92,4600.0,Vihiga,2024-06-21,6
+Tomatoes,Ndanai,100.0,100.0,8400.0,Bomet,2024-06-21,6
+Tomatoes,Kerugoya,53.33,80.0,1200.0,Kirinyaga,2024-06-21,6
+Tomatoes,Chwele,100.0,85.0,5000.0,Bungoma,2024-06-21,6
+Tomatoes,Kisasi,25.0,45.0,4000.0,Kitui,2024-06-21,6
+Tomatoes,Voi Wholesale,57.69,,2000.0,Taita-Taveta,2024-06-21,6
+Tomatoes,Sikhendu,100.0,150.0,518.0,Trans-Nzoia,2024-06-21,6
+Tomatoes,Voi Wholesale,50.0,,5200.0,Taita-Taveta,2024-06-21,6
+Tomatoes,Gikomba,66.67,80.0,4000.0,Nairobi,2024-06-21,6
+Tomatoes,Nairobi Wakulima,60.0,150.0,4000.0,Nairobi,2024-06-21,6
+Tomatoes,Charo wa Mae,52.0,100.0,650.0,Kilifi,2024-06-21,6
+Tomatoes,Kawangware,85.0,180.0,4000.0,Nairobi,2024-06-21,6
+Tomatoes,Chuka,70.0,80.0,5000.0,Tharaka-Nithi,2024-06-21,6
+Tomatoes,Gongoni,56.0,120.0,2000.0,Kilifi,2024-06-21,6
+Tomatoes,Makutano Kirinyaga,90.0,100.0,2500.0,Kirinyaga,2024-06-22,6
+Tomatoes,Mukuyu Market,40.0,70.0,4000.0,Muranga,2024-06-22,6
+Tomatoes,Mukuyu Market,40.0,70.0,4000.0,Muranga,2024-06-22,6
+Tomatoes,Mukuyu Market,40.0,70.0,4000.0,Muranga,2024-06-22,6
+Tomatoes,Serem - Vihiga,80.0,100.0,3000.0,Vihiga,2024-06-22,6
+Tomatoes,Kapsabet Market,100.0,120.0,5000.0,Nandi,2024-06-22,6
+Tomatoes,Kawangware,85.0,180.0,4000.0,Nairobi,2024-06-22,6
+Tomatoes,Kibiok,126.67,133.33,12000.0,Nandi,2024-06-23,6
+Tomatoes,Kibuye,107.14,100.0,12600.0,Kisumu,2024-06-23,6
+Tomatoes,Kamukuywa,125.0,156.25,8000.0,Bungoma,2024-06-23,6
+Tomatoes,Nairobi Wakulima,54.17,150.0,4000.0,Nairobi,2024-06-24,6
+Tomatoes,Kitale Municipality Market,100.0,120.0,40000.0,Trans-Nzoia,2024-06-24,6
+Tomatoes,Kerugoya,50.0,80.0,1200.0,Kirinyaga,2024-06-24,6
+Tomatoes,Mwangulu,80.0,100.0,1200.0,Kwale,2024-06-24,6
+Tomatoes,Gikomba,66.67,80.0,4000.0,Nairobi,2024-06-24,6
+Tomatoes,Kutus,60.0,80.0,1980.0,Kirinyaga,2024-06-24,6
+Tomatoes,Chebunyo,65.0,100.0,11200.0,Bomet,2024-06-24,6
+Tomatoes,Kawangware,85.0,200.0,4000.0,Nairobi,2024-06-24,6
+Tomatoes,Kathonzweni,80.0,100.0,14000.0,Makueni,2024-06-25,6
+Tomatoes,Bondeni,80.0,100.0,2500.0,Trans-Nzoia,2024-06-25,6
+Tomatoes,Cheptulu,,90.91,3400.0,Vihiga,2024-06-25,6
+Tomatoes,Gongoni,84.0,100.0,3500.0,Kilifi,2024-06-25,6
+Tomatoes,Kapsabet Market,100.0,120.0,10000.0,Nandi,2024-06-25,6
+Tomatoes,Nkubu,10.0,60.0,4000.0,Meru,2024-06-25,6
+Tomatoes,Charo wa Mae,83.33,100.0,1800.0,Kilifi,2024-06-25,6
+Tomatoes,Ngurubani Market,75.0,90.0,1500.0,Kirinyaga,2024-06-25,6
+Tomatoes,Wundanyi,80.0,100.0,1500.0,Taita-Taveta,2024-06-25,6
+Tomatoes,Molo,,100.0,1100.0,Nakuru,2024-06-25,6
+Tomatoes,Nairobi Wakulima,60.0,120.0,4000.0,Nairobi,2024-06-25,6
+Tomatoes,Kawangware,125.0,200.0,4000.0,Nairobi,2024-06-25,6
+Tomatoes,Gikomba,,80.0,4000.0,Nairobi,2024-06-26,6
+Tomatoes,Kitale Municipality Market,80.0,100.0,40000.0,Trans-Nzoia,2024-06-26,6
+Tomatoes,Akala,55.56,71.43,1000.0,Siaya,2024-06-26,6
+Tomatoes,Serem - Vihiga,100.0,130.0,6000.0,Vihiga,2024-06-26,6
+Tomatoes,Mtwapa,85.0,130.0,360.0,Kilifi,2024-06-26,6
+Tomatoes,Mtwapa,85.0,130.0,360.0,Kilifi,2024-06-26,6
+Tomatoes,Kangeta,70.0,80.0,1400.0,Meru,2024-06-26,6
+Tomatoes,Kawangware,125.0,200.0,4000.0,Nairobi,2024-06-26,6
+Tomatoes,Makutano Kirinyaga,75.0,90.0,1500.0,Kirinyaga,2024-06-26,6
+Tomatoes,Makutano Kirinyaga,75.0,170.0,1500.0,Kirinyaga,2024-06-26,6
+Tomatoes,Molo,,100.0,1100.0,Nakuru,2024-06-26,6
+Tomatoes,Nairobi Wakulima,60.0,150.0,4000.0,Nairobi,2024-06-26,6
+Tomatoes,Soko Mjinga Wajir,42.0,100.0,1800.0,Wajir,2024-06-27,6
+Tomatoes,Kinango,66.67,90.0,6000.0,Kwale,2024-06-27,6
+Tomatoes,Maua,60.0,80.0,13000.0,Meru,2024-06-27,6
+Tomatoes,Kerugoya,50.0,80.0,1000.0,Kirinyaga,2024-06-27,6
+Tomatoes,Charo wa Mae,78.57,100.0,1960.0,Kilifi,2024-06-27,6
+Tomatoes,Kutus,70.0,80.0,2100.0,Kirinyaga,2024-06-27,6
+Tomatoes,Nairobi Wakulima,60.0,120.0,4000.0,Nairobi,2024-06-27,6
+Tomatoes,Kawangware,125.0,200.0,4000.0,Nairobi,2024-06-27,6
+Tomatoes,Molo,,100.0,1050.0,Nakuru,2024-06-27,6
+Tomatoes,Isebania Market,,50.0,2500.0,Migori,2024-06-27,6
+Tomatoes,Rongo,75.0,60.1,48000.0,Migori,2024-06-28,6
+Tomatoes,Molo,,100.0,1040.0,Nakuru,2024-06-28,6
+Tomatoes,Charo wa Mae,70.0,100.0,1000.0,Kilifi,2024-06-28,6
+Tomatoes,Nairobi Wakulima,80.0,110.0,4000.0,Nairobi,2024-06-28,6
+Tomatoes,Kangemi Market,,80.0,4000.0,Nairobi,2024-06-28,6
+Tomatoes,Ngurubani Market,55.0,70.0,1500.0,Kirinyaga,2024-06-28,6
+Tomatoes,Kabiyet Market,60.0,64.0,2500.0,Nandi,2024-06-28,6
+Tomatoes,Nairobi Wakulima,60.0,120.0,4000.0,Nairobi,2024-06-28,6
+Tomatoes,Mabera,,100.0,6000.0,Migori,2024-06-28,6
+Tomatoes,Kawangware,125.0,200.0,4000.0,Nairobi,2024-06-28,6
+Tomatoes,Makutano Kirinyaga,60.0,75.0,1800.0,Kirinyaga,2024-06-28,6
+Tomatoes,Wundanyi,,80.0,2000.0,Taita-Taveta,2024-06-28,6
+Tomatoes,Gikomba,66.67,100.0,4000.0,Nairobi,2024-06-28,6
+Tomatoes,Akala,55.56,71.43,1000.0,Siaya,2024-06-29,6
+Tomatoes,Molo,,100.0,1100.0,Nakuru,2024-06-29,6
+Tomatoes,Mukuyu Market,70.0,80.0,4000.0,Muranga,2024-06-29,6
+Tomatoes,Lungalunga,80.0,140.0,9000.0,Kwale,2024-06-29,6
+Tomatoes,Kawangware,125.0,200.0,4000.0,Nairobi,2024-06-29,6
+Tomatoes,Kibiok,80.0,100.0,12000.0,Nandi,2024-06-30,6
+Tomatoes,Kawangware,125.0,200.0,4000.0,Nairobi,2024-06-30,6
+Tomatoes,Kibuye,114.29,120.0,16800.0,Kisumu,2024-06-30,6
+Tomatoes,Isebania Market,,57.14,1000.0,Migori,2024-06-30,6
+Tomatoes,Chebunyo,65.0,10.0,9800.0,Bomet,2024-07-01,7
+Tomatoes,Kerugoya,50.0,80.0,1200.0,Kirinyaga,2024-07-01,7
+Tomatoes,Mwangulu,60.0,80.0,4000.0,Kwale,2024-07-01,7
+Tomatoes,Molo,,100.0,1300.0,Nakuru,2024-07-01,7
+Tomatoes,Kiria-ini Market,20.0,200.0,700.0,Muranga,2024-07-01,7
+Tomatoes,Rongo,66.67,91.41,48000.0,Migori,2024-07-01,7
+Tomatoes,Gongoni,76.0,100.0,50000.0,Kilifi,2024-07-01,7
+Tomatoes,Kitale Municipality Market,94.12,105.88,40000.0,Trans-Nzoia,2024-07-01,7
+Tomatoes,Charo wa Mae,85.71,100.0,1820.0,Kilifi,2024-07-01,7
+Tomatoes,Gikomba,,70.0,4000.0,Nairobi,2024-07-01,7
+Tomatoes,Nairobi Wakulima,50.0,150.0,4000.0,Nairobi,2024-07-01,7
+Tomatoes,Kalundu,62.5,70.0,4000.0,Kitui,2024-07-01,7
+Tomatoes,Kagio,38.33,50.0,18000.0,Kirinyaga,2024-07-01,7
+Tomatoes,Mtwapa,85.0,130.0,360.0,Kilifi,2024-07-01,7
+Tomatoes,Kawangware,125.0,200.0,4000.0,Nairobi,2024-07-01,7
+Tomatoes,Kutus,60.0,75.0,2400.0,Kirinyaga,2024-07-01,7
+Tomatoes,Kapsabet Market,85.71,100.0,5000.0,Nandi,2024-07-02,7
+Tomatoes,Molo,,100.0,750.0,Nakuru,2024-07-02,7
+Tomatoes,Marindi,70.31,83.33,38000.0,Migori,2024-07-02,7
+Tomatoes,Gongoni,70.0,100.0,30000.0,Kilifi,2024-07-02,7
+Tomatoes,Ngurubani Market,50.0,65.0,1200.0,Kirinyaga,2024-07-02,7
+Tomatoes,Kathonzweni,67.0,80.0,15000.0,Makueni,2024-07-02,7
+Tomatoes,Bondeni,80.0,100.0,2500.0,Trans-Nzoia,2024-07-02,7
+Tomatoes,Ahero,130.0,150.0,6500.0,Kisumu,2024-07-02,7
+Tomatoes,Nairobi Wakulima,54.17,150.0,4000.0,Nairobi,2024-07-02,7
+Tomatoes,Chuka,70.0,70.0,5000.0,Tharaka-Nithi,2024-07-02,7
+Tomatoes,Mtwapa,85.0,100.0,3600.0,Kilifi,2024-07-02,7
+Tomatoes,Kawangware,125.0,200.0,4000.0,Nairobi,2024-07-02,7
+Tomatoes,Nkubu,10.0,60.0,4000.0,Meru,2024-07-02,7
+Tomatoes,Molo,,100.0,1050.0,Nakuru,2024-07-03,7
+Tomatoes,Mwatate,45.0,50.0,4500.0,Taita-Taveta,2024-07-03,7
+Tomatoes,Rongo,60.0,79.11,48000.0,Migori,2024-07-03,7
+Tomatoes,Charo wa Mae,64.29,100.0,1260.0,Kilifi,2024-07-03,7
+Tomatoes,Serem - Vihiga,,90.0,3000.0,Vihiga,2024-07-03,7
+Tomatoes,Gongoni,70.0,90.0,10000.0,Kilifi,2024-07-03,7
+Tomatoes,Kabiyet Market,56.0,64.0,2000.0,Nandi,2024-07-03,7
+Tomatoes,Kawangware,125.0,200.0,4000.0,Nairobi,2024-07-03,7
+Tomatoes,Kangeta,70.0,80.0,1500.0,Meru,2024-07-03,7
+Tomatoes,Nairobi Wakulima,60.0,150.0,4000.0,Nairobi,2024-07-03,7
+Tomatoes,Makutano Kirinyaga,60.0,75.0,2000.0,Kirinyaga,2024-07-03,7
+Tomatoes,Mwingi Town,62.5,100.0,4000.0,Kitui,2024-07-03,7
+Tomatoes,Kabati Kitui,70.0,100.0,36900.0,Kitui,2024-07-04,7
+Tomatoes,Maua,60.0,70.0,15000.0,Meru,2024-07-04,7
+Tomatoes,Kinango,66.67,100.0,7000.0,Kwale,2024-07-04,7
+Tomatoes,Kagio,37.5,46.88,22000.0,Kirinyaga,2024-07-04,7
+Tomatoes,Kitale Municipality Market,80.0,100.0,40000.0,Trans-Nzoia,2024-07-04,7
+Tomatoes,Kalundu,54.69,100.0,4000.0,Kitui,2024-07-04,7
+Tomatoes,Gongoni,70.0,100.0,50000.0,Kilifi,2024-07-04,7
+Tomatoes,Kawangware,125.0,200.0,4000.0,Nairobi,2024-07-04,7
+Tomatoes,Charo wa Mae,47.5,80.0,1000.0,Kilifi,2024-07-04,7
+Tomatoes,Molo,,100.0,760.0,Nakuru,2024-07-05,7
+Tomatoes,Kerugoya,50.0,80.0,1000.0,Kirinyaga,2024-07-05,7
+Tomatoes,Bondo,54.69,100.0,14000.0,Siaya,2024-07-05,7
+Tomatoes,Chwele,84.62,85.0,15600.0,Bungoma,2024-07-05,7
+Tomatoes,Bungoma town,80.0,100.0,6000.0,Bungoma,2024-07-05,7
+Tomatoes,Ndanai,100.0,120.0,9600.0,Bomet,2024-07-05,7
+Tomatoes,Cheptulu,,83.33,4500.0,Vihiga,2024-07-05,7
+Tomatoes,Chepterit Market - Nandi,40.0,50.0,4500.0,Nandi,2024-07-05,7
+Tomatoes,Gongoni,70.0,100.0,2500.0,Kilifi,2024-07-05,7
+Tomatoes,Makutano Kirinyaga,35.0,50.0,2500.0,Kirinyaga,2024-07-05,7
+Tomatoes,Wundanyi,50.0,60.0,2800.0,Taita-Taveta,2024-07-05,7
+Tomatoes,Ngurubani Market,35.0,50.0,1500.0,Kirinyaga,2024-07-05,7
+Tomatoes,Charo wa Mae,57.14,100.0,980.0,Kilifi,2024-07-05,7
+Tomatoes,Kasikeu,1.0,70.0,4000.0,Makueni,2024-07-05,7
+Tomatoes,Nairobi Wakulima,60.0,120.0,4000.0,Nairobi,2024-07-05,7
+Tomatoes,Kawangware,80.0,100.0,4000.0,Nairobi,2024-07-05,7
+Tomatoes,Lungalunga,80.0,120.0,1000.0,Kwale,2024-07-06,7
+Tomatoes,Kawangware,80.0,100.0,4000.0,Nairobi,2024-07-06,7
+Tomatoes,Mukuyu Market,50.0,70.0,4000.0,Muranga,2024-07-06,7
+Tomatoes,Kapsabet Market,100.0,120.0,5000.0,Nandi,2024-07-06,7
+Tomatoes,Molo,,100.0,1100.0,Nakuru,2024-07-06,7
+Tomatoes,Samburu,18.06,40.0,18000.0,Kwale,2024-07-06,7
+Tomatoes,Marindi,70.31,98.04,30000.0,Migori,2024-07-06,7
+Tomatoes,Kamukuywa,125.0,156.25,4000.0,Bungoma,2024-07-06,7
+Tomatoes,Kamukuywa,93.75,140.63,3000.0,Bungoma,2024-07-06,7
+Tomatoes,Mwatate,35.0,40.0,7500.0,Taita-Taveta,2024-07-06,7
+Tomatoes,Mukuyu Market,50.0,70.0,4000.0,Muranga,2024-07-06,7
+Tomatoes,Kibuye,114.29,150.0,16800.0,Kisumu,2024-07-07,7
+Tomatoes,Mumias,80.0,100.0,12000.0,Kakamega,2024-07-07,7
+Tomatoes,Kibiok,100.0,120.0,12000.0,Nandi,2024-07-07,7
+Tomatoes,Kawangware,80.0,100.0,4000.0,Nairobi,2024-07-07,7
+Tomatoes,Muhoroni,85.71,114.29,6000.0,Kisumu,2024-07-07,7
+Tomatoes,Chebunyo,90.0,100.0,8400.0,Bomet,2024-07-08,7
+Tomatoes,Molo,,80.0,12000.0,Nakuru,2024-07-08,7
+Tomatoes,Kitale Municipality Market,80.0,100.0,30000.0,Trans-Nzoia,2024-07-08,7
+Tomatoes,Ngurubani Market,35.0,50.0,1200.0,Kirinyaga,2024-07-08,7
+Tomatoes,Kangemi Market,60.0,90.0,4000.0,Nairobi,2024-07-08,7
+Tomatoes,Malindi Old Market,50.0,70.0,40.0,Kilifi,2024-07-08,7
+Tomatoes,Kisasi,25.1,40.0,4000.0,Kitui,2024-07-08,7
+Tomatoes,Gikomba,66.67,80.0,4000.0,Nairobi,2024-07-08,7
+Tomatoes,Nairobi Wakulima,60.0,150.0,4000.0,Nairobi,2024-07-08,7
+Tomatoes,Kutus,35.0,40.0,3800.0,Kirinyaga,2024-07-08,7
+Tomatoes,Kawangware,80.0,100.0,4000.0,Nairobi,2024-07-08,7
+Tomatoes,Kagio,43.75,54.69,24000.0,Kirinyaga,2024-07-08,7
+Tomatoes,Gongoni,60.0,90.0,6000.0,Kilifi,2024-07-08,7
+Tomatoes,Kerugoya,50.0,80.0,1200.0,Kirinyaga,2024-07-09,7
+Tomatoes,Ahero,130.0,150.0,7000.0,Kisumu,2024-07-09,7
+Tomatoes,Isebania Market,,75.0,1200.0,Migori,2024-07-09,7
+Tomatoes,Kathonzweni,50.0,80.0,8000.0,Makueni,2024-07-09,7
+Tomatoes,Malindi Old Market,47.62,70.0,42.0,Kilifi,2024-07-09,7
+Tomatoes,Kapsabet Market,114.29,150.0,7500.0,Nandi,2024-07-09,7
+Tomatoes,Charo wa Mae,57.14,80.0,1680.0,Kilifi,2024-07-09,7
+Tomatoes,Gongoni,60.0,90.0,2500.0,Kilifi,2024-07-09,7
+Tomatoes,Nkubu,10.0,60.0,4000.0,Meru,2024-07-09,7
+Tomatoes,Wundanyi,60.0,50.0,800.0,Taita-Taveta,2024-07-09,7
+Tomatoes,Kangemi Market,55.0,80.0,4000.0,Nairobi,2024-07-09,7
+Tomatoes,Chuka,60.0,60.0,5000.0,Tharaka-Nithi,2024-07-09,7
+Tomatoes,Nairobi Wakulima,60.0,100.0,4000.0,Nairobi,2024-07-09,7
+Tomatoes,Kawangware,80.0,100.0,4000.0,Nairobi,2024-07-09,7
+Tomatoes,Akala,55.56,71.43,2500.0,Siaya,2024-07-10,7
+Tomatoes,Marindi,70.31,96.15,30000.0,Migori,2024-07-10,7
+Tomatoes,Rongo,66.67,60.1,48000.0,Migori,2024-07-10,7
+Tomatoes,Kitale Municipality Market,80.0,100.0,20000.0,Trans-Nzoia,2024-07-10,7
+Tomatoes,Mukuyu Market,,60.0,4000.0,Muranga,2024-07-10,7
+Tomatoes,Malindi Old Market,70.0,90.0,42.0,Kilifi,2024-07-10,7
+Tomatoes,Bondo,87.5,100.0,14000.0,Siaya,2024-07-10,7
+Tomatoes,Charo wa Mae,55.56,100.0,1000.0,Kilifi,2024-07-10,7
+Tomatoes,Molo,,100.0,820.0,Nakuru,2024-07-10,7
+Tomatoes,Sibanga,90.91,100.0,3600.0,Trans-Nzoia,2024-07-10,7
+Tomatoes,Gikomba,66.67,80.0,4000.0,Nairobi,2024-07-10,7
+Tomatoes,Gongoni,60.0,90.0,4500.0,Kilifi,2024-07-10,7
+Tomatoes,Serem - Vihiga,,80.0,3000.0,Vihiga,2024-07-10,7
+Tomatoes,Kangeta,50.0,60.0,1550.0,Meru,2024-07-10,7
+Tomatoes,Nairobi Wakulima,50.0,120.0,4000.0,Nairobi,2024-07-10,7
+Tomatoes,Kawangware,88.0,110.0,4000.0,Nairobi,2024-07-10,7
+Tomatoes,Kimumu - Bahati,83.33,130.0,700.0,Uasin-Gishu,2024-07-10,7
+Tomatoes,Gongoni,76.0,120.0,2250.0,Kilifi,2024-07-11,7
+Tomatoes,Mogogosiek Market,100.0,120.0,1150.0,Bomet,2024-07-11,7
+Tomatoes,Kitale Municipality Market,80.0,100.0,40000.0,Trans-Nzoia,2024-07-11,7
+Tomatoes,Kinango,66.67,100.0,7000.0,Kwale,2024-07-11,7
+Tomatoes,Malindi Old Market,40.0,60.0,40.0,Kilifi,2024-07-11,7
+Tomatoes,Gongoni,76.0,120.0,2250.0,Kilifi,2024-07-11,7
+Tomatoes,Kutus,25.86,34.48,4360.0,Kirinyaga,2024-07-11,7
+Tomatoes,Charo wa Mae,50.0,80.0,1170.0,Kilifi,2024-07-11,7
+Tomatoes,Kagio,34.38,42.19,22000.0,Kirinyaga,2024-07-11,7
+Tomatoes,Maua,50.0,70.0,14000.0,Meru,2024-07-11,7
+Tomatoes,Nairobi Wakulima,60.0,120.0,4000.0,Nairobi,2024-07-11,7
+Tomatoes,Kimilili town,72.73,90.91,10000.0,Bungoma,2024-07-11,7
+Tomatoes,Kawangware,88.0,110.0,4000.0,Nairobi,2024-07-11,7
+Tomatoes,Charo wa Mae,50.0,80.0,1170.0,Kilifi,2024-07-11,7
+Tomatoes,Molo,,80.0,750.0,Nakuru,2024-07-12,7
+Tomatoes,Lungalunga,70.0,120.0,700.0,Kwale,2024-07-12,7
+Tomatoes,Marindi,70.31,83.33,30000.0,Migori,2024-07-12,7
+Tomatoes,Ngurubani Market,35.0,50.0,1500.0,Kirinyaga,2024-07-12,7
+Tomatoes,Ndanai,80.0,100.0,9600.0,Bomet,2024-07-12,7
+Tomatoes,Kitale Municipality Market,80.0,100.0,10000.0,Trans-Nzoia,2024-07-12,7
+Tomatoes,Bungoma town,80.0,100.0,6400.0,Bungoma,2024-07-12,7
+Tomatoes,Malindi Old Market,38.1,60.0,42.0,Kilifi,2024-07-12,7
+Tomatoes,Kabiyet Market,64.0,70.0,3500.0,Nandi,2024-07-12,7
+Tomatoes,Kerugoya,50.0,80.0,1400.0,Kirinyaga,2024-07-12,7
+Tomatoes,Nairobi Wakulima,80.0,,4000.0,Nairobi,2024-07-12,7
+Tomatoes,Nairobi Wakulima,60.0,100.0,4000.0,Nairobi,2024-07-12,7
+Tomatoes,Voi Wholesale,37.14,,2000.0,Taita-Taveta,2024-07-12,7
+Tomatoes,Voi Wholesale,37.14,,4000.0,Taita-Taveta,2024-07-12,7
+Tomatoes,Gongoni,60.0,90.0,3500.0,Kilifi,2024-07-12,7
+Tomatoes,Kawangware,88.0,110.0,4000.0,Nairobi,2024-07-12,7
+Tomatoes,Makutano Kirinyaga,40.0,50.0,1500.0,Kirinyaga,2024-07-12,7
+Tomatoes,Wundanyi,,60.0,1500.0,Taita-Taveta,2024-07-12,7
+Tomatoes,Mabera,,100.0,6000.0,Migori,2024-07-12,7
+Tomatoes,Kapsabet Market,114.29,150.0,5000.0,Nandi,2024-07-13,7
+Tomatoes,Kibuye,114.29,100.0,12000.0,Kisumu,2024-07-13,7
+Tomatoes,Kawangware,80.0,110.0,4000.0,Nairobi,2024-07-13,7
+Tomatoes,Mwatate,25.0,30.0,5500.0,Taita-Taveta,2024-07-13,7
+Tomatoes,Kibiok,100.0,110.0,12000.0,Nandi,2024-07-14,7
+Tomatoes,Kawangware,88.0,110.0,4000.0,Nairobi,2024-07-14,7
+Tomatoes,Isebania Market,,75.0,1200.0,Migori,2024-07-14,7
+Tomatoes,Ikonge,121.43,150.0,5600.0,Nyamira,2024-07-14,7
+Tomatoes,Khayega,80.0,100.0,30000.0,Kakamega,2024-07-14,7
+Tomatoes,Kitale Municipality Market,80.0,100.0,40000.0,Trans-Nzoia,2024-07-15,7
+Tomatoes,Rongo,58.33,60.9,62000.0,Migori,2024-07-15,7
+Tomatoes,Chebunyo,65.0,100.0,8400.0,Bomet,2024-07-15,7
+Tomatoes,Aram,64.06,90.91,7000.0,Siaya,2024-07-15,7
+Tomatoes,Aram,53.13,63.03,6000.0,Siaya,2024-07-15,7
+Tomatoes,Malindi Old Market,48.78,70.0,41.0,Kilifi,2024-07-15,7
+Tomatoes,Mtwapa,30.0,100.0,2500.0,Kilifi,2024-07-15,7
+Tomatoes,Nairobi Wakulima,80.0,,4000.0,Nairobi,2024-07-15,7
+Tomatoes,Gongoni,60.0,90.0,50000.0,Kilifi,2024-07-15,7
+Tomatoes,Kutus,33.33,41.67,4680.0,Kirinyaga,2024-07-15,7
+Tomatoes,Kawangware,88.0,110.0,4000.0,Nairobi,2024-07-15,7
+Tomatoes,Kiria-ini Market,100.0,100.0,700.0,Muranga,2024-07-15,7
+Tomatoes,Nairobi Wakulima,80.0,,4000.0,Nairobi,2024-07-15,7
+Tomatoes,Kapsabet Market,85.71,120.0,10000.0,Nandi,2024-07-16,7
+Tomatoes,Kamukuywa,125.0,140.63,4000.0,Bungoma,2024-07-16,7
+Tomatoes,Kamukuywa,140.63,156.25,6000.0,Bungoma,2024-07-16,7
+Tomatoes,Ugunja,100.0,120.0,4000.0,Siaya,2024-07-16,7
+Tomatoes,Bondeni,52.94,58.82,2500.0,Trans-Nzoia,2024-07-16,7
+Tomatoes,Maua,60.0,80.0,14000.0,Meru,2024-07-16,7
+Tomatoes,Kerugoya,50.0,80.0,1400.0,Kirinyaga,2024-07-16,7
+Tomatoes,Voi Wholesale,35.71,,3500.0,Taita-Taveta,2024-07-16,7
+Tomatoes,Voi Wholesale,35.71,,3000.0,Taita-Taveta,2024-07-16,7
+Tomatoes,Ngurubani Market,20.0,30.0,4200.0,Kirinyaga,2024-07-16,7
+Tomatoes,Cheptulu,,83.33,4600.0,Vihiga,2024-07-16,7
+Tomatoes,Kathonzweni,50.0,80.0,15000.0,Makueni,2024-07-16,7
+Tomatoes,Nkubu,6.0,50.0,5000.0,Meru,2024-07-16,7
+Tomatoes,Wundanyi,,50.0,1800.0,Taita-Taveta,2024-07-16,7
+Tomatoes,Chuka,60.0,60.0,5000.0,Tharaka-Nithi,2024-07-16,7
+Tomatoes,Molo,,80.0,1200.0,Nakuru,2024-07-16,7
+Tomatoes,Bondo,93.75,100.0,14000.0,Siaya,2024-07-16,7
+Tomatoes,Kawangware,80.0,110.0,4000.0,Nairobi,2024-07-16,7
+Tomatoes,Wundanyi,,50.0,1800.0,Taita-Taveta,2024-07-16,7
+Tomatoes,Kabati - Muranga,50.0,70.0,4000.0,Muranga,2024-07-16,7
+Tomatoes,Tawa,45.0,50.0,5000.0,Makueni,2024-07-16,7
+Tomatoes,Malindi Old Market,38.1,60.0,42.0,Kilifi,2024-07-16,7
+Tomatoes,Mtwapa,30.0,100.0,3000.0,Kilifi,2024-07-16,7
+Tomatoes,Kangeta,30.0,40.0,1600.0,Meru,2024-07-17,7
+Tomatoes,Kitale Municipality Market,80.0,100.0,30000.0,Trans-Nzoia,2024-07-17,7
+Tomatoes,Miruka,46.88,100.0,17024.0,Nyamira,2024-07-17,7
+Tomatoes,Mulot,52.94,70.0,1500.0,Bomet,2024-07-17,7
+Tomatoes,Malindi Old Market,60.0,80.0,40.0,Kilifi,2024-07-17,7
+Tomatoes,Isebania Market,,100.0,1000.0,Migori,2024-07-17,7
+Tomatoes,Charo wa Mae,46.43,80.0,1820.0,Kilifi,2024-07-17,7
+Tomatoes,Chepterit Market - Nandi,35.0,50.0,4800.0,Nandi,2024-07-17,7
+Tomatoes,Serem - Vihiga,,80.0,3000.0,Vihiga,2024-07-17,7
+Tomatoes,Diani Market,50.0,80.0,4500.0,Kwale,2024-07-17,7
+Tomatoes,Kangemi Market,,100.0,4000.0,Nairobi,2024-07-17,7
+Tomatoes,Makutano Kirinyaga,20.0,25.0,2500.0,Kirinyaga,2024-07-17,7
+Tomatoes,Nairobi Wakulima,60.0,100.0,4000.0,Nairobi,2024-07-17,7
+Tomatoes,Mtwapa,65.0,100.0,380.0,Kilifi,2024-07-17,7
+Tomatoes,Akala,55.56,71.43,2500.0,Siaya,2024-07-17,7
+Tomatoes,Molo,,100.0,1200.0,Nakuru,2024-07-17,7
+Tomatoes,Gongoni,60.0,90.0,7000.0,Kilifi,2024-07-17,7
+Tomatoes,Kawangware,80.0,110.0,4000.0,Nairobi,2024-07-17,7
+Tomatoes,Cheptulu,,90.91,2000.0,Vihiga,2024-07-18,7
+Tomatoes,Kabiyet Market,60.0,70.0,3500.0,Nandi,2024-07-18,7
+Tomatoes,Aram,82.1,84.03,6500.0,Siaya,2024-07-18,7
+Tomatoes,Aram,53.13,62.5,7500.0,Siaya,2024-07-18,7
+Tomatoes,Kinango,62.22,80.0,8000.0,Kwale,2024-07-18,7
+Tomatoes,Charo wa Mae,50.0,80.0,980.0,Kilifi,2024-07-18,7
+Tomatoes,Charo wa Mae,48.89,80.0,810.0,Kilifi,2024-07-18,7
+Tomatoes,Molo,,80.0,1200.0,Nakuru,2024-07-18,7
+Tomatoes,Diani Market,60.0,90.0,3500.0,Kwale,2024-07-18,7
+Tomatoes,Gikomba,60.0,80.0,4000.0,Nairobi,2024-07-18,7
+Tomatoes,Nairobi Wakulima,60.0,120.0,4000.0,Nairobi,2024-07-18,7
+Tomatoes,Mtwapa,53.85,100.0,3388.0,Kilifi,2024-07-18,7
+Tomatoes,Malindi Old Market,60.0,80.0,60.0,Kilifi,2024-07-18,7
+Tomatoes,Kimilili town,60.0,70.0,10000.0,Bungoma,2024-07-18,7
+Tomatoes,Kawangware,80.0,110.0,4000.0,Nairobi,2024-07-18,7
+Tomatoes,Mwatate,30.0,35.0,6000.0,Taita-Taveta,2024-07-18,7
+Tomatoes,Gongoni,60.0,90.0,45000.0,Kilifi,2024-07-18,7
+Tomatoes,Mogogosiek Market,100.0,150.0,1200.0,Bomet,2024-07-19,7
+Tomatoes,Charo wa Mae,50.0,80.0,1820.0,Kilifi,2024-07-19,7
+Tomatoes,Lungalunga,120.0,150.0,700.0,Kwale,2024-07-19,7
+Tomatoes,Rongo,53.33,60.9,48000.0,Migori,2024-07-19,7
+Tomatoes,Kerugoya,50.0,80.0,1300.0,Kirinyaga,2024-07-19,7
+Tomatoes,Ndanai,90.0,120.0,9600.0,Bomet,2024-07-19,7
+Tomatoes,Makutano Kirinyaga,20.0,25.0,3500.0,Kirinyaga,2024-07-19,7
+Tomatoes,Cheptulu,,76.92,4400.0,Vihiga,2024-07-19,7
+Tomatoes,Gongoni,60.0,90.0,20000.0,Kilifi,2024-07-19,7
+Tomatoes,Malimili Livestock Market,66.67,90.91,18000.0,Kakamega,2024-07-19,7
+Tomatoes,Nairobi Wakulima,80.0,,4000.0,Nairobi,2024-07-19,7
+Tomatoes,Mtwapa,53.85,100.0,260.0,Kilifi,2024-07-19,7
+Tomatoes,Gikomba,,80.0,4000.0,Nairobi,2024-07-19,7
+Tomatoes,Chuka,60.0,60.0,5000.0,Tharaka-Nithi,2024-07-19,7
+Tomatoes,Diani Market,50.0,80.0,5500.0,Kwale,2024-07-19,7
+Tomatoes,Kawangware,80.0,110.0,4000.0,Nairobi,2024-07-19,7
+Tomatoes,Ngurubani Market,20.0,30.0,2500.0,Kirinyaga,2024-07-19,7
+Tomatoes,Diani Market,50.0,80.0,3000.0,Kwale,2024-07-20,7
+Tomatoes,Akala,55.56,71.43,3500.0,Siaya,2024-07-20,7
+Tomatoes,Molo,,80.0,1300.0,Nakuru,2024-07-20,7
+Tomatoes,Serem - Vihiga,,80.0,3000.0,Vihiga,2024-07-20,7
+Tomatoes,Kapsabet Market,85.71,91.43,5000.0,Nandi,2024-07-20,7
+Tomatoes,Isebania Market,,50.0,1500.0,Migori,2024-07-21,7
+Tomatoes,Kibuye,64.29,80.0,4000.0,Kisumu,2024-07-21,7
+Tomatoes,Diani Market,50.0,80.0,2500.0,Kwale,2024-07-21,7
+Tomatoes,Mabera,9.41,100.0,10000.0,Migori,2024-07-21,7
+Tomatoes,Ikonge,118.57,150.0,5400.0,Nyamira,2024-07-21,7
+Tomatoes,Molo,,100.0,1100.0,Nakuru,2024-07-22,7
+Tomatoes,Kitale Municipality Market,80.0,100.0,30000.0,Trans-Nzoia,2024-07-22,7
+Tomatoes,Charo wa Mae,46.43,80.0,1820.0,Kilifi,2024-07-22,7
+Tomatoes,Kisasi,40.0,50.0,4000.0,Kitui,2024-07-22,7
+Tomatoes,Chebunyo,65.0,100.0,9800.0,Bomet,2024-07-22,7
+Tomatoes,Kibiok,100.0,110.0,12000.0,Nandi,2024-07-22,7
+Tomatoes,Aram,46.88,60.24,3500.0,Siaya,2024-07-22,7
+Tomatoes,Gongoni,60.0,90.0,45000.0,Kilifi,2024-07-22,7
+Tomatoes,Kutus,30.0,40.0,4650.0,Kirinyaga,2024-07-22,7
+Tomatoes,Nairobi Wakulima,65.0,,4000.0,Nairobi,2024-07-22,7
+Tomatoes,Mtwapa,46.15,100.0,3900.0,Kilifi,2024-07-22,7
+Tomatoes,Kagio,18.75,23.44,30000.0,Kirinyaga,2024-07-22,7
+Tomatoes,Kawangware,0.01,,4000.0,Nairobi,2024-07-22,7
+Tomatoes,Kangemi Market,45.0,80.0,4000.0,Nairobi,2024-07-22,7
+Tomatoes,Aram,46.88,61.12,8500.0,Siaya,2024-07-22,7
+Tomatoes,Ugunja,87.5,100.0,4000.0,Siaya,2024-07-23,7
+Tomatoes,Isebania Market,,50.0,1200.0,Migori,2024-07-23,7
+Tomatoes,Bondo,78.13,150.0,7000.0,Siaya,2024-07-23,7
+Tomatoes,Kerugoya,40.0,70.0,1200.0,Kirinyaga,2024-07-23,7
+Tomatoes,Cheptulu,,76.92,4500.0,Vihiga,2024-07-23,7
+Tomatoes,Kapkwen,70.0,100.0,15000.0,Bomet,2024-07-23,7
+Tomatoes,Molo,,70.0,1400.0,Nakuru,2024-07-23,7
+Tomatoes,Mtwapa,46.15,100.0,3900.0,Kilifi,2024-07-23,7
+Tomatoes,Chuka,25.0,50.0,5000.0,Tharaka-Nithi,2024-07-23,7
+Tomatoes,Ngurubani Market,25.0,35.0,2400.0,Kirinyaga,2024-07-23,7
+Tomatoes,Gongoni,60.0,90.0,35000.0,Kilifi,2024-07-23,7
+Tomatoes,Kawangware,0.02,,4000.0,Nairobi,2024-07-23,7
+Tomatoes,Wundanyi,25.0,40.0,2000.0,Taita-Taveta,2024-07-23,7
+Tomatoes,Nkubu,6.0,40.0,4000.0,Meru,2024-07-23,7
+Tomatoes,Makutano Kirinyaga,20.0,25.0,4200.0,Kirinyaga,2024-07-24,7
+Tomatoes,Kitale Municipality Market,37.5,56.25,30000.0,Trans-Nzoia,2024-07-24,7
+Tomatoes,Rongo,46.67,141.24,62000.0,Migori,2024-07-24,7
+Tomatoes,Charo wa Mae,54.17,80.0,1440.0,Kilifi,2024-07-24,7
+Tomatoes,Kangeta,30.0,40.0,1500.0,Meru,2024-07-24,7
+Tomatoes,Mukuyu Market,,70.0,4000.0,Muranga,2024-07-24,7
+Tomatoes,Kawangware,68.18,,4000.0,Nairobi,2024-07-24,7
+Tomatoes,Kawangware,0.01,,4000.0,Nairobi,2024-07-24,7
+Tomatoes,Eldoret Main,40.0,60.0,8500.0,Uasin-Gishu,2024-07-24,7
+Tomatoes,Gongoni,60.0,90.0,6000.0,Kilifi,2024-07-24,7
+Tomatoes,Mogogosiek Market,50.0,80.0,700.0,Bomet,2024-07-25,7
+Tomatoes,Kitale Municipality Market,80.0,100.0,30000.0,Trans-Nzoia,2024-07-25,7
+Tomatoes,Kinango,55.56,80.0,7500.0,Kwale,2024-07-25,7
+Tomatoes,Ahero,100.0,150.0,5000.0,Kisumu,2024-07-25,7
+Tomatoes,Mabera,105.88,37.5,6000.0,Migori,2024-07-25,7
+Tomatoes,Charo wa Mae,40.0,80.0,1080.0,Kilifi,2024-07-25,7
+Tomatoes,Mtwapa,46.15,100.0,800.0,Kilifi,2024-07-25,7
+Tomatoes,Kutus,20.66,32.65,4600.0,Kirinyaga,2024-07-25,7
+Tomatoes,Gikomba,,60.0,4000.0,Nairobi,2024-07-25,7
+Tomatoes,Diani Market,60.0,90.0,3500.0,Kwale,2024-07-25,7
+Tomatoes,Gongoni,60.0,90.0,2500.0,Kilifi,2024-07-25,7
+Tomatoes,Kawangware,68.18,,4000.0,Nairobi,2024-07-25,7
+Tomatoes,Kagio,15.63,20.31,45000.0,Kirinyaga,2024-07-25,7
+Tomatoes,Nairobi Wakulima,50.0,120.0,4000.0,Nairobi,2024-07-25,7
+Tomatoes,Kimilili town,50.0,60.0,12000.0,Bungoma,2024-07-25,7
+Tomatoes,Malindi Old Market,29.27,50.0,41.0,Kilifi,2024-07-25,7
+Tomatoes,Kitale Municipality Market,35.29,48.78,10000.0,Trans-Nzoia,2024-07-26,7
+Tomatoes,Mumias,30.0,100.0,3000.0,Kakamega,2024-07-26,7
+Tomatoes,Gakoromone,40.0,60.0,3000.0,Meru,2024-07-26,7
+Tomatoes,Cheptulu,,71.43,5000.0,Vihiga,2024-07-26,7
+Tomatoes,Bondo,93.75,150.0,4000.0,Siaya,2024-07-26,7
+Tomatoes,Kerugoya,40.0,70.0,1200.0,Kirinyaga,2024-07-26,7
+Tomatoes,Ndanai,80.0,100.0,8400.0,Bomet,2024-07-26,7
+Tomatoes,Lungalunga,50.0,70.0,8000.0,Kwale,2024-07-26,7
+Tomatoes,Sibanga,72.73,100.0,6600.0,Trans-Nzoia,2024-07-26,7
+Tomatoes,Ngurubani Market,20.0,25.0,4000.0,Kirinyaga,2024-07-26,7
+Tomatoes,Maua,30.0,40.0,16000.0,Meru,2024-07-26,7
+Tomatoes,Nairobi Wakulima,60.0,100.0,4000.0,Nairobi,2024-07-26,7
+Tomatoes,Gikomba,,60.0,4000.0,Nairobi,2024-07-26,7
+Tomatoes,Makutano Kirinyaga,20.0,50.0,4500.0,Kirinyaga,2024-07-26,7
+Tomatoes,Gongoni,60.0,90.0,60000.0,Kilifi,2024-07-26,7
+Tomatoes,Malindi Old Market,28.57,50.0,42.0,Kilifi,2024-07-26,7
+Tomatoes,Kawangware,68.18,,4000.0,Nairobi,2024-07-26,7
+Tomatoes,Wundanyi,25.0,40.0,1000.0,Taita-Taveta,2024-07-26,7
+Tomatoes,Malimili Livestock Market,90.0,100.0,6000.0,Kakamega,2024-07-26,7
+Tomatoes,Mulot,73.53,100.0,700.0,Bomet,2024-07-27,7
+Tomatoes,Marindi,62.5,100.0,15000.0,Migori,2024-07-27,7
+Tomatoes,Mwatate,30.0,30.0,5500.0,Taita-Taveta,2024-07-27,7
+Tomatoes,Sabatia,60.0,80.0,15000.0,Kakamega,2024-07-27,7
+Tomatoes,Mukuyu Market,40.0,50.0,4000.0,Muranga,2024-07-27,7
+Tomatoes,Akala,55.56,71.43,1000.0,Siaya,2024-07-27,7
+Tomatoes,Mukuyu Market,40.0,50.0,4000.0,Muranga,2024-07-27,7
+Tomatoes,Serem - Vihiga,,80.0,3500.0,Vihiga,2024-07-27,7
+Tomatoes,Diani Market,60.0,100.0,3800.0,Kwale,2024-07-27,7
+Tomatoes,Kibiok,100.0,116.67,12000.0,Nandi,2024-07-28,7
+Tomatoes,Khayega,80.65,96.77,6000.0,Kakamega,2024-07-28,7
+Tomatoes,Kibuye,78.57,100.0,4000.0,Kisumu,2024-07-28,7
+Tomatoes,Muhoroni,85.71,114.29,6000.0,Kisumu,2024-07-28,7
+Tomatoes,Mghange,20.0,30.0,2000.0,Taita-Taveta,2024-07-28,7
+Tomatoes,Mumias,107.14,115.0,3200.0,Kakamega,2024-07-28,7
+Tomatoes,Cheptulu,,83.33,2600.0,Vihiga,2024-07-29,7
+Tomatoes,Eldoret Main,183.33,233.33,5000.0,Uasin-Gishu,2024-07-29,7
+Tomatoes,Charo wa Mae,50.0,80.0,1820.0,Kilifi,2024-07-29,7
+Tomatoes,Gongoni,60.0,90.0,6000.0,Kilifi,2024-07-29,7
+Tomatoes,Rongo,46.67,142.05,62000.0,Migori,2024-07-29,7
+Tomatoes,Nairobi Wakulima,55.0,,4000.0,Nairobi,2024-07-29,7
+Tomatoes,Diani Market,60.0,90.0,2000.0,Kwale,2024-07-29,7
+Tomatoes,Mtwapa,25.0,100.0,300.0,Kilifi,2024-07-29,7
+Tomatoes,Kagio,15.63,23.44,30000.0,Kirinyaga,2024-07-29,7
+Tomatoes,Kawangware,50.0,60.0,4000.0,Nairobi,2024-07-29,7
+Tomatoes,Aram,40.63,51.02,8500.0,Siaya,2024-07-29,7
+Tomatoes,Molo,,80.0,1200.0,Nakuru,2024-07-30,7
+Tomatoes,Isebania Market,,50.0,1200.0,Migori,2024-07-30,7
+Tomatoes,Kapkwen,45.0,70.0,12000.0,Bomet,2024-07-30,7
+Tomatoes,Kisasi,25.0,40.0,4000.0,Kitui,2024-07-30,7
+Tomatoes,Kabiyet Market,57.0,64.0,5000.0,Nandi,2024-07-30,7
+Tomatoes,Charo wa Mae,46.15,100.0,1560.0,Kilifi,2024-07-30,7
+Tomatoes,Maua,30.0,50.0,14000.0,Meru,2024-07-30,7
+Tomatoes,Cheptulu,,76.92,4000.0,Vihiga,2024-07-30,7
+Tomatoes,Kamukuywa,109.38,117.19,11000.0,Bungoma,2024-07-30,7
+Tomatoes,Charo wa Mae,50.0,80.0,1170.0,Kilifi,2024-07-30,7
+Tomatoes,Nkubu,6.0,40.0,4000.0,Meru,2024-07-30,7
+Tomatoes,Kerugoya,30.0,50.0,1200.0,Kirinyaga,2024-07-30,7
+Tomatoes,Gongoni,60.0,80.0,5000.0,Kilifi,2024-07-30,7
+Tomatoes,Tawa,25.0,30.0,6000.0,Makueni,2024-07-30,7
+Tomatoes,Nairobi Wakulima,40.0,70.0,4000.0,Nairobi,2024-07-30,7
+Tomatoes,Kawangware,50.0,60.0,4000.0,Nairobi,2024-07-30,7
+Tomatoes,Bondeni,60.0,80.0,2500.0,Trans-Nzoia,2024-07-30,7
+Tomatoes,Wundanyi,25.0,30.0,2500.0,Taita-Taveta,2024-07-30,7
+Tomatoes,Mtwapa,30.0,100.0,300.0,Kilifi,2024-07-30,7
+Tomatoes,Ngurubani Market,15.0,20.0,3500.0,Kirinyaga,2024-07-30,7
+Tomatoes,Gikomba,,60.0,4000.0,Nairobi,2024-07-30,7
+Tomatoes,Chuka,25.0,50.0,5000.0,Tharaka-Nithi,2024-07-30,7
+Tomatoes,Diani Market,60.0,90.0,2000.0,Kwale,2024-07-30,7
+Tomatoes,Kapsabet Market,85.71,100.0,5000.0,Nandi,2024-07-30,7
+Tomatoes,Serem - Vihiga,,80.0,3000.0,Vihiga,2024-07-31,7
+Tomatoes,Makutano Kirinyaga,15.0,20.0,3800.0,Kirinyaga,2024-07-31,7
+Tomatoes,Mwingi Town,50.0,70.0,7000.0,Kitui,2024-07-31,7
+Tomatoes,Kitale Municipality Market,80.0,100.0,10000.0,Trans-Nzoia,2024-07-31,7
+Tomatoes,Miruka,39.06,100.0,18816.0,Nyamira,2024-07-31,7
+Tomatoes,Rongo,53.33,233.64,48000.0,Migori,2024-07-31,7
+Tomatoes,Kangeta,40.0,50.0,1500.0,Meru,2024-07-31,7
+Tomatoes,Nairobi Wakulima,50.0,80.0,4000.0,Nairobi,2024-07-31,7
+Tomatoes,Gongoni,60.0,60.0,6000.0,Kilifi,2024-07-31,7
+Tomatoes,Eldoret Main,45.0,50.0,5000.0,Uasin-Gishu,2024-07-31,7
+Tomatoes,Kawangware,41.66,50.0,4000.0,Nairobi,2024-07-31,7
+Tomatoes,Mukuyu Market,,30.0,4000.0,Muranga,2024-07-31,7
+Tomatoes,Charo wa Mae,46.15,80.0,910.0,Kilifi,2024-07-31,7
+Tomatoes,Kerugoya,34.29,70.0,1400.0,Kirinyaga,2024-08-01,8
+Tomatoes,Kitale Municipality Market,35.0,40.0,30000.0,Trans-Nzoia,2024-08-01,8
+Tomatoes,Kinango,55.56,70.0,7000.0,Kwale,2024-08-01,8
+Tomatoes,Malindi Old Market,30.0,50.0,40.0,Kilifi,2024-08-01,8
+Tomatoes,Charo wa Mae,50.0,80.0,1170.0,Kilifi,2024-08-01,8
+Tomatoes,Kalundu,23.44,70.0,4000.0,Kitui,2024-08-01,8
+Tomatoes,Kimilili town,80.0,100.0,10000.0,Bungoma,2024-08-01,8
+Tomatoes,Kawangware,41.66,50.0,4000.0,Nairobi,2024-08-01,8
+Tomatoes,Diani Market,60.0,90.0,3000.0,Kwale,2024-08-01,8
+Tomatoes,Nairobi Wakulima,40.0,80.0,4000.0,Nairobi,2024-08-01,8
+Tomatoes,Mogogosiek Market,73.53,80.0,70.0,Bomet,2024-08-01,8
+Tomatoes,Lungalunga,50.0,80.0,3000.0,Kwale,2024-08-02,8
+Tomatoes,Cheptulu,,71.43,5500.0,Vihiga,2024-08-02,8
+Tomatoes,Mumias,,90.0,4200.0,Kakamega,2024-08-02,8
+Tomatoes,Sibanga,70.0,100.0,4620.0,Trans-Nzoia,2024-08-02,8
+Tomatoes,Kitale Municipality Market,80.0,100.0,20000.0,Trans-Nzoia,2024-08-02,8
+Tomatoes,Molo,,80.0,1050.0,Nakuru,2024-08-02,8
+Tomatoes,Charo wa Mae,44.62,80.0,1560.0,Kilifi,2024-08-02,8
+Tomatoes,Kisasi,25.0,40.0,4000.0,Kitui,2024-08-02,8
+Tomatoes,Charo wa Mae,50.0,80.0,910.0,Kilifi,2024-08-02,8
+Tomatoes,Gongoni,50.0,60.0,4500.0,Kilifi,2024-08-02,8
+Tomatoes,Malimili Livestock Market,50.0,60.0,3000.0,Kakamega,2024-08-02,8
+Tomatoes,Ngurubani Market,15.0,20.0,3500.0,Kirinyaga,2024-08-02,8
+Tomatoes,Makutano Kirinyaga,17.5,25.0,3500.0,Kirinyaga,2024-08-02,8
+Tomatoes,Kawangware,41.66,50.0,4000.0,Nairobi,2024-08-02,8
+Tomatoes,Gikomba,,60.0,4000.0,Nairobi,2024-08-02,8
+Tomatoes,Nairobi Wakulima,50.0,,4000.0,Nairobi,2024-08-02,8
+Tomatoes,Voi Wholesale,20.0,,2600.0,Taita-Taveta,2024-08-02,8
+Tomatoes,Voi Wholesale,17.86,,5200.0,Taita-Taveta,2024-08-02,8
+Tomatoes,Diani Market,60.0,90.0,3500.0,Kwale,2024-08-02,8
+Tomatoes,Serem - Vihiga,,80.0,3000.0,Vihiga,2024-08-02,8
+Tomatoes,Chuka,20.0,30.0,5000.0,Tharaka-Nithi,2024-08-02,8
+Tomatoes,Mwatate,30.0,30.0,4000.0,Taita-Taveta,2024-08-03,8
+Tomatoes,Akala,55.56,71.43,1000.0,Siaya,2024-08-03,8
+Tomatoes,Charo wa Mae,40.0,80.0,910.0,Kilifi,2024-08-03,8
+Tomatoes,Kibiok,66.67,73.33,12000.0,Nandi,2024-08-04,8
+Tomatoes,Diani Market,50.0,80.0,2500.0,Kwale,2024-08-04,8
+Tomatoes,Charo wa Mae,40.0,70.0,910.0,Kilifi,2024-08-04,8
+Tomatoes,Khayega,150.0,180.0,9000.0,Kakamega,2024-08-04,8
+Tomatoes,Kibuye,78.57,100.0,4000.0,Kisumu,2024-08-04,8
+Tomatoes,Mghange,30.0,20.0,2000.0,Taita-Taveta,2024-08-04,8
+Tomatoes,Nairobi Wakulima,42.0,50.0,4000.0,Nairobi,2024-08-05,8
+Tomatoes,Kitale Municipality Market,30.0,40.0,40000.0,Trans-Nzoia,2024-08-05,8
+Tomatoes,Charo wa Mae,50.0,80.0,1560.0,Kilifi,2024-08-05,8
+Tomatoes,Charo wa Mae,40.0,70.0,700.0,Kilifi,2024-08-05,8
+Tomatoes,Butere Livestock Market,42.86,60.0,5600.0,Kakamega,2024-08-05,8
+Tomatoes,Aram,46.88,65.22,10500.0,Siaya,2024-08-05,8
+Tomatoes,Gakoromone,30.0,40.0,8000.0,Meru,2024-08-05,8
+Tomatoes,Kalundu,23.44,70.0,4000.0,Kitui,2024-08-05,8
+Tomatoes,Kutus,25.0,30.0,4200.0,Kirinyaga,2024-08-05,8
+Tomatoes,Mtwapa,25.0,100.0,1200.0,Kilifi,2024-08-05,8
+Tomatoes,Gongoni,50.0,70.0,45000.0,Kilifi,2024-08-05,8
+Tomatoes,Kawangware,41.66,50.0,4000.0,Nairobi,2024-08-05,8
+Tomatoes,Cheptulu,,76.92,2300.0,Vihiga,2024-08-05,8
+Tomatoes,Bondo,93.75,130.0,14000.0,Siaya,2024-08-06,8
+Tomatoes,Maua,30.0,50.0,18000.0,Meru,2024-08-06,8
+Tomatoes,Tawa,45.0,50.0,5000.0,Makueni,2024-08-06,8
+Tomatoes,Molo,,70.0,1100.0,Nakuru,2024-08-06,8
+Tomatoes,Ahero,140.0,150.0,7000.0,Kisumu,2024-08-06,8
+Tomatoes,Charo wa Mae,40.0,70.0,1035.0,Kilifi,2024-08-06,8
+Tomatoes,Charo wa Mae,40.0,70.0,1170.0,Kilifi,2024-08-06,8
+Tomatoes,Kerugoya,40.0,70.0,1500.0,Kirinyaga,2024-08-06,8
+Tomatoes,Diani Market,60.0,90.0,3500.0,Kwale,2024-08-06,8
+Tomatoes,Nkubu,4.0,30.0,4000.0,Meru,2024-08-06,8
+Tomatoes,Mtwapa,18.75,100.0,950.0,Kilifi,2024-08-06,8
+Tomatoes,Kawangware,58.33,,4000.0,Nairobi,2024-08-06,8
+Tomatoes,Gongoni,50.0,70.0,25000.0,Kilifi,2024-08-06,8
+Tomatoes,Ngurubani Market,12.5,20.0,5000.0,Kirinyaga,2024-08-06,8
+Tomatoes,Wundanyi,,30.0,1800.0,Taita-Taveta,2024-08-06,8
+Tomatoes,Kathonzweni,30.0,40.0,14000.0,Makueni,2024-08-06,8
+Tomatoes,Cheptulu,,76.92,2400.0,Vihiga,2024-08-07,8
+Tomatoes,Taveta Retail Market,30.0,50.0,250.0,Taita-Taveta,2024-08-07,8
+Tomatoes,Makutano Kirinyaga,15.0,20.0,4000.0,Kirinyaga,2024-08-07,8
+Tomatoes,Kabati - Muranga,45.0,70.0,4000.0,Muranga,2024-08-07,8
+Tomatoes,Gikomba,,60.0,4000.0,Nairobi,2024-08-07,8
+Tomatoes,Gongoni,50.0,60.0,25000.0,Kilifi,2024-08-07,8
+Tomatoes,Mulot,44.12,50.0,3000.0,Bomet,2024-08-07,8
+Tomatoes,Mukuyu Market,,40.0,4000.0,Muranga,2024-08-07,8
+Tomatoes,Kawangware,58.33,,4000.0,Nairobi,2024-08-07,8
+Tomatoes,Mwingi Town,31.25,40.0,10000.0,Kitui,2024-08-08,8
+Tomatoes,Bondo,93.75,150.0,4000.0,Siaya,2024-08-08,8
+Tomatoes,Katito,55.0,150.0,4000.0,Kisumu,2024-08-08,8
+Tomatoes,Kitale Municipality Market,80.0,100.0,40000.0,Trans-Nzoia,2024-08-08,8
+Tomatoes,Aram,34.38,55.76,10500.0,Siaya,2024-08-08,8
+Tomatoes,Aram,37.5,60.73,9000.0,Siaya,2024-08-08,8
+Tomatoes,Molo,,80.0,1200.0,Nakuru,2024-08-08,8
+Tomatoes,Mabera,87.5,80.0,4000.0,Migori,2024-08-08,8
+Tomatoes,Charo wa Mae,38.46,80.0,1430.0,Kilifi,2024-08-08,8
+Tomatoes,Gongoni,50.0,60.0,20000.0,Kilifi,2024-08-08,8
+Tomatoes,Kutus,21.55,25.86,4650.0,Kirinyaga,2024-08-08,8
+Tomatoes,Kerugoya,40.0,70.0,1500.0,Kirinyaga,2024-08-08,8
+Tomatoes,Mogogosiek Market,60.0,70.0,34.0,Bomet,2024-08-08,8
+Tomatoes,Kawangware,58.33,,4000.0,Nairobi,2024-08-08,8
+Tomatoes,Mtwapa,18.75,100.0,144.0,Kilifi,2024-08-08,8
+Tomatoes,Diani Market,60.0,90.0,3500.0,Kwale,2024-08-08,8
+Tomatoes,Kinango,55.56,70.0,7000.0,Kwale,2024-08-08,8
+Tomatoes,Bungoma town,100.0,130.0,5000.0,Bungoma,2024-08-09,8
+Tomatoes,Ndanai,70.0,80.0,5000.0,Bomet,2024-08-09,8
+Tomatoes,Ndanai,80.0,100.0,9600.0,Bomet,2024-08-09,8
+Tomatoes,Rongo,46.67,155.76,12000.0,Migori,2024-08-09,8
+Tomatoes,Mumias,56.25,100.0,12800.0,Kakamega,2024-08-09,8
+Tomatoes,Ngurubani Market,15.0,20.0,4000.0,Kirinyaga,2024-08-09,8
+Tomatoes,Gakoromone,30.0,35.0,2000.0,Meru,2024-08-09,8
+Tomatoes,Kitale Municipality Market,80.0,100.0,20000.0,Trans-Nzoia,2024-08-09,8
+Tomatoes,Charo wa Mae,40.0,80.0,910.0,Kilifi,2024-08-09,8
+Tomatoes,Malimili Livestock Market,80.0,100.0,2000.0,Kakamega,2024-08-09,8
+Tomatoes,Diani Market,60.0,90.0,2800.0,Kwale,2024-08-09,8
+Tomatoes,Gikomba,,60.0,4000.0,Nairobi,2024-08-09,8
+Tomatoes,Molo,,80.0,1300.0,Nakuru,2024-08-09,8
+Tomatoes,Mtwapa,57.69,100.0,2600.0,Kilifi,2024-08-09,8
+Tomatoes,Chuka,20.0,30.0,5000.0,Tharaka-Nithi,2024-08-09,8
+Tomatoes,Kawangware,58.33,,4000.0,Nairobi,2024-08-09,8
+Tomatoes,Wundanyi,,30.0,1800.0,Taita-Taveta,2024-08-09,8
+Tomatoes,Gongoni,50.0,60.0,40000.0,Kilifi,2024-08-09,8
+Tomatoes,Charo wa Mae,45.0,80.0,1300.0,Kilifi,2024-08-09,8
+Tomatoes,Kiria-ini Market,50.0,50.0,700.0,Muranga,2024-08-10,8
+Tomatoes,Mwatate,30.0,30.0,4000.0,Taita-Taveta,2024-08-10,8
+Tomatoes,Isebania Market,,50.0,1500.0,Migori,2024-08-10,8
+Tomatoes,Mukuyu Market,20.0,30.0,4000.0,Muranga,2024-08-10,8
+Tomatoes,Sabatia,50.0,60.0,7680.0,Kakamega,2024-08-10,8
+Tomatoes,Taveta Retail Market,70.0,100.0,4000.0,Taita-Taveta,2024-08-10,8
+Tomatoes,Mukuyu Market,20.0,30.0,4000.0,Muranga,2024-08-10,8
+Tomatoes,Charo wa Mae,40.0,80.0,1430.0,Kilifi,2024-08-10,8
+Tomatoes,Charo wa Mae,50.0,80.0,700.0,Kilifi,2024-08-11,8
+Tomatoes,Kibuye,78.57,100.0,4000.0,Kisumu,2024-08-11,8
+Tomatoes,Khayega,70.0,90.0,8000.0,Kakamega,2024-08-11,8
+Tomatoes,Mumias,56.25,100.0,9600.0,Kakamega,2024-08-11,8
+Tomatoes,Mabera,,105.88,10000.0,Migori,2024-08-11,8
+Tomatoes,Kawangware,58.33,,4000.0,Nairobi,2024-08-11,8
+Tomatoes,Kibiok,73.33,83.33,12000.0,Nandi,2024-08-11,8
+Tomatoes,Cheptulu,,76.92,3400.0,Vihiga,2024-08-12,8
+Tomatoes,Nairobi Wakulima,43.0,50.0,4000.0,Nairobi,2024-08-12,8
+Tomatoes,Diani Market,60.0,90.0,4500.0,Kwale,2024-08-12,8
+Tomatoes,Aram,46.88,64.1,8000.0,Siaya,2024-08-12,8
+Tomatoes,Gikomba,,60.0,4000.0,Nairobi,2024-08-12,8
+Tomatoes,Kutus,20.0,30.0,4980.0,Kirinyaga,2024-08-12,8
+Tomatoes,Kalundu,23.44,50.0,4000.0,Kitui,2024-08-12,8
+Tomatoes,Chebunyo,50.0,60.0,7000.0,Bomet,2024-08-12,8
+Tomatoes,Kagio,23.44,34.38,25000.0,Kirinyaga,2024-08-13,8
+Tomatoes,Isebania Market,,50.0,1000.0,Migori,2024-08-13,8
+Tomatoes,Bondo,93.75,120.0,24000.0,Siaya,2024-08-13,8
+Tomatoes,Kerugoya,40.0,70.0,1400.0,Kirinyaga,2024-08-13,8
+Tomatoes,Ahero,100.0,120.0,6000.0,Kisumu,2024-08-13,8
+Tomatoes,Kabati - Muranga,50.0,70.0,4000.0,Muranga,2024-08-13,8
+Tomatoes,Ngurubani Market,25.0,35.0,3000.0,Kirinyaga,2024-08-13,8
+Tomatoes,Chuka,25.0,30.0,5000.0,Tharaka-Nithi,2024-08-13,8
+Tomatoes,Nkubu,4.0,30.0,5000.0,Meru,2024-08-13,8
+Tomatoes,Kabiyet Market,56.0,64.0,3050.0,Nandi,2024-08-13,8
+Tomatoes,Gikomba,,60.0,4000.0,Nairobi,2024-08-13,8
+Tomatoes,Wundanyi,30.0,40.0,2800.0,Taita-Taveta,2024-08-13,8
+Tomatoes,Gongoni,50.0,70.0,25000.0,Kilifi,2024-08-13,8
+Tomatoes,Molo,,70.0,1300.0,Nakuru,2024-08-13,8
+Tomatoes,Kathonzweni,40.0,60.0,10000.0,Makueni,2024-08-13,8
+Tomatoes,Mwatate,30.0,30.0,4000.0,Taita-Taveta,2024-08-14,8
+Tomatoes,Mwingi Town,23.44,30.0,10000.0,Kitui,2024-08-14,8
+Tomatoes,Rongo,46.67,58.0,62000.0,Migori,2024-08-14,8
+Tomatoes,Taveta Retail Market,70.0,100.0,285.0,Taita-Taveta,2024-08-14,8
+Tomatoes,Mbale,83.33,83.33,12000.0,Vihiga,2024-08-14,8
+Tomatoes,Mulot,33.33,60.0,1200.0,Bomet,2024-08-14,8
+Tomatoes,Makutano Embu,22.73,75.0,4000.0,Embu,2024-08-14,8
+Tomatoes,Kangeta,40.0,50.0,1400.0,Meru,2024-08-14,8
+Tomatoes,Voi Retail,,50.0,160.0,Taita-Taveta,2024-08-14,8
+Tomatoes,Mukuyu Market,,40.0,4000.0,Muranga,2024-08-14,8
+Tomatoes,Charo wa Mae,38.46,80.0,1170.0,Kilifi,2024-08-14,8
+Tomatoes,Gongoni,50.0,60.0,6000.0,Kilifi,2024-08-14,8
+Tomatoes,Makutano Kirinyaga,25.0,35.0,4100.0,Kirinyaga,2024-08-14,8
+Tomatoes,Miruka,39.06,100.0,19712.0,Nyamira,2024-08-14,8
+Tomatoes,Aram,40.63,48.78,10500.0,Siaya,2024-08-15,8
+Tomatoes,Mabera,,111.76,20000.0,Migori,2024-08-15,8
+Tomatoes,Katito,83.33,100.0,7500.0,Kisumu,2024-08-15,8
+Tomatoes,Kinango,33.33,60.0,10000.0,Kwale,2024-08-15,8
+Tomatoes,Aram,40.63,56.07,5500.0,Siaya,2024-08-15,8
+Tomatoes,Kinango,66.67,100.0,6000.0,Kwale,2024-08-15,8
+Tomatoes,Kutus,12.5,16.67,5600.0,Kirinyaga,2024-08-15,8
+Tomatoes,Mogogosiek Market,70.0,80.0,80.0,Bomet,2024-08-15,8
+Tomatoes,Diani Market,60.0,90.0,1800.0,Kwale,2024-08-15,8
+Tomatoes,Gikomba,,60.0,4000.0,Nairobi,2024-08-15,8
+Tomatoes,Charo wa Mae,50.0,80.0,900.0,Kilifi,2024-08-15,8
+Tomatoes,Gongoni,50.0,60.0,45000.0,Kilifi,2024-08-15,8
+Tomatoes,Nairobi Wakulima,40.0,60.0,4000.0,Nairobi,2024-08-15,8
+Tomatoes,Ngurubani Market,25.0,35.0,4200.0,Kirinyaga,2024-08-16,8
+Tomatoes,Mumias,50.0,150.0,18200.0,Kakamega,2024-08-16,8
+Tomatoes,Kerugoya,40.0,70.0,1500.0,Kirinyaga,2024-08-16,8
+Tomatoes,Bondo,85.94,120.0,5000.0,Siaya,2024-08-16,8
+Tomatoes,Bondo,85.94,120.0,5000.0,Siaya,2024-08-16,8
+Tomatoes,Eldoret Main,45.0,60.0,7000.0,Uasin-Gishu,2024-08-16,8
+Tomatoes,Bungoma town,87.5,100.0,7000.0,Bungoma,2024-08-16,8
+Tomatoes,Cheptulu,,83.33,5000.0,Vihiga,2024-08-16,8
+Tomatoes,Kisasi,25.0,40.0,4000.0,Kitui,2024-08-16,8
+Tomatoes,Malimili Livestock Market,50.0,70.0,3000.0,Kakamega,2024-08-16,8
+Tomatoes,Mbale,83.33,83.33,24000.0,Vihiga,2024-08-16,8
+Tomatoes,Makutano Kirinyaga,25.0,35.0,5000.0,Kirinyaga,2024-08-16,8
+Tomatoes,Gongoni,50.0,60.0,25000.0,Kilifi,2024-08-16,8
+Tomatoes,Molo,,80.0,1200.0,Nakuru,2024-08-16,8
+Tomatoes,Diani Market,50.0,80.0,6000.0,Kwale,2024-08-16,8
+Tomatoes,Ndanai,67.5,100.0,1600.0,Bomet,2024-08-16,8
+Tomatoes,Chuka,20.0,30.0,5000.0,Tharaka-Nithi,2024-08-16,8
+Tomatoes,Nairobi Wakulima,43.0,50.0,4000.0,Nairobi,2024-08-16,8
+Tomatoes,Gakoromone,30.0,45.0,3000.0,Meru,2024-08-16,8
+Tomatoes,Charo wa Mae,40.0,80.0,600.0,Kilifi,2024-08-16,8
+Tomatoes,Serem - Vihiga,,80.0,3000.0,Vihiga,2024-08-17,8
+Tomatoes,Isebania Market,,100.0,1000.0,Migori,2024-08-17,8
+Tomatoes,Mwatate,25.0,25.0,5500.0,Taita-Taveta,2024-08-17,8
+Tomatoes,Mukuyu Market,20.0,30.0,4000.0,Muranga,2024-08-17,8
+Tomatoes,Kibiok,40.0,50.0,12000.0,Nandi,2024-08-18,8
+Tomatoes,Mghange,,40.0,800.0,Taita-Taveta,2024-08-18,8
+Tomatoes,Muhoroni,71.43,80.0,7000.0,Kisumu,2024-08-18,8
+Tomatoes,Khayega,50.0,80.0,7000.0,Kakamega,2024-08-18,8
+Tomatoes,Mabera,126.67,100.0,10000.0,Migori,2024-08-18,8
+Tomatoes,Kibuye,64.29,100.0,16800.0,Kisumu,2024-08-18,8
+Tomatoes,Aram,37.5,51.72,8500.0,Siaya,2024-08-19,8
+Tomatoes,Rongo,33.33,88.97,48000.0,Migori,2024-08-19,8
+Tomatoes,Chebunyo,47.5,60.0,5000.0,Bomet,2024-08-19,8
+Tomatoes,Nairobi Wakulima,42.0,50.0,4000.0,Nairobi,2024-08-19,8
+Tomatoes,Aram,37.5,60.61,11500.0,Siaya,2024-08-19,8
+Tomatoes,Kutus,16.67,20.83,4680.0,Kirinyaga,2024-08-19,8
+Tomatoes,Mtwapa,92.31,100.0,600.0,Kilifi,2024-08-19,8
+Tomatoes,Molo,,80.0,1050.0,Nakuru,2024-08-19,8
+Tomatoes,Diani Market,50.0,80.0,6500.0,Kwale,2024-08-19,8
+Tomatoes,Gongoni,50.0,60.0,90000.0,Kilifi,2024-08-19,8
+Tomatoes,Charo wa Mae,40.0,70.0,1040.0,Kilifi,2024-08-19,8
+Tomatoes,Kabati - Muranga,50.0,70.0,4000.0,Muranga,2024-08-20,8
+Tomatoes,Bondo,65.63,70.0,10000.0,Siaya,2024-08-20,8
+Tomatoes,Cheptulu,,76.92,4000.0,Vihiga,2024-08-20,8
+Tomatoes,Kapkwen,90.0,100.0,15000.0,Bomet,2024-08-20,8
+Tomatoes,Ngurubani Market,25.0,30.0,3200.0,Kirinyaga,2024-08-20,8
+Tomatoes,Nkubu,4.0,30.0,4000.0,Meru,2024-08-20,8
+Tomatoes,Kirwara Market,,45.45,2300.0,Muranga,2024-08-20,8
+Tomatoes,Kerugoya,40.0,70.0,1500.0,Kirinyaga,2024-08-20,8
+Tomatoes,Charo wa Mae,38.46,60.0,910.0,Kilifi,2024-08-20,8
+Tomatoes,Charo wa Mae,37.5,60.0,1560.0,Kilifi,2024-08-20,8
+Tomatoes,Charo wa Mae,37.5,60.0,1560.0,Kilifi,2024-08-20,8
+Tomatoes,Gongoni,50.0,60.0,25000.0,Kilifi,2024-08-20,8
+Tomatoes,Wundanyi,,40.0,2500.0,Taita-Taveta,2024-08-20,8
+Tomatoes,Maua,25.0,40.0,17000.0,Meru,2024-08-20,8
+Tomatoes,Taveta Retail Market,15.0,20.0,1000.0,Taita-Taveta,2024-08-21,8
+Tomatoes,Isebania Market,,50.0,800.0,Migori,2024-08-21,8
+Tomatoes,Makutano Kirinyaga,20.0,30.0,4000.0,Kirinyaga,2024-08-21,8
+Tomatoes,Mwingi Town,23.44,30.0,10000.0,Kitui,2024-08-21,8
+Tomatoes,Charo wa Mae,38.46,60.0,1170.0,Kilifi,2024-08-21,8
+Tomatoes,Charo wa Mae,40.0,60.0,1200.0,Kilifi,2024-08-21,8
+Tomatoes,Kabiyet Market,70.0,72.0,1000.0,Nandi,2024-08-21,8
+Tomatoes,Makutano Embu,16.67,,4000.0,Embu,2024-08-21,8
+Tomatoes,Kangeta,35.0,40.0,1570.0,Meru,2024-08-21,8
+Tomatoes,Gongoni,50.0,60.0,30000.0,Kilifi,2024-08-21,8
+Tomatoes,Gikomba,,60.0,2000.0,Nairobi,2024-08-21,8
+Tomatoes,Makutano Embu,20.0,,4000.0,Embu,2024-08-21,8
+Tomatoes,Makutano Embu,22.22,,4000.0,Embu,2024-08-21,8
+Tomatoes,Mukuyu Market,,40.0,4000.0,Muranga,2024-08-21,8
+Tomatoes,Miruka,62.5,100.0,26880.0,Nyamira,2024-08-21,8
+Tomatoes,Mogogosiek Market,6.0,80.0,600.0,Bomet,2024-08-22,8
+Tomatoes,Kerugoya,40.0,60.0,1500.0,Kirinyaga,2024-08-22,8
+Tomatoes,Kabati Kitui,60.0,100.0,22100.0,Kitui,2024-08-22,8
+Tomatoes,Cheptulu,,71.43,4500.0,Vihiga,2024-08-22,8
+Tomatoes,Kinango,33.33,60.0,7000.0,Kwale,2024-08-22,8
+Tomatoes,Aram,40.63,65.22,8000.0,Siaya,2024-08-22,8
+Tomatoes,Rongo,25.0,22.42,48000.0,Migori,2024-08-22,8
+Tomatoes,Gongoni,40.0,50.0,80000.0,Kilifi,2024-08-22,8
+Tomatoes,Aram,40.63,56.5,10500.0,Siaya,2024-08-22,8
+Tomatoes,Charo wa Mae,50.0,80.0,10000.0,Kilifi,2024-08-23,8
+Tomatoes,Cheptulu,,71.43,5500.0,Vihiga,2024-08-23,8
+Tomatoes,Kagio,31.25,39.06,20000.0,Kirinyaga,2024-08-23,8
+Tomatoes,Kamukuywa,125.0,140.63,12000.0,Bungoma,2024-08-23,8
+Tomatoes,Mumias,62.5,110.0,6600.0,Kakamega,2024-08-23,8
+Tomatoes,Kirwara Market,,27.27,2500.0,Muranga,2024-08-23,8
+Tomatoes,Charo wa Mae,50.0,80.0,1170.0,Kilifi,2024-08-23,8
+Tomatoes,Bungoma town,85.0,100.0,7500.0,Bungoma,2024-08-23,8
+Tomatoes,Ngurubani Market,17.5,25.0,4000.0,Kirinyaga,2024-08-23,8
+Tomatoes,Malimili Livestock Market,50.0,80.0,2000.0,Kakamega,2024-08-23,8
+Tomatoes,Gongoni,40.0,50.0,25000.0,Kilifi,2024-08-23,8
+Tomatoes,Makutano Kirinyaga,17.5,25.0,4500.0,Kirinyaga,2024-08-23,8
+Tomatoes,Gakoromone,30.0,45.0,4000.0,Meru,2024-08-23,8
+Tomatoes,Ndanai,80.0,100.0,9800.0,Bomet,2024-08-23,8
+Tomatoes,Serem - Vihiga,,80.0,2500.0,Vihiga,2024-08-24,8
+Tomatoes,Molo,,70.0,1400.0,Nakuru,2024-08-24,8
+Tomatoes,Kapsabet Market,57.14,100.0,10000.0,Nandi,2024-08-24,8
+Tomatoes,Isebania Market,,50.0,300.0,Migori,2024-08-24,8
+Tomatoes,Mwatate,30.0,30.0,5000.0,Taita-Taveta,2024-08-24,8
+Tomatoes,Keroka,20.0,25.0,16000.0,Nyamira,2024-08-25,8
+Tomatoes,Kibiok,40.0,50.0,14000.0,Nandi,2024-08-25,8
+Tomatoes,Mumias,56.25,100.0,6600.0,Kakamega,2024-08-25,8
+Tomatoes,Mghange,30.0,50.0,1500.0,Taita-Taveta,2024-08-25,8
+Tomatoes,Diani Market,50.0,90.0,2500.0,Kwale,2024-08-25,8
+Tomatoes,Mukuyu Market,20.0,40.0,4000.0,Muranga,2024-08-25,8
+Tomatoes,Kibuye,78.57,100.0,33600.0,Kisumu,2024-08-25,8
+Tomatoes,Molo,,60.0,1500.0,Nakuru,2024-08-26,8
+Tomatoes,Chebunyo,67.5,100.0,12800.0,Bomet,2024-08-26,8
+Tomatoes,Charo wa Mae,38.46,70.0,1170.0,Kilifi,2024-08-26,8
+Tomatoes,Aram,45.31,66.37,6500.0,Siaya,2024-08-26,8
+Tomatoes,Kutus,20.0,30.0,5600.0,Kirinyaga,2024-08-26,8
+Tomatoes,Diani Market,50.0,90.0,3500.0,Kwale,2024-08-26,8
+Tomatoes,Kagio,15.63,21.88,45000.0,Kirinyaga,2024-08-26,8
+Tomatoes,Kalundu,23.44,50.0,4000.0,Kitui,2024-08-26,8
+Tomatoes,Gongoni,36.0,50.0,50000.0,Kilifi,2024-08-26,8
+Tomatoes,Aram,43.75,58.94,7500.0,Siaya,2024-08-26,8
+Tomatoes,Kawangware,58.33,,4000.0,Nairobi,2024-08-27,8
+Tomatoes,Kisasi,30.0,50.0,4000.0,Kitui,2024-08-27,8
+Tomatoes,Kerugoya,35.0,60.0,1500.0,Kirinyaga,2024-08-27,8
+Tomatoes,Cheptulu,,71.43,4500.0,Vihiga,2024-08-27,8
+Tomatoes,Charo wa Mae,38.46,80.0,1040.0,Kilifi,2024-08-27,8
+Tomatoes,Charo wa Mae,42.31,80.0,1430.0,Kilifi,2024-08-27,8
+Tomatoes,Ahero,80.0,100.0,7500.0,Kisumu,2024-08-27,8
+Tomatoes,Isebania Market,,100.0,800.0,Migori,2024-08-27,8
+Tomatoes,Kathonzweni,20.0,30.0,7000.0,Makueni,2024-08-27,8
+Tomatoes,Nkubu,2.0,20.0,5000.0,Meru,2024-08-27,8
+Tomatoes,Gongoni,60.0,60.0,3500.0,Kilifi,2024-08-27,8
+Tomatoes,Maua,50.0,80.0,8000.0,Meru,2024-08-27,8
+Tomatoes,Kabiyet Market,70.0,73.6,1000.0,Nandi,2024-08-27,8
+Tomatoes,Ngurubani Market,20.0,30.0,4500.0,Kirinyaga,2024-08-27,8
+Tomatoes,Wundanyi,30.0,40.0,2800.0,Taita-Taveta,2024-08-27,8
+Tomatoes,Mtwapa,50.0,100.0,3900.0,Kilifi,2024-08-27,8
+Tomatoes,Eldoret Main,40.0,50.0,3000.0,Uasin-Gishu,2024-08-27,8
+Tomatoes,Diani Market,60.0,90.0,4500.0,Kwale,2024-08-27,8
+Tomatoes,Kapkwen,37.5,45.0,20000.0,Bomet,2024-08-27,8
+Tomatoes,Gikomba,30.0,50.0,4000.0,Nairobi,2024-08-27,8
+Tomatoes,Kapsabet Market,57.14,100.0,15000.0,Nandi,2024-08-27,8
+Tomatoes,Bondeni,60.0,80.0,2000.0,Trans-Nzoia,2024-08-27,8
+Tomatoes,Taveta Retail Market,15.0,22.0,2500.0,Taita-Taveta,2024-08-28,8
+Tomatoes,Mwatate,20.0,20.0,4000.0,Taita-Taveta,2024-08-28,8
+Tomatoes,Mwingi Town,21.88,30.0,6000.0,Kitui,2024-08-28,8
+Tomatoes,Gongoni,50.0,60.0,4500.0,Kilifi,2024-08-28,8
+Tomatoes,Makutano Embu,,30.0,4000.0,Embu,2024-08-28,8
+Tomatoes,Makutano Embu,16.67,,4000.0,Embu,2024-08-28,8
+Tomatoes,Makutano Embu,20.0,,4000.0,Embu,2024-08-28,8
+Tomatoes,Makutano Embu,22.22,30.0,4000.0,Embu,2024-08-28,8
+Tomatoes,Bondo,78.13,100.0,7000.0,Siaya,2024-08-28,8
+Tomatoes,Kabati - Muranga,50.0,70.0,4000.0,Muranga,2024-08-28,8
+Tomatoes,Mulot,41.67,70.0,1500.0,Bomet,2024-08-28,8
+Tomatoes,Serem - Vihiga,,80.0,3000.0,Vihiga,2024-08-28,8
+Tomatoes,Akala,110.0,50.0,14000.0,Siaya,2024-08-28,8
+Tomatoes,Diani Market,60.0,90.0,3500.0,Kwale,2024-08-28,8
+Tomatoes,Kangeta,25.0,35.0,1650.0,Meru,2024-08-28,8
+Tomatoes,Cheptulu,,83.33,2600.0,Vihiga,2024-08-28,8
+Tomatoes,Kawangware,58.33,,4000.0,Nairobi,2024-08-28,8
+Tomatoes,Gikomba,30.0,50.0,4000.0,Nairobi,2024-08-28,8
+Tomatoes,Makutano Kirinyaga,20.0,25.0,5500.0,Kirinyaga,2024-08-28,8
+Tomatoes,Miruka,39.06,80.0,17920.0,Nyamira,2024-08-28,8
+Tomatoes,Mabera,,58.82,15000.0,Migori,2024-08-29,8
+Tomatoes,Charo wa Mae,40.0,70.0,1560.0,Kilifi,2024-08-29,8
+Tomatoes,Kinango,55.56,70.0,8000.0,Kwale,2024-08-29,8
+Tomatoes,Charo wa Mae,40.0,70.0,900.0,Kilifi,2024-08-29,8
+Tomatoes,Charo wa Mae,38.46,80.0,1170.0,Kilifi,2024-08-29,8
+Tomatoes,Aram,45.31,59.06,7500.0,Siaya,2024-08-29,8
+Tomatoes,Aram,45.31,68.97,5000.0,Siaya,2024-08-29,8
+Tomatoes,Kawangware,58.33,,4000.0,Nairobi,2024-08-29,8
+Tomatoes,Mtwapa,25.0,100.0,260.0,Kilifi,2024-08-29,8
+Tomatoes,Mogogosiek Market,58.82,70.0,400.0,Bomet,2024-08-29,8
+Tomatoes,Kalundu,23.44,50.0,4000.0,Kitui,2024-08-29,8
+Tomatoes,Diani Market,50.0,80.0,4500.0,Kwale,2024-08-29,8
+Tomatoes,Gongoni,40.0,80.0,3550.0,Kilifi,2024-08-29,8
+Tomatoes,Kutus,20.0,30.0,4300.0,Kirinyaga,2024-08-29,8
+Tomatoes,Keroka,25.0,50.0,28000.0,Nyamira,2024-08-30,8
+Tomatoes,Muhoroni,51.43,90.0,3500.0,Kisumu,2024-08-30,8
+Tomatoes,Cheptulu,,71.43,6000.0,Vihiga,2024-08-30,8
+Tomatoes,Ugunja,90.0,100.0,4000.0,Siaya,2024-08-30,8
+Tomatoes,Kerugoya,25.0,50.0,1500.0,Kirinyaga,2024-08-30,8
+Tomatoes,Mumias,46.67,110.0,9300.0,Kakamega,2024-08-30,8
+Tomatoes,Bungoma town,80.0,100.0,6000.0,Bungoma,2024-08-30,8
+Tomatoes,Bondo,80.0,100.0,7000.0,Siaya,2024-08-30,8
+Tomatoes,Ndanai,65.0,100.0,11200.0,Bomet,2024-08-30,8
+Tomatoes,Charo wa Mae,40.0,80.0,1430.0,Kilifi,2024-08-30,8
+Tomatoes,Ngurubani Market,20.0,25.0,5500.0,Kirinyaga,2024-08-30,8
+Tomatoes,Kawangware,58.33,,4000.0,Nairobi,2024-08-30,8
+Tomatoes,Malimili Livestock Market,50.0,60.0,2000.0,Kakamega,2024-08-30,8
+Tomatoes,Gongoni,30.0,40.0,3500.0,Kilifi,2024-08-30,8
+Tomatoes,Wundanyi,25.0,30.0,3000.0,Taita-Taveta,2024-08-30,8
+Tomatoes,Makutano Kirinyaga,20.0,30.0,6500.0,Kirinyaga,2024-08-30,8
+Tomatoes,Diani Market,50.0,90.0,4500.0,Kwale,2024-08-30,8
+Tomatoes,Chuka,20.0,30.0,5000.0,Tharaka-Nithi,2024-08-30,8
+Tomatoes,Kirwara Market,,40.0,2500.0,Muranga,2024-08-30,8
+Tomatoes,Kagio,12.5,18.75,42000.0,Kirinyaga,2024-08-30,8
+Tomatoes,Mtwapa,25.0,100.0,320.0,Kilifi,2024-08-30,8
+Tomatoes,Diani Market,60.0,90.0,4500.0,Kwale,2024-08-31,8
+Tomatoes,Makutano Embu,,33.33,4000.0,Embu,2024-08-31,8
+Tomatoes,Kapsabet Market,57.14,100.0,10000.0,Nandi,2024-08-31,8
+Tomatoes,Akala,110.0,55.56,14000.0,Siaya,2024-08-31,8
+Tomatoes,Kawangware,58.33,,4000.0,Nairobi,2024-08-31,8
+Tomatoes,Mwatate,25.0,30.0,4000.0,Taita-Taveta,2024-08-31,8
+Tomatoes,Isebania Market,,50.0,1200.0,Migori,2024-08-31,8
+Tomatoes,Mukuyu Market,20.0,30.0,4000.0,Muranga,2024-08-31,8
+Tomatoes,Mukuyu Market,20.0,30.0,4000.0,Muranga,2024-08-31,8
+Tomatoes,Kibiok,43.33,50.0,12000.0,Nandi,2024-09-01,9
+Tomatoes,Khayega,70.0,90.0,6000.0,Kakamega,2024-09-01,9
+Tomatoes,Mabera,,58.82,50000.0,Migori,2024-09-01,9
+Tomatoes,Diani Market,60.0,90.0,2500.0,Kwale,2024-09-01,9
+Tomatoes,Kawangware,58.33,,4000.0,Nairobi,2024-09-01,9
+Tomatoes,Kibuye,78.57,100.0,4000.0,Kisumu,2024-09-01,9
+Tomatoes,Rongo,30.0,52.08,60000.0,Migori,2024-09-02,9
+Tomatoes,Molo,,50.0,2300.0,Nakuru,2024-09-02,9
+Tomatoes,Ahero,90.0,100.0,7000.0,Kisumu,2024-09-02,9
+Tomatoes,Gongoni,30.0,50.0,2500.0,Kilifi,2024-09-02,9
+Tomatoes,Chebunyo,65.0,100.0,12800.0,Bomet,2024-09-02,9
+Tomatoes,Charo wa Mae,40.0,80.0,1000.0,Kilifi,2024-09-02,9
+Tomatoes,Gakoromone,25.0,30.0,4000.0,Meru,2024-09-02,9
+Tomatoes,Kalundu,23.44,50.0,4000.0,Kitui,2024-09-02,9
+Tomatoes,Kutus,11.43,17.86,8500.0,Kirinyaga,2024-09-02,9
+Tomatoes,Charo wa Mae,46.15,70.0,1040.0,Kilifi,2024-09-02,9
+Tomatoes,Diani Market,50.0,80.0,5500.0,Kwale,2024-09-02,9
+Tomatoes,Kerugoya,20.0,40.0,2000.0,Kirinyaga,2024-09-03,9
+Tomatoes,Kapsabet Market,57.14,100.0,2000.0,Nandi,2024-09-03,9
+Tomatoes,Maua,25.0,50.0,14000.0,Meru,2024-09-03,9
+Tomatoes,Cheptulu,53.57,89.29,6000.0,Vihiga,2024-09-03,9
+Tomatoes,Charo wa Mae,40.0,80.0,1040.0,Kilifi,2024-09-03,9
+Tomatoes,Diani Market,60.0,90.0,6500.0,Kwale,2024-09-03,9
+Tomatoes,Nkubu,4.0,30.0,4000.0,Meru,2024-09-03,9
+Tomatoes,Nkubu,4.0,30.0,4000.0,Meru,2024-09-03,9
+Tomatoes,Ngurubani Market,20.0,25.0,5200.0,Kirinyaga,2024-09-03,9
+Tomatoes,Kabiyet Market,68.0,72.0,1500.0,Nandi,2024-09-03,9
+Tomatoes,Voi Wholesale,20.0,,2000.0,Taita-Taveta,2024-09-03,9
+Tomatoes,Voi Wholesale,20.0,,4500.0,Taita-Taveta,2024-09-03,9
+Tomatoes,Gongoni,30.0,50.0,20000.0,Kilifi,2024-09-03,9
+Tomatoes,Makutano Kirinyaga,10.0,15.0,5000.0,Kirinyaga,2024-09-04,9
+Tomatoes,Kakamega Town,26.67,50.0,50000.0,Kakamega,2024-09-04,9
+Tomatoes,Bondo,70.31,100.0,14000.0,Siaya,2024-09-04,9
+Tomatoes,Charo wa Mae,38.46,60.0,1690.0,Kilifi,2024-09-04,9
+Tomatoes,Cheptulu,,71.43,3000.0,Vihiga,2024-09-04,9
+Tomatoes,Mwingi Town,21.88,30.0,6000.0,Kitui,2024-09-04,9
+Tomatoes,Kangeta,25.0,35.0,2000.0,Meru,2024-09-04,9
+Tomatoes,Mukuyu Market,,50.0,4000.0,Muranga,2024-09-04,9
+Tomatoes,Gikomba,,60.0,4000.0,Nairobi,2024-09-04,9
+Tomatoes,Akala,110.0,50.0,3500.0,Siaya,2024-09-04,9
+Tomatoes,Gongoni,36.0,50.0,25000.0,Kilifi,2024-09-04,9
+Tomatoes,Molo,,50.0,1300.0,Nakuru,2024-09-04,9
+Tomatoes,Serem - Vihiga,,80.0,3000.0,Vihiga,2024-09-04,9
+Tomatoes,Cheptulu,,76.92,2500.0,Vihiga,2024-09-05,9
+Tomatoes,Rongo,30.0,41.32,62000.0,Migori,2024-09-05,9
+Tomatoes,Kinango,26.67,50.0,8000.0,Kwale,2024-09-05,9
+Tomatoes,Aram,37.5,49.69,8000.0,Siaya,2024-09-05,9
+Tomatoes,Aram,37.5,55.25,9500.0,Siaya,2024-09-05,9
+Tomatoes,Kipkaren,50.0,75.0,3000.0,Kakamega,2024-09-05,9
+Tomatoes,Charo wa Mae,40.0,70.0,675.0,Kilifi,2024-09-05,9
+Tomatoes,Kimilili town,63.64,81.82,10000.0,Bungoma,2024-09-05,9
+Tomatoes,Gikomba,,60.0,4000.0,Nairobi,2024-09-05,9
+Tomatoes,Diani Market,60.0,90.0,3000.0,Kwale,2024-09-05,9
+Tomatoes,Kalundu,23.44,50.0,4000.0,Kitui,2024-09-05,9
+Tomatoes,Kagio,15.63,23.44,40000.0,Kirinyaga,2024-09-05,9
+Tomatoes,Gongoni,30.0,50.0,50000.0,Kilifi,2024-09-05,9
+Tomatoes,Wundanyi,,40.0,2800.0,Taita-Taveta,2024-09-06,9
+Tomatoes,Mogogosiek Market,80.0,120.0,1200.0,Bomet,2024-09-06,9
+Tomatoes,Lungalunga,100.0,130.0,800.0,Kwale,2024-09-06,9
+Tomatoes,Molo,,50.0,1300.0,Nakuru,2024-09-06,9
+Tomatoes,Diani Market,60.0,90.0,3500.0,Kwale,2024-09-06,9
+Tomatoes,Gikomba,,60.0,4000.0,Nairobi,2024-09-06,9
+Tomatoes,Kirwara Market,,30.0,2500.0,Muranga,2024-09-06,9
+Tomatoes,Bungoma town,42.86,71.43,8000.0,Bungoma,2024-09-06,9
+Tomatoes,Malimili Livestock Market,60.0,100.0,2000.0,Kakamega,2024-09-06,9
+Tomatoes,Kerugoya,20.0,40.0,2000.0,Kirinyaga,2024-09-06,9
+Tomatoes,Majengo Vihiga,,83.33,12000.0,Vihiga,2024-09-06,9
+Tomatoes,Kabati - Muranga,50.0,70.0,4000.0,Muranga,2024-09-06,9
+Tomatoes,Mumias,,90.0,9600.0,Kakamega,2024-09-06,9
+Tomatoes,Ndanai,65.0,100.0,10800.0,Bomet,2024-09-06,9
+Tomatoes,Cheptulu,,66.67,6000.0,Vihiga,2024-09-06,9
+Tomatoes,Ngurubani Market,15.0,20.0,4500.0,Kirinyaga,2024-09-06,9
+Tomatoes,Voi Retail,,40.0,160.0,Taita-Taveta,2024-09-06,9
+Tomatoes,Mwatate,25.0,30.0,4000.0,Taita-Taveta,2024-09-07,9
+Tomatoes,Mulot,27.5,50.0,2300.0,Bomet,2024-09-07,9
+Tomatoes,Isebania Market,,100.0,1000.0,Migori,2024-09-07,9
+Tomatoes,Makutano Kirinyaga,15.0,25.0,5200.0,Kirinyaga,2024-09-07,9
+Tomatoes,Serem - Vihiga,,80.0,2000.0,Vihiga,2024-09-07,9
+Tomatoes,Makutano Embu,16.67,,4000.0,Embu,2024-09-07,9
+Tomatoes,Keroka,35.0,100.0,24000.0,Nyamira,2024-09-07,9
+Tomatoes,Akala,110.0,50.0,21000.0,Siaya,2024-09-07,9
+Tomatoes,Diani Market,60.0,90.0,3500.0,Kwale,2024-09-07,9
+Tomatoes,Makutano Embu,8.89,,4000.0,Embu,2024-09-07,9
+Tomatoes,Mukuyu Market,15.0,25.0,4000.0,Muranga,2024-09-07,9
+Tomatoes,Kapsabet Market,91.43,100.0,7000.0,Nandi,2024-09-07,9
+Tomatoes,Cheptulu,,83.33,3000.0,Vihiga,2024-09-08,9
+Tomatoes,Mumias,37.5,90.0,11200.0,Kakamega,2024-09-08,9
+Tomatoes,Mghange,,40.0,2000.0,Taita-Taveta,2024-09-08,9
+Tomatoes,Kibuye,78.57,100.0,8800.0,Kisumu,2024-09-08,9
+Tomatoes,Gongoni,30.0,50.0,7000.0,Kilifi,2024-09-09,9
+Tomatoes,Kutus,20.0,30.0,4850.0,Kirinyaga,2024-09-09,9
+Tomatoes,Gikomba,30.0,60.0,4000.0,Nairobi,2024-09-09,9
+Tomatoes,Diani Market,60.0,90.0,5500.0,Kwale,2024-09-09,9
+Tomatoes,Molo,,50.0,1100.0,Nakuru,2024-09-09,9
+Tomatoes,Cheptulu,,71.43,2100.0,Vihiga,2024-09-09,9
+Tomatoes,Eldoret Main,32.0,35.0,3500.0,Uasin-Gishu,2024-09-09,9
+Tomatoes,Chebunyo,65.0,100.0,12800.0,Bomet,2024-09-09,9
+Tomatoes,Nairobi Wakulima,41.67,100.0,4000.0,Nairobi,2024-09-09,9
+Tomatoes,Kabati Kitui,47.14,100.0,5950.0,Kitui,2024-09-09,9
+Tomatoes,Cheptulu,,66.67,7000.0,Vihiga,2024-09-10,9
+Tomatoes,Kagio,10.94,18.75,45000.0,Kirinyaga,2024-09-10,9
+Tomatoes,Molo,,50.0,1500.0,Nakuru,2024-09-10,9
+Tomatoes,Tawa,40.0,45.0,6500.0,Makueni,2024-09-10,9
+Tomatoes,Ngurubani Market,20.0,25.0,4500.0,Kirinyaga,2024-09-10,9
+Tomatoes,Mabera,,47.06,15000.0,Migori,2024-09-10,9
+Tomatoes,Kerugoya,20.0,50.0,2000.0,Kirinyaga,2024-09-10,9
+Tomatoes,Bondo,48.39,80.0,2000.0,Siaya,2024-09-10,9
+Tomatoes,Isebania Market,,100.0,1000.0,Migori,2024-09-10,9
+Tomatoes,Ahero,80.0,100.0,6000.0,Kisumu,2024-09-10,9
+Tomatoes,Kapsabet Market,57.14,100.0,4000.0,Nandi,2024-09-10,9
+Tomatoes,Kawangware,80.0,,4000.0,Nairobi,2024-09-10,9
+Tomatoes,Kirwara Market,,30.0,3000.0,Muranga,2024-09-10,9
+Tomatoes,Charo wa Mae,40.0,80.0,1560.0,Kilifi,2024-09-10,9
+Tomatoes,Gongoni,30.0,50.0,25000.0,Kilifi,2024-09-10,9
+Tomatoes,Chuka,25.0,30.0,5000.0,Tharaka-Nithi,2024-09-10,9
+Tomatoes,Gikomba,,60.0,4000.0,Nairobi,2024-09-10,9
+Tomatoes,Chumvini Livestock Market,18.75,25.0,3500.0,Taita-Taveta,2024-09-10,9
+Tomatoes,Wundanyi,30.0,40.0,2800.0,Taita-Taveta,2024-09-10,9
+Tomatoes,Nkubu,3.0,25.0,4000.0,Meru,2024-09-10,9
+Tomatoes,Bondeni,60.0,70.0,2500.0,Trans-Nzoia,2024-09-10,9
+Tomatoes,Kabiyet Market,64.0,70.0,1500.0,Nandi,2024-09-10,9
+Tomatoes,Kathonzweni,25.0,30.0,30000.0,Makueni,2024-09-10,9
+Tomatoes,Maua,25.0,40.0,14000.0,Meru,2024-09-10,9
+Tomatoes,Webuye town,55.0,70.0,1200.0,Bungoma,2024-09-11,9
+Tomatoes,Mwatate,25.0,30.0,4500.0,Taita-Taveta,2024-09-11,9
+Tomatoes,Mbale,50.0,83.33,12000.0,Vihiga,2024-09-11,9
+Tomatoes,Makutano Kirinyaga,20.0,25.0,5500.0,Kirinyaga,2024-09-11,9
+Tomatoes,Kakamega Town,40.0,50.0,60000.0,Kakamega,2024-09-11,9
+Tomatoes,Mulot,30.0,50.0,3000.0,Bomet,2024-09-11,9
+Tomatoes,Nairobi Wakulima,50.0,80.0,4000.0,Nairobi,2024-09-11,9
+Tomatoes,Diani Market,60.0,90.0,6500.0,Kwale,2024-09-11,9
+Tomatoes,Embu Town,15.38,30.0,7000.0,Embu,2024-09-11,9
+Tomatoes,Makutano Embu,25.0,30.0,4000.0,Embu,2024-09-11,9
+Tomatoes,Gongoni,30.0,50.0,25000.0,Kilifi,2024-09-11,9
+Tomatoes,Kangeta,25.0,35.0,2300.0,Meru,2024-09-11,9
+Tomatoes,Kipkaren,45.0,65.0,500.0,Kakamega,2024-09-12,9
+Tomatoes,Kinango,44.44,70.0,5000.0,Kwale,2024-09-12,9
+Tomatoes,Mogogosiek Market,60.0,100.0,600.0,Bomet,2024-09-12,9
+Tomatoes,Charo wa Mae,44.44,80.0,630.0,Kilifi,2024-09-12,9
+Tomatoes,Charo wa Mae,50.0,80.0,1560.0,Kilifi,2024-09-12,9
+Tomatoes,Gikomba,,60.0,4000.0,Nairobi,2024-09-12,9
+Tomatoes,Kimilili town,50.0,60.0,10000.0,Bungoma,2024-09-12,9
+Tomatoes,Kalundu,15.63,40.0,4000.0,Kitui,2024-09-12,9
+Tomatoes,Gongoni,30.0,50.0,15000.0,Kilifi,2024-09-12,9
+Tomatoes,Kagio,10.94,15.63,45000.0,Kirinyaga,2024-09-12,9
+Tomatoes,Charo wa Mae,46.15,80.0,1690.0,Kilifi,2024-09-13,9
+Tomatoes,Cheptulu,,71.43,3200.0,Vihiga,2024-09-13,9
+Tomatoes,Ndanai,70.0,100.0,12800.0,Bomet,2024-09-13,9
+Tomatoes,Bondo,83.33,100.0,7000.0,Siaya,2024-09-13,9
+Tomatoes,Mumias,37.5,100.0,4000.0,Kakamega,2024-09-13,9
+Tomatoes,Bungoma town,38.17,76.34,8200.0,Bungoma,2024-09-13,9
+Tomatoes,Kerugoya,20.0,40.0,2000.0,Kirinyaga,2024-09-13,9
+Tomatoes,Chuka,20.0,30.0,6000.0,Tharaka-Nithi,2024-09-13,9
+Tomatoes,Diani Market,60.0,90.0,3500.0,Kwale,2024-09-13,9
+Tomatoes,Kirwara Market,,30.0,3500.0,Muranga,2024-09-13,9
+Tomatoes,Nairobi Wakulima,30.0,60.0,4000.0,Nairobi,2024-09-13,9
+Tomatoes,Gongoni,30.0,50.0,6500.0,Kilifi,2024-09-13,9
+Tomatoes,Wundanyi,30.0,40.0,2500.0,Taita-Taveta,2024-09-13,9
+Tomatoes,Makutano Kirinyaga,25.0,35.0,5000.0,Kirinyaga,2024-09-13,9
+Tomatoes,Ngurubani Market,10.0,15.0,4000.0,Kirinyaga,2024-09-14,9
+Tomatoes,Nairobi Wakulima,40.0,60.0,4000.0,Nairobi,2024-09-14,9
+Tomatoes,Isebania Market,,50.0,1000.0,Migori,2024-09-14,9
+Tomatoes,Molo,,50.0,2200.0,Nakuru,2024-09-14,9
+Tomatoes,Diani Market,60.0,90.0,6500.0,Kwale,2024-09-14,9
+Tomatoes,Marindi,39.06,,45000.0,Migori,2024-09-14,9
+Tomatoes,Mukuyu Market,20.0,30.0,4000.0,Muranga,2024-09-14,9
+Tomatoes,Mabera,,58.82,50000.0,Migori,2024-09-15,9
+Tomatoes,Kibiok,50.0,66.67,10000.0,Nandi,2024-09-15,9
+Tomatoes,Muhoroni,51.43,57.14,3500.0,Kisumu,2024-09-15,9
+Tomatoes,Mghange,,30.0,2000.0,Taita-Taveta,2024-09-15,9
+Tomatoes,Khayega,80.0,100.0,9000.0,Kakamega,2024-09-15,9
+Tomatoes,Kibuye,78.57,100.0,4000.0,Kisumu,2024-09-15,9
+Tomatoes,Kisasi,35.0,50.0,4000.0,Kitui,2024-09-16,9
+Tomatoes,Mbale,91.67,100.0,12000.0,Vihiga,2024-09-16,9
+Tomatoes,Charo wa Mae,50.0,80.0,1170.0,Kilifi,2024-09-16,9
+Tomatoes,Aram,39.06,56.82,12500.0,Siaya,2024-09-16,9
+Tomatoes,Nairobi Wakulima,41.67,80.0,4000.0,Nairobi,2024-09-16,9
+Tomatoes,Kalundu,23.44,50.0,4000.0,Kitui,2024-09-16,9
+Tomatoes,Gongoni,26.0,50.0,50000.0,Kilifi,2024-09-16,9
+Tomatoes,Kutus,10.0,20.0,5680.0,Kirinyaga,2024-09-16,9
+Tomatoes,Molo,,60.0,1600.0,Nakuru,2024-09-16,9
+Tomatoes,Diani Market,60.0,90.0,3500.0,Kwale,2024-09-16,9
+Tomatoes,Kirwara Market,,26.67,3500.0,Muranga,2024-09-17,9
+Tomatoes,Ugunja,75.0,100.0,4000.0,Siaya,2024-09-17,9
+Tomatoes,Ngurubani Market,10.0,15.0,5100.0,Kirinyaga,2024-09-17,9
+Tomatoes,Isebania Market,,66.67,1000.0,Migori,2024-09-17,9
+Tomatoes,Cheptulu,,71.43,5000.0,Vihiga,2024-09-17,9
+Tomatoes,Bondo,46.88,54.69,9000.0,Siaya,2024-09-17,9
+Tomatoes,Kerugoya,20.0,40.0,1500.0,Kirinyaga,2024-09-17,9
+Tomatoes,Charo wa Mae,40.0,80.0,600.0,Kilifi,2024-09-17,9
+Tomatoes,Voi Retail,,35.0,140.0,Taita-Taveta,2024-09-17,9
+Tomatoes,Kathonzweni,40.0,50.0,20000.0,Makueni,2024-09-17,9
+Tomatoes,Ahero,80.0,100.0,7000.0,Kisumu,2024-09-17,9
+Tomatoes,Kapkwen,37.5,60.0,28000.0,Bomet,2024-09-17,9
+Tomatoes,Gongoni,26.0,50.0,7500.0,Kilifi,2024-09-17,9
+Tomatoes,Voi Wholesale,14.29,,2000.0,Taita-Taveta,2024-09-17,9
+Tomatoes,Bondeni,50.0,70.0,2000.0,Trans-Nzoia,2024-09-17,9
+Tomatoes,Chuka,20.0,30.0,5000.0,Tharaka-Nithi,2024-09-17,9
+Tomatoes,Kagio,9.38,12.5,45000.0,Kirinyaga,2024-09-17,9
+Tomatoes,Wundanyi,30.0,40.0,2500.0,Taita-Taveta,2024-09-17,9
+Tomatoes,Kapsabet Market,57.14,80.0,10000.0,Nandi,2024-09-17,9
+Tomatoes,Voi Wholesale,14.29,,4000.0,Taita-Taveta,2024-09-17,9
+Tomatoes,Nairobi Wakulima,50.0,100.0,4000.0,Nairobi,2024-09-17,9
+Tomatoes,Diani Market,60.0,90.0,4500.0,Kwale,2024-09-17,9
+Tomatoes,Nkubu,2.0,20.0,5000.0,Meru,2024-09-17,9
+Tomatoes,Nairobi Wakulima,40.0,120.0,4000.0,Nairobi,2024-09-18,9
+Tomatoes,Mabera,,58.82,50000.0,Migori,2024-09-18,9
+Tomatoes,Mwatate,30.0,30.0,4000.0,Taita-Taveta,2024-09-18,9
+Tomatoes,Mulot,30.0,60.0,2000.0,Bomet,2024-09-18,9
+Tomatoes,Mukuyu Market,,40.0,4000.0,Muranga,2024-09-18,9
+Tomatoes,Miruka,34.38,100.0,20608.0,Nyamira,2024-09-18,9
+Tomatoes,Gikomba,,50.0,4000.0,Nairobi,2024-09-18,9
+Tomatoes,Charo wa Mae,46.15,80.0,1170.0,Kilifi,2024-09-18,9
+Tomatoes,Molo,,50.0,1700.0,Nakuru,2024-09-18,9
+Tomatoes,Maua,25.0,40.0,17000.0,Meru,2024-09-18,9
+Tomatoes,Eldoret Main,80.0,100.0,5500.0,Uasin-Gishu,2024-09-18,9
+Tomatoes,Makutano Kirinyaga,25.0,35.0,5500.0,Kirinyaga,2024-09-18,9
+Tomatoes,Gongoni,26.0,50.0,6500.0,Kilifi,2024-09-18,9
+Tomatoes,Embu Town,16.67,30.0,5000.0,Embu,2024-09-18,9
+Tomatoes,Embu Town,16.67,30.0,7000.0,Embu,2024-09-18,9
+Tomatoes,Diani Market,60.0,90.0,3500.0,Kwale,2024-09-18,9
+Tomatoes,Kabati Kitui,80.0,100.0,7000.0,Kitui,2024-09-19,9
+Tomatoes,Cheptulu,,76.92,2500.0,Vihiga,2024-09-19,9
+Tomatoes,Mabera,,52.94,50000.0,Migori,2024-09-19,9
+Tomatoes,Bondo,62.5,100.0,7000.0,Siaya,2024-09-19,9
+Tomatoes,Kipkaren,65.0,75.0,3000.0,Kakamega,2024-09-19,9
+Tomatoes,Aram,40.63,60.98,15000.0,Siaya,2024-09-19,9
+Tomatoes,Charo wa Mae,50.0,80.0,1040.0,Kilifi,2024-09-19,9
+Tomatoes,Kimilili town,50.0,70.0,12000.0,Bungoma,2024-09-19,9
+Tomatoes,Gikomba,30.0,60.0,4000.0,Nairobi,2024-09-19,9
+Tomatoes,Kutus,20.0,30.0,4300.0,Kirinyaga,2024-09-19,9
+Tomatoes,Kalundu,23.44,50.0,4000.0,Kitui,2024-09-19,9
+Tomatoes,Kinango,33.33,70.0,7000.0,Kwale,2024-09-19,9
+Tomatoes,Charo wa Mae,40.0,80.0,1000.0,Kilifi,2024-09-19,9
+Tomatoes,Cheptulu,52.63,78.95,300.0,Vihiga,2024-09-20,9
+Tomatoes,Kerugoya,20.0,40.0,2000.0,Kirinyaga,2024-09-20,9
+Tomatoes,Chwele,75.0,50.0,3400000.0,Bungoma,2024-09-20,9
+Tomatoes,Bungoma town,100.0,120.0,7800.0,Bungoma,2024-09-20,9
+Tomatoes,Mumias,46.67,85.0,4000.0,Kakamega,2024-09-20,9
+Tomatoes,Kirwara Market,,30.0,3500.0,Muranga,2024-09-20,9
+Tomatoes,Cheptulu,52.63,78.95,6000.0,Vihiga,2024-09-20,9
+Tomatoes,Malimili Livestock Market,60.0,80.0,1200.0,Kakamega,2024-09-20,9
+Tomatoes,Mbale,83.33,82.64,12000.0,Vihiga,2024-09-20,9
+Tomatoes,Voi Wholesale,21.43,,4200.0,Taita-Taveta,2024-09-20,9
+Tomatoes,Voi Wholesale,21.43,,2100.0,Taita-Taveta,2024-09-20,9
+Tomatoes,Chuka,23.33,40.0,5000.0,Tharaka-Nithi,2024-09-20,9
+Tomatoes,Ngurubani Market,25.0,35.0,4500.0,Kirinyaga,2024-09-20,9
+Tomatoes,Gongoni,26.0,50.0,25000.0,Kilifi,2024-09-20,9
+Tomatoes,Nairobi Wakulima,40.0,80.0,4000.0,Nairobi,2024-09-20,9
+Tomatoes,Molo,,50.0,1100.0,Nakuru,2024-09-20,9
+Tomatoes,Makutano Kirinyaga,25.0,35.0,2500.0,Kirinyaga,2024-09-20,9
+Tomatoes,Kangeta,25.0,35.0,3000.0,Meru,2024-09-20,9
+Tomatoes,Lungalunga,80.0,120.0,1000.0,Kwale,2024-09-21,9
+Tomatoes,Mukuyu Market,20.0,30.0,4000.0,Muranga,2024-09-21,9
+Tomatoes,Isebania Market,,50.0,650.0,Migori,2024-09-21,9
+Tomatoes,Molo,,50.0,1300.0,Nakuru,2024-09-21,9
+Tomatoes,Kibuye,85.71,100.0,4000.0,Kisumu,2024-09-22,9
+Tomatoes,Mumias,46.67,80.0,4000.0,Kakamega,2024-09-22,9
+Tomatoes,Majengo Vihiga,50.0,83.33,12000.0,Vihiga,2024-09-22,9
+Tomatoes,Muhoroni,57.14,85.71,3500.0,Kisumu,2024-09-22,9
+Tomatoes,Nairobi Wakulima,40.0,80.0,4000.0,Nairobi,2024-09-23,9
+Tomatoes,Kalundu,23.44,50.0,4000.0,Kitui,2024-09-23,9
+Tomatoes,Kagio,12.5,18.75,45000.0,Kirinyaga,2024-09-23,9
+Tomatoes,Aram,40.63,63.56,10500.0,Siaya,2024-09-23,9
+Tomatoes,Kirwara Market,,25.0,2300.0,Muranga,2024-09-24,9
+Tomatoes,Bondo,23.44,40.0,14000.0,Siaya,2024-09-24,9
+Tomatoes,Charo wa Mae,50.0,80.0,1820.0,Kilifi,2024-09-24,9
+Tomatoes,Kerugoya,20.0,40.0,2000.0,Kirinyaga,2024-09-24,9
+Tomatoes,Voi Retail,,40.0,120.0,Taita-Taveta,2024-09-24,9
+Tomatoes,Kawangware,83.33,,4000.0,Nairobi,2024-09-24,9
+Tomatoes,Nkubu,4.0,30.0,5000.0,Meru,2024-09-24,9
+Tomatoes,Tawa,30.0,35.0,5000.0,Makueni,2024-09-24,9
+Tomatoes,Chuka,23.33,50.0,5000.0,Tharaka-Nithi,2024-09-24,9
+Tomatoes,Ngurubani Market,25.0,40.0,4000.0,Kirinyaga,2024-09-24,9
+Tomatoes,Molo,,50.0,1400.0,Nakuru,2024-09-24,9
+Tomatoes,Diani Market,70.0,100.0,3500.0,Kwale,2024-09-24,9
+Tomatoes,Bondeni,60.0,80.0,2500.0,Trans-Nzoia,2024-09-24,9
+Tomatoes,Gongoni,20.0,40.0,8000.0,Kilifi,2024-09-24,9
+Tomatoes,Mwingi Town,30.0,50.0,6000.0,Kitui,2024-09-25,9
+Tomatoes,Charo wa Mae,50.0,80.0,1690.0,Kilifi,2024-09-25,9
+Tomatoes,Charo wa Mae,53.85,80.0,910.0,Kilifi,2024-09-25,9
+Tomatoes,Mulot,44.12,60.0,2000.0,Bomet,2024-09-25,9
+Tomatoes,Kakamega Town,50.0,100.0,15000.0,Kakamega,2024-09-25,9
+Tomatoes,Molo,,50.0,1400.0,Nakuru,2024-09-25,9
+Tomatoes,Kabiyet Market,32.0,34.0,1500.0,Nandi,2024-09-25,9
+Tomatoes,Gikomba,,60.0,4000.0,Nairobi,2024-09-25,9
+Tomatoes,Kangeta,30.0,40.0,2900.0,Meru,2024-09-25,9
+Tomatoes,Mukuyu Market,,50.0,4000.0,Muranga,2024-09-25,9
+Tomatoes,Diani Market,60.0,90.0,2500.0,Kwale,2024-09-25,9
+Tomatoes,Kawangware,83.33,,4000.0,Nairobi,2024-09-25,9
+Tomatoes,Gongoni,24.0,40.0,5000.0,Kilifi,2024-09-25,9
+Tomatoes,Embu Town,16.67,30.0,10000.0,Embu,2024-09-25,9
+Tomatoes,Makutano Kirinyaga,25.0,35.0,4600.0,Kirinyaga,2024-09-25,9
+Tomatoes,Kinango,33.33,70.0,7000.0,Kwale,2024-09-26,9
+Tomatoes,Mogogosiek Market,26.67,50.0,1500.0,Bomet,2024-09-26,9
+Tomatoes,Charo wa Mae,48.89,80.0,765.0,Kilifi,2024-09-26,9
+Tomatoes,Mabera,58.82,100.0,50000.0,Migori,2024-09-26,9
+Tomatoes,Katito,120.0,150.0,5800.0,Kisumu,2024-09-26,9
+Tomatoes,Maua,25.0,40.0,17000.0,Meru,2024-09-26,9
+Tomatoes,Diani Market,60.0,90.0,3000.0,Kwale,2024-09-26,9
+Tomatoes,Kimilili town,60.0,70.0,10000.0,Bungoma,2024-09-26,9
+Tomatoes,Gongoni,28.0,40.0,16000.0,Kilifi,2024-09-26,9
+Tomatoes,Nairobi Wakulima,40.0,80.0,4000.0,Nairobi,2024-09-26,9
+Tomatoes,Kipkaren,50.0,75.0,3000.0,Kakamega,2024-09-26,9
+Tomatoes,Kawangware,83.33,,4000.0,Nairobi,2024-09-26,9
+Tomatoes,Gikomba,,80.0,4000.0,Nairobi,2024-09-26,9
+Tomatoes,Chwele,88.89,150.0,1400000.0,Bungoma,2024-09-27,9
+Tomatoes,Kisasi,25.0,40.0,4000.0,Kitui,2024-09-27,9
+Tomatoes,Bungoma town,100.0,120.0,8000.0,Bungoma,2024-09-27,9
+Tomatoes,Ndanai,80.0,100.0,9600.0,Bomet,2024-09-27,9
+Tomatoes,Kerugoya,20.0,40.0,2200.0,Kirinyaga,2024-09-27,9
+Tomatoes,Gakoromone,20.0,35.0,3000.0,Meru,2024-09-27,9
+Tomatoes,Mumias,46.67,110.0,6200.0,Kakamega,2024-09-27,9
+Tomatoes,Chuka,25.0,30.0,500.0,Tharaka-Nithi,2024-09-27,9
+Tomatoes,Lungalunga,50.0,70.0,800.0,Kwale,2024-09-27,9
+Tomatoes,Voi Wholesale,21.43,,4200.0,Taita-Taveta,2024-09-27,9
+Tomatoes,Kirwara Market,,27.27,2000.0,Muranga,2024-09-27,9
+Tomatoes,Ngurubani Market,25.0,35.0,3500.0,Kirinyaga,2024-09-27,9
+Tomatoes,Gongoni,26.0,40.0,9000.0,Kilifi,2024-09-27,9
+Tomatoes,Molo,,50.0,1300.0,Nakuru,2024-09-27,9
+Tomatoes,Makutano Kirinyaga,25.0,35.0,3500.0,Kirinyaga,2024-09-27,9
+Tomatoes,Gikomba,,80.0,4000.0,Nairobi,2024-09-27,9
+Tomatoes,Voi Wholesale,21.43,,2100.0,Taita-Taveta,2024-09-27,9
+Tomatoes,Molo,,50.0,1500.0,Nakuru,2024-09-28,9
+Tomatoes,Mwatate,30.0,30.0,5000.0,Taita-Taveta,2024-09-28,9
+Tomatoes,Mumias,,100.0,4000.0,Kakamega,2024-09-29,9
+Tomatoes,Kibiok,60.0,73.33,12000.0,Nandi,2024-09-29,9
+Tomatoes,Khayega,50.0,70.0,8000.0,Kakamega,2024-09-29,9
+Tomatoes,Kibuye,85.71,120.0,4000.0,Kisumu,2024-09-29,9
+Tomatoes,Mabera,58.82,40.0,50000.0,Migori,2024-09-29,9
+Tomatoes,Isebania Market,,100.0,800.0,Migori,2024-09-30,9
+Tomatoes,Kerugoya,20.0,40.0,2200.0,Kirinyaga,2024-09-30,9
+Tomatoes,Chebunyo,65.0,100.0,12000.0,Bomet,2024-09-30,9
+Tomatoes,Kagio,15.63,25.0,40000.0,Kirinyaga,2024-09-30,9
+Tomatoes,Aram,43.75,63.56,11500.0,Siaya,2024-09-30,9
+Tomatoes,Kutus,10.0,20.0,5200.0,Kirinyaga,2024-09-30,9
+Tomatoes,Gongoni,24.0,40.0,18000.0,Kilifi,2024-09-30,9
+Tomatoes,Nairobi Wakulima,45.0,100.0,4000.0,Nairobi,2024-09-30,9
+Tomatoes,Mabera,70.59,66.67,50000.0,Migori,2024-10-01,10
+Tomatoes,Molo,,50.0,1508.0,Nakuru,2024-10-01,10
+Tomatoes,Bondo,46.88,50.0,2000.0,Siaya,2024-10-01,10
+Tomatoes,Diani Market,60.0,90.0,4500.0,Kwale,2024-10-01,10
+Tomatoes,Maua,25.0,40.0,16000.0,Meru,2024-10-01,10
+Tomatoes,Kisasi,30.0,40.0,4000.0,Kitui,2024-10-01,10
+Tomatoes,Mogogosiek Market,50.0,90.0,1300.0,Bomet,2024-10-01,10
+Tomatoes,Kapkwen,37.5,50.0,16000.0,Bomet,2024-10-01,10
+Tomatoes,Bondeni,60.0,80.0,2000.0,Trans-Nzoia,2024-10-01,10
+Tomatoes,Kathonzweni,30.0,40.0,7000.0,Makueni,2024-10-01,10
+Tomatoes,Voi Wholesale,20.0,,2100.0,Taita-Taveta,2024-10-01,10
+Tomatoes,Voi Wholesale,20.0,,4200.0,Taita-Taveta,2024-10-01,10
+Tomatoes,Nairobi Wakulima,40.0,100.0,4000.0,Nairobi,2024-10-01,10
+Tomatoes,Nkubu,4.0,30.0,6000.0,Meru,2024-10-01,10
+Tomatoes,Gongoni,24.0,40.0,15000.0,Kilifi,2024-10-01,10
+Tomatoes,Chuka,25.0,30.0,500.0,Tharaka-Nithi,2024-10-01,10
+Tomatoes,Kawangware,50.0,,4000.0,Nairobi,2024-10-01,10
+Tomatoes,Ngurubani Market,25.0,35.0,3500.0,Kirinyaga,2024-10-01,10
+Tomatoes,Mwingi Town,31.25,50.0,6000.0,Kitui,2024-10-02,10
+Tomatoes,Molo,,50.0,1300.0,Nakuru,2024-10-02,10
+Tomatoes,Miruka,39.06,100.0,20608.0,Nyamira,2024-10-02,10
+Tomatoes,Mulot,44.12,100.0,3000.0,Bomet,2024-10-02,10
+Tomatoes,Kangeta,30.0,40.0,3000.0,Meru,2024-10-02,10
+Tomatoes,Kawangware,50.0,,4000.0,Nairobi,2024-10-02,10
+Tomatoes,Gikomba,,80.0,4000.0,Nairobi,2024-10-02,10
+Tomatoes,Makutano Embu,,30.0,4000.0,Embu,2024-10-02,10
+Tomatoes,Gongoni,24.0,50.0,25000.0,Kilifi,2024-10-02,10
+Tomatoes,Embu Town,18.33,30.0,5000.0,Embu,2024-10-02,10
+Tomatoes,Embu Town,20.0,30.0,3000.0,Embu,2024-10-02,10
+Tomatoes,Soko Mjinga Wajir,40.0,70.0,2500.0,Wajir,2024-10-02,10
+Tomatoes,Kabati - Muranga,50.0,70.0,4000.0,Muranga,2024-10-03,10
+Tomatoes,Mabera,70.59,40.0,90000.0,Migori,2024-10-03,10
+Tomatoes,Kerugoya,20.0,40.0,1800.0,Kirinyaga,2024-10-03,10
+Tomatoes,Bondo,54.69,70.0,7000.0,Siaya,2024-10-03,10
+Tomatoes,Katito,75.0,100.0,5800.0,Kisumu,2024-10-03,10
+Tomatoes,Aram,56.25,67.72,7500.0,Siaya,2024-10-03,10
+Tomatoes,Kinango,33.33,70.0,7000.0,Kwale,2024-10-03,10
+Tomatoes,Kutus,27.15,36.2,3850.0,Kirinyaga,2024-10-03,10
+Tomatoes,Diani Market,60.0,90.0,4000.0,Kwale,2024-10-03,10
+Tomatoes,Cheptulu,,76.92,2700.0,Vihiga,2024-10-03,10
+Tomatoes,Kimilili town,50.0,80.0,10000.0,Bungoma,2024-10-03,10
+Tomatoes,Charo wa Mae,40.0,80.0,1000.0,Kilifi,2024-10-03,10
+Tomatoes,Gongoni,20.0,50.0,60000.0,Kilifi,2024-10-03,10
+Tomatoes,Molo,,50.0,1500.0,Nakuru,2024-10-03,10
+Tomatoes,Gikomba,,80.0,4000.0,Nairobi,2024-10-03,10
+Tomatoes,Kawangware,50.0,,4000.0,Nairobi,2024-10-03,10
+Tomatoes,Ndanai,75.0,100.0,12800.0,Bomet,2024-10-04,10
+Tomatoes,Chwele,72.22,100.0,500000.0,Bungoma,2024-10-04,10
+Tomatoes,Rongo,33.33,155.76,32000.0,Migori,2024-10-04,10
+Tomatoes,Bungoma town,100.0,120.0,7000.0,Bungoma,2024-10-04,10
+Tomatoes,Charo wa Mae,50.0,80.0,1170.0,Kilifi,2024-10-04,10
+Tomatoes,Mumias,,100.0,4000.0,Kakamega,2024-10-04,10
+Tomatoes,Molo,,50.0,1400.0,Nakuru,2024-10-04,10
+Tomatoes,Gakoromone,30.0,35.0,4000.0,Meru,2024-10-04,10
+Tomatoes,Tawa,30.0,40.0,4000.0,Makueni,2024-10-04,10
+Tomatoes,Nairobi Wakulima,40.0,100.0,4000.0,Nairobi,2024-10-04,10
+Tomatoes,Kawangware,54.16,,4000.0,Nairobi,2024-10-04,10
+Tomatoes,Gongoni,24.0,50.0,50000.0,Kilifi,2024-10-04,10
+Tomatoes,Voi Wholesale,21.43,,2100.0,Taita-Taveta,2024-10-04,10
+Tomatoes,Voi Wholesale,21.43,,4900.0,Taita-Taveta,2024-10-04,10
+Tomatoes,Wundanyi,30.0,40.0,2800.0,Taita-Taveta,2024-10-04,10
+Tomatoes,Ngurubani Market,25.0,35.0,3800.0,Kirinyaga,2024-10-04,10
+Tomatoes,Chuka,30.0,40.0,500.0,Tharaka-Nithi,2024-10-04,10
+Tomatoes,Kapsabet Market,57.14,100.0,5000.0,Nandi,2024-10-05,10
+Tomatoes,Samburu,9.72,20.0,14400.0,Kwale,2024-10-05,10
+Tomatoes,Muhoroni,51.43,62.86,3500.0,Kisumu,2024-10-06,10
+Tomatoes,Khayega,60.0,80.0,4000.0,Kakamega,2024-10-06,10
+Tomatoes,Kibiok,100.0,120.0,12000.0,Nandi,2024-10-06,10
+Tomatoes,Mabera,70.59,66.67,35000.0,Migori,2024-10-06,10
+Tomatoes,Butere Livestock Market,46.15,60.0,3250.0,Kakamega,2024-10-07,10
+Tomatoes,Molo,,50.0,1500.0,Nakuru,2024-10-07,10
+Tomatoes,Mwangulu,50.0,60.0,8000.0,Kwale,2024-10-07,10
+Tomatoes,Charo wa Mae,53.85,80.0,1690.0,Kilifi,2024-10-07,10
+Tomatoes,Rongo,33.33,78.74,38000.0,Migori,2024-10-07,10
+Tomatoes,Aram,43.75,61.6,10500.0,Siaya,2024-10-07,10
+Tomatoes,Kisasi,30.0,50.0,4000.0,Kitui,2024-10-07,10
+Tomatoes,Gongoni,24.0,50.0,40000.0,Kilifi,2024-10-07,10
+Tomatoes,Kawangware,54.16,,4000.0,Nairobi,2024-10-07,10
+Tomatoes,Charo wa Mae,50.0,80.0,910.0,Kilifi,2024-10-07,10
+Tomatoes,Kamukuywa,85.94,93.75,13000.0,Bungoma,2024-10-08,10
+Tomatoes,Kabiyet Market,30.0,850.0,2000.0,Nandi,2024-10-08,10
+Tomatoes,Bondo,50.0,,7000.0,Siaya,2024-10-08,10
+Tomatoes,Cheptulu,,71.43,5000.0,Vihiga,2024-10-08,10
+Tomatoes,Bondeni,60.0,80.0,3000.0,Trans-Nzoia,2024-10-08,10
+Tomatoes,Molo,,50.0,1100.0,Nakuru,2024-10-08,10
+Tomatoes,Kawangware,54.16,,4000.0,Nairobi,2024-10-08,10
+Tomatoes,Isebania Market,,40.0,1000.0,Migori,2024-10-08,10
+Tomatoes,Nkubu,4.0,30.0,6000.0,Meru,2024-10-08,10
+Tomatoes,Chuka,30.0,30.0,500.0,Tharaka-Nithi,2024-10-08,10
+Tomatoes,Kirwara Market,,29.41,2500.0,Muranga,2024-10-08,10
+Tomatoes,Gongoni,24.0,50.0,9000.0,Kilifi,2024-10-08,10
+Tomatoes,Ngurubani Market,25.0,35.0,3500.0,Kirinyaga,2024-10-08,10
+Tomatoes,Kapkwen,32.5,60.0,8000.0,Bomet,2024-10-08,10
+Tomatoes,Mogogosiek Market,60.0,60.0,1300.0,Bomet,2024-10-08,10
+Tomatoes,Maua,25.0,40.0,14000.0,Meru,2024-10-08,10
+Tomatoes,Mwatate,25.0,30.0,4000.0,Taita-Taveta,2024-10-09,10
+Tomatoes,Mwingi Town,31.25,50.0,7000.0,Kitui,2024-10-09,10
+Tomatoes,Rongo,33.33,76.69,48000.0,Migori,2024-10-09,10
+Tomatoes,Mulot,58.33,100.0,1000.0,Bomet,2024-10-09,10
+Tomatoes,Sabatia,40.0,66.67,4550.0,Kakamega,2024-10-09,10
+Tomatoes,Molo,,50.0,1400.0,Nakuru,2024-10-09,10
+Tomatoes,Kawangware,54.16,,4000.0,Nairobi,2024-10-09,10
+Tomatoes,Kangeta,30.0,40.0,3150.0,Meru,2024-10-09,10
+Tomatoes,Diani Market,65.0,80.0,3500.0,Kwale,2024-10-09,10
+Tomatoes,Makutano Embu,,30.0,4000.0,Embu,2024-10-09,10
+Tomatoes,Embu Town,21.67,30.0,5000.0,Embu,2024-10-09,10
+Tomatoes,Embu Town,21.67,30.0,6000.0,Embu,2024-10-09,10
+Tomatoes,Miruka,35.94,100.0,26880.0,Nyamira,2024-10-09,10
+Tomatoes,Molo,,50.0,1500.0,Nakuru,2024-10-10,10
+Tomatoes,Diani Market,70.0,100.0,2500.0,Kwale,2024-10-10,10
+Tomatoes,Mabera,,50.0,4000.0,Migori,2024-10-10,10
+Tomatoes,Muhoroni,57.14,71.43,3500.0,Kisumu,2024-10-10,10
+Tomatoes,Kimilili town,40.91,54.55,10000.0,Bungoma,2024-10-10,10
+Tomatoes,Kipkaren,75.0,90.0,3000.0,Kakamega,2024-10-10,10
+Tomatoes,Kalundu,23.44,50.0,4000.0,Kitui,2024-10-10,10
+Tomatoes,Gikomba,,60.0,4000.0,Nairobi,2024-10-10,10
+Tomatoes,Kerugoya,20.0,40.0,2000.0,Kirinyaga,2024-10-10,10
+Tomatoes,Bungoma town,76.92,102.56,10000.0,Bungoma,2024-10-11,10
+Tomatoes,Kagio,15.63,23.44,40000.0,Kirinyaga,2024-10-11,10
+Tomatoes,Chwele,61.11,100.0,600000.0,Bungoma,2024-10-11,10
+Tomatoes,Mumias,,90.0,4000.0,Kakamega,2024-10-11,10
+Tomatoes,Cheptulu,47.62,71.43,6500.0,Vihiga,2024-10-11,10
+Tomatoes,Bondo,78.13,100.0,24000.0,Siaya,2024-10-11,10
+Tomatoes,Kirwara Market,,42.86,3000.0,Muranga,2024-10-11,10
+Tomatoes,Voi Wholesale,20.0,,4200.0,Taita-Taveta,2024-10-11,10
+Tomatoes,Gakoromone,30.0,35.0,3000.0,Meru,2024-10-11,10
+Tomatoes,Kawangware,66.66,,4000.0,Nairobi,2024-10-11,10
+Tomatoes,Gongoni,24.0,50.0,90000.0,Kilifi,2024-10-11,10
+Tomatoes,Wundanyi,,30.0,1500.0,Taita-Taveta,2024-10-11,10
+Tomatoes,Ngurubani Market,25.0,35.0,4000.0,Kirinyaga,2024-10-11,10
+Tomatoes,Voi Wholesale,20.0,,2100.0,Taita-Taveta,2024-10-11,10
+Tomatoes,Ndanai,70.0,100.0,12800.0,Bomet,2024-10-11,10
+Tomatoes,Lungalunga,90.0,140.0,900.0,Kwale,2024-10-12,10
+Tomatoes,Isebania Market,,50.0,1500.0,Migori,2024-10-12,10
+Tomatoes,Marindi,7.03,76.92,29696.0,Migori,2024-10-12,10
+Tomatoes,Marindi,70.31,,29696.0,Migori,2024-10-12,10
+Tomatoes,Diani Market,70.0,100.0,3500.0,Kwale,2024-10-12,10
+Tomatoes,Makutano Embu,,30.0,4000.0,Embu,2024-10-12,10
+Tomatoes,Samburu,0.16,15.0,60.0,Kwale,2024-10-12,10
+Tomatoes,Kapsabet Market,57.14,100.0,10000.0,Nandi,2024-10-12,10
+Tomatoes,Khayega,50.0,60.0,8000.0,Kakamega,2024-10-13,10
+Tomatoes,Mabera,,76.47,50000.0,Migori,2024-10-13,10
+Tomatoes,Mumias,,100.0,4000.0,Kakamega,2024-10-13,10
+Tomatoes,Muhoroni,42.86,62.86,3500.0,Kisumu,2024-10-13,10
+Tomatoes,Chwele,72.22,100.0,900000.0,Bungoma,2024-10-14,10
+Tomatoes,Chebunyo,70.0,100.0,16000.0,Bomet,2024-10-14,10
+Tomatoes,Kerugoya,20.0,40.0,2000.0,Kirinyaga,2024-10-14,10
+Tomatoes,Gongoni,24.0,50.0,50000.0,Kilifi,2024-10-14,10
+Tomatoes,Molo,,50.0,1400.0,Nakuru,2024-10-14,10
+Tomatoes,Kawangware,,66.66,4000.0,Nairobi,2024-10-14,10
+Tomatoes,Kalundu,23.44,50.0,4000.0,Kitui,2024-10-14,10
+Tomatoes,Butere Livestock Market,46.67,66.67,4550.0,Kakamega,2024-10-14,10
+Tomatoes,Mogogosiek Market,70.0,120.0,800.0,Bomet,2024-10-15,10
+Tomatoes,Isebania Market,,100.0,1000.0,Migori,2024-10-15,10
+Tomatoes,Molo,,50.0,1400.0,Nakuru,2024-10-15,10
+Tomatoes,Ahero,50.0,60.0,5000.0,Kisumu,2024-10-15,10
+Tomatoes,Cheptulu,,71.43,5500.0,Vihiga,2024-10-15,10
+Tomatoes,Maua,25.0,40.0,14000.0,Meru,2024-10-15,10
+Tomatoes,Kirwara Market,,23.81,2500.0,Muranga,2024-10-15,10
+Tomatoes,Gikomba,,80.0,4000.0,Nairobi,2024-10-15,10
+Tomatoes,Kisasi,45.0,60.0,4000.0,Kitui,2024-10-15,10
+Tomatoes,Bondo,85.94,100.0,14000.0,Siaya,2024-10-15,10
+Tomatoes,Kapkwen,30.0,40.0,12000.0,Bomet,2024-10-15,10
+Tomatoes,Chuka,30.0,30.0,500.0,Tharaka-Nithi,2024-10-15,10
+Tomatoes,Kawangware,,66.66,4000.0,Nairobi,2024-10-15,10
+Tomatoes,Bondeni,47.06,52.94,2000.0,Trans-Nzoia,2024-10-15,10
+Tomatoes,Wundanyi,,30.0,800.0,Taita-Taveta,2024-10-15,10
+Tomatoes,Gongoni,47.5,70.0,24000.0,Kilifi,2024-10-15,10
+Tomatoes,Ngurubani Market,25.0,40.0,2500.0,Kirinyaga,2024-10-15,10
+Tomatoes,Voi Wholesale,30.0,,5600.0,Taita-Taveta,2024-10-15,10
+Tomatoes,Voi Wholesale,30.0,,2100.0,Taita-Taveta,2024-10-15,10
+Tomatoes,Nkubu,4.0,30.0,5000.0,Meru,2024-10-15,10
+Tomatoes,Mwingi Town,25.0,50.0,5000.0,Kitui,2024-10-16,10
+Tomatoes,Mabera,70.59,40.0,56000.0,Migori,2024-10-16,10
+Tomatoes,Rongo,25.0,49.41,48000.0,Migori,2024-10-16,10
+Tomatoes,Miruka,54.69,100.0,19712.0,Nyamira,2024-10-16,10
+Tomatoes,Mulot,50.0,100.0,800.0,Bomet,2024-10-16,10
+Tomatoes,Makutano Embu,,30.0,4000.0,Embu,2024-10-16,10
+Tomatoes,Kibuye,78.57,100.0,22500.0,Kisumu,2024-10-16,10
+Tomatoes,Kawangware,66.66,,4000.0,Nairobi,2024-10-16,10
+Tomatoes,Gongoni,47.5,70.0,44000.0,Kilifi,2024-10-16,10
+Tomatoes,Embu Town,21.67,30.0,10000.0,Embu,2024-10-16,10
+Tomatoes,Kangeta,30.0,40.0,3000.0,Meru,2024-10-16,10
+Tomatoes,Kinango,33.33,60.0,6000.0,Kwale,2024-10-17,10
+Tomatoes,Aram,43.75,57.58,8500.0,Siaya,2024-10-17,10
+Tomatoes,Gikomba,,80.0,4000.0,Nairobi,2024-10-17,10
+Tomatoes,Kimilili town,50.0,80.0,12000.0,Bungoma,2024-10-17,10
+Tomatoes,Molo,,50.0,1200.0,Nakuru,2024-10-17,10
+Tomatoes,Gongoni,30.0,50.0,40000.0,Kilifi,2024-10-17,10
+Tomatoes,Kawangware,66.66,,4000.0,Nairobi,2024-10-17,10
+Tomatoes,Katito,83.33,100.0,6500.0,Kisumu,2024-10-17,10
+Tomatoes,Kalundu,23.44,50.0,4000.0,Kitui,2024-10-17,10
+Tomatoes,Kerugoya,20.0,50.0,2000.0,Kirinyaga,2024-10-17,10
+Tomatoes,Ndanai,70.0,100.0,12800.0,Bomet,2024-10-18,10
+Tomatoes,Bungoma town,75.0,100.0,9500.0,Bungoma,2024-10-18,10
+Tomatoes,Mumias,,80.0,4000.0,Kakamega,2024-10-18,10
+Tomatoes,Ngurubani Market,25.0,35.0,2500.0,Kirinyaga,2024-10-18,10
+Tomatoes,Cheptulu,,66.67,5000.0,Vihiga,2024-10-18,10
+Tomatoes,Diani Market,70.0,100.0,4000.0,Kwale,2024-10-18,10
+Tomatoes,Malimili Livestock Market,40.0,50.0,3000.0,Kakamega,2024-10-18,10
+Tomatoes,Gakoromone,25.0,30.0,2000.0,Meru,2024-10-18,10
+Tomatoes,Kawangware,66.66,,4000.0,Nairobi,2024-10-18,10
+Tomatoes,Wundanyi,,40.0,1500.0,Taita-Taveta,2024-10-18,10
+Tomatoes,Gongoni,30.0,70.0,80000.0,Kilifi,2024-10-18,10
+Tomatoes,Lungalunga,50.0,100.0,800.0,Kwale,2024-10-18,10
+Tomatoes,Kisasi,25.0,40.0,4000.0,Kitui,2024-10-18,10
+Tomatoes,Mwatate,50.0,50.0,4000.0,Taita-Taveta,2024-10-19,10
+Tomatoes,Samburu,9.72,15.0,21600.0,Kwale,2024-10-19,10
+Tomatoes,Mukuyu Market,20.0,30.0,4000.0,Muranga,2024-10-19,10
+Tomatoes,Runyenjes,20.0,30.0,4000.0,Embu,2024-10-19,10
+Tomatoes,Molo,,50.0,1200.0,Nakuru,2024-10-19,10
+Tomatoes,Isebania Market,,100.0,1000.0,Migori,2024-10-20,10
+Tomatoes,Diani Market,60.0,80.0,2200.0,Kwale,2024-10-20,10
+Tomatoes,Kibuye,78.57,100.0,4000.0,Kisumu,2024-10-20,10
+Tomatoes,Mumias,,100.0,4000.0,Kakamega,2024-10-20,10
+Tomatoes,Keroka,30.0,25.0,26400.0,Nyamira,2024-10-20,10
+Tomatoes,Rongo,50.0,60.9,48000.0,Migori,2024-10-21,10
+Tomatoes,Cheptulu,,71.43,3000.0,Vihiga,2024-10-21,10
+Tomatoes,Mabera,70.59,41.67,10000.0,Migori,2024-10-21,10
+Tomatoes,Aram,40.63,63.69,9500.0,Siaya,2024-10-21,10
+Tomatoes,Kawangware,66.66,,4000.0,Nairobi,2024-10-21,10
+Tomatoes,Chebunyo,65.0,100.0,12800.0,Bomet,2024-10-21,10
+Tomatoes,Serem - Vihiga,,80.0,2500.0,Vihiga,2024-10-21,10
+Tomatoes,Cheptulu,50.0,75.0,6000.0,Vihiga,2024-10-22,10
+Tomatoes,Mogogosiek Market,40.0,70.0,4000.0,Bomet,2024-10-22,10
+Tomatoes,Molo,,50.0,1400.0,Nakuru,2024-10-22,10
+Tomatoes,Bondo,50.0,100.0,21008.0,Siaya,2024-10-22,10
+Tomatoes,Isebania Market,,50.0,1000.0,Migori,2024-10-22,10
+Tomatoes,Nkubu,4.0,30.0,4000.0,Meru,2024-10-22,10
+Tomatoes,Kerugoya,30.0,50.0,1500.0,Kirinyaga,2024-10-22,10
+Tomatoes,Kapsabet Market,57.14,100.0,10000.0,Nandi,2024-10-22,10
+Tomatoes,Ngurubani Market,25.0,35.0,2100.0,Kirinyaga,2024-10-22,10
+Tomatoes,Wundanyi,,40.0,2500.0,Taita-Taveta,2024-10-22,10
+Tomatoes,Maua,25.0,40.0,19000.0,Meru,2024-10-22,10
+Tomatoes,Chuka,30.0,30.0,500.0,Tharaka-Nithi,2024-10-22,10
+Tomatoes,Gongoni,47.5,70.0,56000.0,Kilifi,2024-10-22,10
+Tomatoes,Kapkwen,30.0,50.0,15000.0,Bomet,2024-10-22,10
+Tomatoes,Kawangware,83.33,,4000.0,Nairobi,2024-10-22,10
+Tomatoes,Mwatate,50.0,50.0,5500.0,Taita-Taveta,2024-10-23,10
+Tomatoes,Kakamega Town,30.0,70.0,1000.0,Kakamega,2024-10-23,10
+Tomatoes,Mwingi Town,30.0,50.0,7000.0,Kitui,2024-10-23,10
+Tomatoes,Gikomba,,80.0,4000.0,Nairobi,2024-10-23,10
+Tomatoes,Miruka,39.06,100.0,17024.0,Nyamira,2024-10-23,10
+Tomatoes,Kangeta,30.0,40.0,3100.0,Meru,2024-10-23,10
+Tomatoes,Mulot,44.12,70.0,2000.0,Bomet,2024-10-23,10
+Tomatoes,Kawangware,83.33,,4000.0,Nairobi,2024-10-23,10
+Tomatoes,Kawangware,83.33,,4000.0,Nairobi,2024-10-23,10
+Tomatoes,Kawangware,83.33,,4000.0,Nairobi,2024-10-23,10
+Tomatoes,Mukuyu Market,,50.0,4000.0,Muranga,2024-10-23,10
+Tomatoes,Embu Town,21.67,30.0,6000.0,Embu,2024-10-23,10
+Tomatoes,Kawangware,83.33,,4000.0,Nairobi,2024-10-23,10
+Tomatoes,Kawangware,83.33,,4000.0,Nairobi,2024-10-23,10
+Tomatoes,Runyenjes,33.33,40.0,4800.0,Embu,2024-10-24,10
+Tomatoes,Katito,54.0,65.0,5500.0,Kisumu,2024-10-24,10
+Tomatoes,Molo,,50.0,1300.0,Nakuru,2024-10-24,10
+Tomatoes,Gikomba,,80.0,4000.0,Nairobi,2024-10-24,10
+Tomatoes,Kimilili town,80.0,100.0,14000.0,Bungoma,2024-10-24,10
+Tomatoes,Kawangware,83.33,,4000.0,Nairobi,2024-10-24,10
+Tomatoes,Kinango,40.0,70.0,5000.0,Kwale,2024-10-24,10
+Tomatoes,Kalundu,23.44,50.0,4000.0,Kitui,2024-10-24,10
+Tomatoes,Bungoma town,70.0,100.0,9000.0,Bungoma,2024-10-25,10
+Tomatoes,Mumias,,60.0,4000.0,Kakamega,2024-10-25,10
+Tomatoes,Bondo,46.88,70.0,7000.0,Siaya,2024-10-25,10
+Tomatoes,Cheptulu,66.67,100.0,5300.0,Vihiga,2024-10-25,10
+Tomatoes,Kerugoya,25.0,40.0,2000.0,Kirinyaga,2024-10-25,10
+Tomatoes,Voi Retail,,40.0,120.0,Taita-Taveta,2024-10-25,10
+Tomatoes,Kirwara Market,,28.57,2100.0,Muranga,2024-10-25,10
+Tomatoes,Kawangware,83.33,,4000.0,Nairobi,2024-10-25,10
+Tomatoes,Gongoni,36.0,70.0,9000.0,Kilifi,2024-10-25,10
+Tomatoes,Ngurubani Market,35.0,50.0,3500.0,Kirinyaga,2024-10-25,10
+Tomatoes,Malimili Livestock Market,60.0,70.0,2000.0,Kakamega,2024-10-25,10
+Tomatoes,Samburu,9.72,15.0,18000.0,Kwale,2024-10-26,10
+Tomatoes,Isebania Market,,50.0,1000.0,Migori,2024-10-26,10
+Tomatoes,Mukuyu Market,20.0,30.0,4000.0,Muranga,2024-10-26,10
+Tomatoes,Serem - Vihiga,,80.0,1500.0,Vihiga,2024-10-26,10
+Tomatoes,Muhoroni,42.86,62.86,6000.0,Kisumu,2024-10-27,10
+Tomatoes,Mumias,,70.0,4000.0,Kakamega,2024-10-27,10
+Tomatoes,Kibuye,78.57,100.0,4000.0,Kisumu,2024-10-27,10
+Tomatoes,Khayega,40.0,50.0,7000.0,Kakamega,2024-10-27,10
+Tomatoes,Molo,,50.0,1500.0,Nakuru,2024-10-28,10
+Tomatoes,Serem - Vihiga,,80.0,2000.0,Vihiga,2024-10-28,10
+Tomatoes,Aram,60.94,68.65,11500.0,Siaya,2024-10-28,10
+Tomatoes,Rongo,33.33,95.97,62000.0,Migori,2024-10-28,10
+Tomatoes,Mwangulu,9.09,120.0,3000.0,Kwale,2024-10-28,10
+Tomatoes,Kalundu,23.44,50.0,4000.0,Kitui,2024-10-28,10
+Tomatoes,Butere Livestock Market,53.85,50.0,3250.0,Kakamega,2024-10-28,10
+Tomatoes,Gikomba,,60.0,800.0,Nairobi,2024-10-28,10
+Tomatoes,Kawangware,83.33,,4000.0,Nairobi,2024-10-28,10
+Tomatoes,Cheptulu,,66.67,6000.0,Vihiga,2024-10-29,10
+Tomatoes,Bondo,46.88,50.0,7000.0,Siaya,2024-10-29,10
+Tomatoes,Musoli Market,42.86,1000.0,4000.0,Kakamega,2024-10-29,10
+Tomatoes,Mabera,70.59,40.0,53000.0,Migori,2024-10-29,10
+Tomatoes,Mogogosiek Market,58.82,70.0,18000.0,Bomet,2024-10-29,10
+Tomatoes,Diani Market,80.0,100.0,5500.0,Kwale,2024-10-29,10
+Tomatoes,Kerugoya,30.0,50.0,1800.0,Kirinyaga,2024-10-29,10
+Tomatoes,Kirwara Market,,25.0,2100.0,Muranga,2024-10-29,10
+Tomatoes,Isebania Market,,50.0,800.0,Migori,2024-10-29,10
+Tomatoes,Nkubu,4.0,30.0,4000.0,Meru,2024-10-29,10
+Tomatoes,Gongoni,47.5,70.0,6000.0,Kilifi,2024-10-29,10
+Tomatoes,Kathonzweni,40.0,50.0,21000.0,Makueni,2024-10-29,10
+Tomatoes,Wundanyi,,40.0,1800.0,Taita-Taveta,2024-10-29,10
+Tomatoes,Bondeni,60.0,80.0,2500.0,Trans-Nzoia,2024-10-29,10
+Tomatoes,Ngurubani Market,30.0,40.0,3500.0,Kirinyaga,2024-10-29,10
+Tomatoes,Voi Wholesale,25.0,,2000.0,Taita-Taveta,2024-10-29,10
+Tomatoes,Voi Wholesale,25.0,,5600.0,Taita-Taveta,2024-10-29,10
+Tomatoes,Maua,25.0,40.0,19000.0,Meru,2024-10-29,10
+Tomatoes,Mwingi Town,40.91,60.0,6000.0,Kitui,2024-10-30,10
+Tomatoes,Rongo,46.67,60.1,48000.0,Migori,2024-10-30,10
+Tomatoes,Kabati - Muranga,50.0,70.0,4000.0,Muranga,2024-10-30,10
+Tomatoes,Serem - Vihiga,,80.0,2500.0,Vihiga,2024-10-30,10
+Tomatoes,Makutano Embu,21.67,30.0,4000.0,Embu,2024-10-30,10
+Tomatoes,Sabatia,53.85,60.0,21000.0,Kakamega,2024-10-30,10
+Tomatoes,Kangeta,35.0,40.0,3000.0,Meru,2024-10-30,10
+Tomatoes,Kabiyet Market,32.0,35.0,1500.0,Nandi,2024-10-30,10
+Tomatoes,Mukuyu Market,,30.0,4000.0,Muranga,2024-10-30,10
+Tomatoes,Gongoni,38.0,70.0,20000.0,Kilifi,2024-10-30,10
+Tomatoes,Muhoroni,28.57,51.43,1000.0,Kisumu,2024-10-30,10
+Tomatoes,Embu Town,25.0,40.0,4000.0,Embu,2024-10-30,10
+Tomatoes,Molo,,50.0,1500.0,Nakuru,2024-10-30,10
+Tomatoes,Kerugoya,20.0,40.0,2000.0,Kirinyaga,2024-10-31,10
+Tomatoes,Katito,75.0,100.0,3500.0,Kisumu,2024-10-31,10
+Tomatoes,Bondo,54.69,100.0,7000.0,Siaya,2024-10-31,10
+Tomatoes,Kerugoya,20.0,40.0,2000.0,Kirinyaga,2024-10-31,10
+Tomatoes,Aram,68.75,74.07,9000.0,Siaya,2024-10-31,10
+Tomatoes,Mabera,70.59,150.0,100000.0,Migori,2024-10-31,10
+Tomatoes,Molo,,50.0,1508.0,Nakuru,2024-10-31,10
+Tomatoes,Kinango,44.44,70.0,7000.0,Kwale,2024-10-31,10
+Tomatoes,Gongoni,38.0,70.0,60000.0,Kilifi,2024-10-31,10
+Tomatoes,Kimilili town,50.0,60.0,10000.0,Bungoma,2024-10-31,10
+Tomatoes,Gikomba,,60.0,4000.0,Nairobi,2024-10-31,10
+Tomatoes,Kimilili town,50.0,60.0,10000.0,Bungoma,2024-10-31,10
+Tomatoes,Keroka,35.0,50.0,32000.0,Nyamira,2024-11-01,11
+Tomatoes,Chwele,72.22,50.0,1800000.0,Bungoma,2024-11-01,11
+Tomatoes,Ndanai,65.0,100.0,12800.0,Bomet,2024-11-01,11
+Tomatoes,Bungoma town,96.15,102.56,10000.0,Bungoma,2024-11-01,11
+Tomatoes,Voi Wholesale,25.0,,4900.0,Taita-Taveta,2024-11-01,11
+Tomatoes,Ngurubani Market,30.0,40.0,3500.0,Kirinyaga,2024-11-01,11
+Tomatoes,Malimili Livestock Market,50.0,70.0,2000.0,Kakamega,2024-11-01,11
+Tomatoes,Gakoromone,30.0,35.0,4000.0,Meru,2024-11-01,11
+Tomatoes,Voi Wholesale,25.0,,2000.0,Taita-Taveta,2024-11-01,11
+Tomatoes,Cheptulu,,71.43,4900.0,Vihiga,2024-11-01,11
+Tomatoes,Molo,,50.0,1600.0,Nakuru,2024-11-02,11
+Tomatoes,Kapsabet Market,57.14,100.0,20000.0,Nandi,2024-11-02,11
+Tomatoes,Isebania Market,,111.11,900.0,Migori,2024-11-03,11
+Tomatoes,Mabera,70.59,100.0,45000.0,Migori,2024-11-03,11
+Tomatoes,Kibuye,114.29,120.0,4000.0,Kisumu,2024-11-03,11
+Tomatoes,Mumias,,70.0,4000.0,Kakamega,2024-11-03,11
+Tomatoes,Mghange,,40.0,2000.0,Taita-Taveta,2024-11-03,11
+Tomatoes,Diani Market,70.0,90.0,2000.0,Kwale,2024-11-03,11
+Tomatoes,Khayega,50.0,60.0,7500.0,Kakamega,2024-11-03,11
+Tomatoes,Butere Livestock Market,61.54,80.0,2600.0,Kakamega,2024-11-04,11
+Tomatoes,Kabati Kitui,5.71,100.0,70000.0,Kitui,2024-11-04,11
+Tomatoes,Nairobi Wakulima,,80.0,4000.0,Nairobi,2024-11-04,11
+Tomatoes,Kalundu,39.06,50.0,4000.0,Kitui,2024-11-04,11
+Tomatoes,Aram,68.75,76.53,10500.0,Siaya,2024-11-04,11
+Tomatoes,Ngurubani Market,30.0,40.0,4500.0,Kirinyaga,2024-11-04,11
+Tomatoes,Gakoromone,25.0,30.0,2000.0,Meru,2024-11-04,11
+Tomatoes,Kerugoya,20.0,40.0,2000.0,Kirinyaga,2024-11-05,11
+Tomatoes,Bondo,46.88,50.0,7.0,Siaya,2024-11-05,11
+Tomatoes,Musoli Market,61.54,80.0,3250.0,Kakamega,2024-11-05,11
+Tomatoes,Maua,25.0,40.0,14000.0,Meru,2024-11-05,11
+Tomatoes,Nkubu,4.0,30.0,5000.0,Meru,2024-11-05,11
+Tomatoes,Chuka,30.0,30.0,500.0,Tharaka-Nithi,2024-11-05,11
+Tomatoes,Kirwara Market,,27.78,2000.0,Muranga,2024-11-05,11
+Tomatoes,Gongoni,38.0,70.0,16000.0,Kilifi,2024-11-05,11
+Tomatoes,Mogogosiek Market,58.82,70.0,2100.0,Bomet,2024-11-05,11
+Tomatoes,Kapsabet Market,57.14,100.0,2000.0,Nandi,2024-11-05,11
+Tomatoes,Kathonzweni,40.0,50.0,14000.0,Makueni,2024-11-05,11
+Tomatoes,Molo,,50.0,1400.0,Nakuru,2024-11-05,11
+Tomatoes,Voi Wholesale,35.0,,6000.0,Taita-Taveta,2024-11-05,11
+Tomatoes,Diani Market,80.0,120.0,3500.0,Kwale,2024-11-05,11
+Tomatoes,Voi Wholesale,35.0,,2100.0,Taita-Taveta,2024-11-05,11
+Tomatoes,Molo,,50.0,1280.0,Nakuru,2024-11-06,11
+Tomatoes,Mwatate,45.0,50.0,4000.0,Taita-Taveta,2024-11-06,11
+Tomatoes,Makutano Embu,30.0,30.0,4000.0,Embu,2024-11-06,11
+Tomatoes,Serem - Vihiga,,80.0,2000.0,Vihiga,2024-11-06,11
+Tomatoes,Mulot,73.53,100.0,2000.0,Bomet,2024-11-06,11
+Tomatoes,Kakamega Town,66.67,100.0,10000.0,Kakamega,2024-11-06,11
+Tomatoes,Diani Market,100.0,120.0,4500.0,Kwale,2024-11-06,11
+Tomatoes,Kawangware,,40.0,4000.0,Nairobi,2024-11-06,11
+Tomatoes,Mukuyu Market,,30.0,4000.0,Muranga,2024-11-06,11
+Tomatoes,Sabatia,61.54,70.0,10500.0,Kakamega,2024-11-06,11
+Tomatoes,Kangeta,35.0,40.0,3500.0,Meru,2024-11-06,11
+Tomatoes,Isebania Market,,50.0,900.0,Migori,2024-11-06,11
+Tomatoes,Kalundu,39.06,50.0,4000.0,Kitui,2024-11-07,11
+Tomatoes,Gongoni,38.0,70.0,90000.0,Kilifi,2024-11-07,11
+Tomatoes,Kabati Kitui,57.14,100.0,43000.0,Kitui,2024-11-07,11
+Tomatoes,Kinango,44.44,70.0,7000.0,Kwale,2024-11-07,11
+Tomatoes,Mabera,70.59,66.67,50000.0,Migori,2024-11-07,11
+Tomatoes,Kerugoya,20.0,50.0,2000.0,Kirinyaga,2024-11-07,11
+Tomatoes,Diani Market,90.0,120.0,3500.0,Kwale,2024-11-07,11
+Tomatoes,Kangemi Market,,120.0,4000.0,Nairobi,2024-11-07,11
+Tomatoes,Kabati - Muranga,35.0,50.0,4000.0,Muranga,2024-11-07,11
+Tomatoes,Katito,50.0,100.0,6500.0,Kisumu,2024-11-07,11
+Tomatoes,Bondo,80.0,100.0,6000.0,Siaya,2024-11-08,11
+Tomatoes,Ngurubani Market,30.0,40.0,4500.0,Kirinyaga,2024-11-08,11
+Tomatoes,Lungalunga,90.0,120.0,3000.0,Kwale,2024-11-08,11
+Tomatoes,Cheptulu,45.45,68.18,5500.0,Vihiga,2024-11-08,11
+Tomatoes,Bungoma town,102.56,128.21,12000.0,Bungoma,2024-11-08,11
+Tomatoes,Chwele,94.44,100.0,1200000.0,Bungoma,2024-11-08,11
+Tomatoes,Mumias,,70.0,4000.0,Kakamega,2024-11-08,11
+Tomatoes,Molo,,50.0,1400.0,Nakuru,2024-11-08,11
+Tomatoes,Gakoromone,25.0,30.0,3000.0,Meru,2024-11-08,11
+Tomatoes,Malimili Livestock Market,60.0,70.0,2000.0,Kakamega,2024-11-08,11
+Tomatoes,Ndanai,75.0,1000.0,12800.0,Bomet,2024-11-08,11
+Tomatoes,Voi Retail,,80.0,60.0,Taita-Taveta,2024-11-08,11
+Tomatoes,Kirwara Market,,27.78,3000.0,Muranga,2024-11-08,11
+Tomatoes,Nairobi Wakulima,,60.0,4000.0,Nairobi,2024-11-08,11
+Tomatoes,Gongoni,38.0,70.0,30000.0,Kilifi,2024-11-08,11
+Tomatoes,Gakoromone,30.0,35.0,20000.0,Meru,2024-11-08,11
+Tomatoes,Kisasi,40.0,50.0,4000.0,Kitui,2024-11-08,11
+Tomatoes,Isebania Market,,40.0,1000.0,Migori,2024-11-09,11
+Tomatoes,Holo,82.86,140.0,4000.0,Kisumu,2024-11-09,11
+Tomatoes,Samburu,11.11,25.0,21600.0,Kwale,2024-11-09,11
+Tomatoes,Embu Town,23.33,40.0,5000.0,Embu,2024-11-09,11
+Tomatoes,Kapsabet Market,57.14,100.0,5000.0,Nandi,2024-11-09,11
+Tomatoes,Soko Mjinga Wajir,,70.0,4000.0,Wajir,2024-11-09,11
+Tomatoes,Molo,,50.0,1500.0,Nakuru,2024-11-09,11
+Tomatoes,Kibuye,114.29,150.0,3000.0,Kisumu,2024-11-10,11
+Tomatoes,Mghange,,40.0,2000.0,Taita-Taveta,2024-11-10,11
+Tomatoes,Mabera,,100.0,12000.0,Migori,2024-11-10,11
+Tomatoes,Khayega,60.0,70.0,5000.0,Kakamega,2024-11-10,11
+Tomatoes,Serem - Vihiga,,80.0,1800.0,Vihiga,2024-11-11,11
+Tomatoes,Chebunyo,75.0,100.0,12800.0,Bomet,2024-11-11,11
+Tomatoes,Aram,78.13,85.23,8500.0,Siaya,2024-11-11,11
+Tomatoes,Gongoni,38.0,70.0,90000.0,Kilifi,2024-11-11,11
+Tomatoes,Molo,,50.0,1700.0,Nakuru,2024-11-11,11
+Tomatoes,Kathonzweni,45.0,50.0,7000.0,Makueni,2024-11-12,11
+Tomatoes,Isebania Market,,50.0,1000.0,Migori,2024-11-12,11
+Tomatoes,Bondo,80.0,100.0,6000.0,Siaya,2024-11-12,11
+Tomatoes,Ngurubani Market,25.0,35.0,5400.0,Kirinyaga,2024-11-12,11
+Tomatoes,Cheptulu,,76.92,5400.0,Vihiga,2024-11-12,11
+Tomatoes,Mogogosiek Market,80.0,120.0,2000.0,Bomet,2024-11-12,11
+Tomatoes,Kerugoya,25.0,45.0,1800.0,Kirinyaga,2024-11-12,11
+Tomatoes,Nkubu,4.0,30.0,5000.0,Meru,2024-11-12,11
+Tomatoes,Kirwara Market,,27.78,2500.0,Muranga,2024-11-12,11
+Tomatoes,Kapsabet Market,57.14,100.0,7500.0,Nandi,2024-11-12,11
+Tomatoes,Chuka,30.0,30.0,500.0,Tharaka-Nithi,2024-11-12,11
+Tomatoes,Kapkwen,40.0,60.0,12000.0,Bomet,2024-11-12,11
+Tomatoes,Voi Wholesale,40.0,,2100.0,Taita-Taveta,2024-11-12,11
+Tomatoes,Voi Wholesale,40.0,,6400.0,Taita-Taveta,2024-11-12,11
+Tomatoes,Tawa,40.0,50.0,6000.0,Makueni,2024-11-12,11
+Tomatoes,Molo,,50.0,1400.0,Nakuru,2024-11-13,11
+Tomatoes,Makutano Embu,25.0,40.0,4000.0,Embu,2024-11-13,11
+Tomatoes,Kangeta,35.0,40.0,3000.0,Meru,2024-11-13,11
+Tomatoes,Mwatate,45.0,50.0,4000.0,Taita-Taveta,2024-11-13,11
+Tomatoes,Kawangware,,40.0,4000.0,Nairobi,2024-11-13,11
+Tomatoes,Embu Town,23.33,40.0,3000.0,Embu,2024-11-13,11
+Tomatoes,Embu Town,23.33,40.0,4000.0,Embu,2024-11-13,11
+Tomatoes,Akala,130.0,50.0,2000.0,Siaya,2024-11-13,11
+Tomatoes,Kabati Kitui,4200.0,100.0,5690.0,Kitui,2024-11-14,11
+Tomatoes,Kinango,44.44,80.0,7000.0,Kwale,2024-11-14,11
+Tomatoes,Molo,,50.0,1200.0,Nakuru,2024-11-14,11
+Tomatoes,Ngurubani Market,25.0,30.0,2500.0,Kirinyaga,2024-11-14,11
+Tomatoes,Gongoni,38.0,70.0,50000.0,Kilifi,2024-11-14,11
+Tomatoes,Kimilili town,63.64,72.73,4000.0,Bungoma,2024-11-14,11
+Tomatoes,Kalundu,31.25,50.0,4000.0,Kitui,2024-11-14,11
+Tomatoes,Kipkaren,75.0,100.0,7000.0,Kakamega,2024-11-14,11
+Tomatoes,Maua,30.0,50.0,18000.0,Meru,2024-11-14,11
+Tomatoes,Bungoma town,100.0,150.0,11000.0,Bungoma,2024-11-15,11
+Tomatoes,Ndanai,75.0,100.0,12800.0,Bomet,2024-11-15,11
+Tomatoes,Kerugoya,30.0,50.0,2000.0,Kirinyaga,2024-11-15,11
+Tomatoes,Bondo,80.0,100.0,7000.0,Siaya,2024-11-15,11
+Tomatoes,Gakoromone,30.0,35.0,4000.0,Meru,2024-11-15,11
+Tomatoes,Voi Wholesale,21.43,,5600.0,Taita-Taveta,2024-11-15,11
+Tomatoes,Cheptulu,,71.43,4500.0,Vihiga,2024-11-15,11
+Tomatoes,Kirwara Market,,33.33,2300.0,Muranga,2024-11-15,11
+Tomatoes,Gongoni,38.0,70.0,25000.0,Kilifi,2024-11-15,11
+Tomatoes,Voi Wholesale,21.43,,2100.0,Taita-Taveta,2024-11-15,11
+Tomatoes,Mumias,,60.0,4000.0,Kakamega,2024-11-15,11
+Tomatoes,Kapsabet Market,57.14,100.0,5000.0,Nandi,2024-11-16,11
+Tomatoes,Samburu,12.5,25.0,21600.0,Kwale,2024-11-16,11
+Tomatoes,Mukuyu Market,20.0,30.0,4000.0,Muranga,2024-11-16,11
+Tomatoes,Molo,,50.0,1200.0,Nakuru,2024-11-16,11
+Tomatoes,Mukuyu Market,20.0,30.0,4000.0,Muranga,2024-11-16,11
+Tomatoes,Kibuye,114.29,120.0,4000.0,Kisumu,2024-11-17,11
+Tomatoes,Muhoroni,34.29,51.43,8000.0,Kisumu,2024-11-17,11
+Tomatoes,Mumias,43.75,60.0,4000.0,Kakamega,2024-11-17,11
+Tomatoes,Mabera,76.47,66.67,50000.0,Migori,2024-11-17,11
+Tomatoes,Serem - Vihiga,,80.0,1500.0,Vihiga,2024-11-18,11
+Tomatoes,Molo,,60.0,1400.0,Nakuru,2024-11-18,11
+Tomatoes,Gongoni,38.0,70.0,60000.0,Kilifi,2024-11-18,11
+Tomatoes,Kalundu,31.25,50.0,4000.0,Kitui,2024-11-18,11
+Tomatoes,Aram,68.75,76.53,7500.0,Siaya,2024-11-18,11
+Tomatoes,Cheptulu,,66.67,5000.0,Vihiga,2024-11-19,11
+Tomatoes,Ngurubani Market,25.0,35.0,4500.0,Kirinyaga,2024-11-19,11
+Tomatoes,Marindi,54.69,,44600.0,Migori,2024-11-19,11
+Tomatoes,Kabati - Muranga,50.0,70.0,4000.0,Muranga,2024-11-19,11
+Tomatoes,Holo,,80.0,4000.0,Kisumu,2024-11-19,11
+Tomatoes,Kapsabet Market,57.14,150.0,20000.0,Nandi,2024-11-19,11
+Tomatoes,Kerugoya,20.0,50.0,2000.0,Kirinyaga,2024-11-19,11
+Tomatoes,Bondeni,60.0,80.0,2500.0,Trans-Nzoia,2024-11-19,11
+Tomatoes,Chuka,36.67,50.0,1500.0,Tharaka-Nithi,2024-11-19,11
+Tomatoes,Kirwara Market,,33.33,2100.0,Muranga,2024-11-19,11
+Tomatoes,Nkubu,4.0,30.0,6000.0,Meru,2024-11-19,11
+Tomatoes,Gongoni,38.0,70.0,25000.0,Kilifi,2024-11-19,11
+Tomatoes,Voi Wholesale,35.0,,2500.0,Taita-Taveta,2024-11-19,11
+Tomatoes,Kawangware,,40.0,4000.0,Nairobi,2024-11-19,11
+Tomatoes,Voi Wholesale,35.0,,4200.0,Taita-Taveta,2024-11-19,11
+Tomatoes,Bondo,70.31,100.0,14000.0,Siaya,2024-11-19,11
+Tomatoes,Makutano Embu,23.0,30.0,4000.0,Embu,2024-11-20,11
+Tomatoes,Mulot,44.12,60.0,3000.0,Bomet,2024-11-20,11
+Tomatoes,Kangeta,35.0,40.0,2800.0,Meru,2024-11-20,11
+Tomatoes,Molo,,50.0,1500.0,Nakuru,2024-11-20,11
+Tomatoes,Maua,35.0,50.0,14000.0,Meru,2024-11-20,11
+Tomatoes,Mukuyu Market,,40.0,4000.0,Muranga,2024-11-20,11
+Tomatoes,Akala,13.0,50.0,2000.0,Siaya,2024-11-20,11
+Tomatoes,Embu Town,23.33,40.0,6000.0,Embu,2024-11-20,11
+Tomatoes,Embu Town,23.33,40.0,5000.0,Embu,2024-11-20,11
+Tomatoes,Kawangware,,40.0,4000.0,Nairobi,2024-11-20,11
+Tomatoes,Kalundu,23.44,50.0,4000.0,Kitui,2024-11-21,11
+Tomatoes,Kimilili town,50.0,60.0,7000.0,Bungoma,2024-11-21,11
+Tomatoes,Mabera,70.59,100.0,15000.0,Migori,2024-11-21,11
+Tomatoes,Kinango,40.0,60.0,7000.0,Kwale,2024-11-21,11
+Tomatoes,Molo,,50.0,1100.0,Nakuru,2024-11-21,11
+Tomatoes,Mumias,,90.0,4000.0,Kakamega,2024-11-22,11
+Tomatoes,Chwele,83.33,100.0,3500000.0,Bungoma,2024-11-22,11
+Tomatoes,Bondo,65.63,100.0,7000.0,Siaya,2024-11-22,11
+Tomatoes,Ndanai,65.0,100.0,12800.0,Bomet,2024-11-22,11
+Tomatoes,Gakoromone,25.0,35.0,3000.0,Meru,2024-11-22,11
+Tomatoes,Bungoma town,90.0,120.0,10000.0,Bungoma,2024-11-22,11
+Tomatoes,Kawangware,,40.0,4000.0,Nairobi,2024-11-22,11
+Tomatoes,Nairobi Wakulima,,70.0,4000.0,Nairobi,2024-11-22,11
+Tomatoes,Malimili Livestock Market,60.0,80.0,5000.0,Kakamega,2024-11-22,11
+Tomatoes,Gongoni,36.0,70.0,60000.0,Kilifi,2024-11-22,11
+Tomatoes,Ngurubani Market,30.0,40.0,2500.0,Kirinyaga,2024-11-22,11
+Tomatoes,Kerugoya,25.0,40.0,2000.0,Kirinyaga,2024-11-22,11
+Tomatoes,Kirwara Market,,27.78,3000.0,Muranga,2024-11-22,11
+Tomatoes,Mukuyu Market,20.0,30.0,4000.0,Muranga,2024-11-23,11
+Tomatoes,Molo,,50.0,1400.0,Nakuru,2024-11-23,11
+Tomatoes,Soko Mjinga Wajir,,100.0,4000.0,Wajir,2024-11-23,11
+Tomatoes,Muhoroni,51.43,62.86,10000.0,Kisumu,2024-11-24,11
+Tomatoes,Kibuye,114.29,100.0,3000.0,Kisumu,2024-11-24,11
+Tomatoes,Khayega,50.0,70.0,9000.0,Kakamega,2024-11-24,11
+Tomatoes,Mabera,70.59,100.0,20000.0,Migori,2024-11-24,11
+Tomatoes,Kabati Kitui,5.71,100.0,2580.0,Kitui,2024-11-25,11
+Tomatoes,Kalundu,23.44,50.0,4000.0,Kitui,2024-11-25,11
+Tomatoes,Kerugoya,25.0,50.0,1800.0,Kirinyaga,2024-11-25,11
+Tomatoes,Serem - Vihiga,,80.0,1000.0,Vihiga,2024-11-25,11
+Tomatoes,Isebania Market,,100.0,980.0,Migori,2024-11-26,11
+Tomatoes,Nyakoe,39.68,100.0,36000.0,Kisii,2024-11-26,11
+Tomatoes,Nyakoe,62.5,100.0,22000.0,Kisii,2024-11-26,11
+Tomatoes,Ahero,80.0,100.0,7000.0,Kisumu,2024-11-26,11
+Tomatoes,Nyakoe,58.33,100.0,39000.0,Kisii,2024-11-26,11
+Tomatoes,Tawa,35.0,45.0,5000.0,Makueni,2024-11-26,11
+Tomatoes,Mogogosiek Market,60.0,90.0,3600.0,Bomet,2024-11-26,11
+Tomatoes,Malindi Old Market,60.0,60.0,40.0,Kilifi,2024-11-26,11
+Tomatoes,Chuka,36.67,50.0,1500.0,Tharaka-Nithi,2024-11-26,11
+Tomatoes,Musoli Market,50.0,100.0,5200.0,Kakamega,2024-11-26,11
+Tomatoes,Kisasi,25.0,40.0,4000.0,Kitui,2024-11-26,11
+Tomatoes,Ngurubani Market,35.0,50.0,2500.0,Kirinyaga,2024-11-26,11
+Tomatoes,Kathonzweni,50.0,60.0,21000.0,Makueni,2024-11-26,11
+Tomatoes,Bondeni,60.0,70.0,2000.0,Trans-Nzoia,2024-11-26,11
+Tomatoes,Nkubu,4.0,30.0,5000.0,Meru,2024-11-26,11
+Tomatoes,Gongoni,38.0,70.0,26000.0,Kilifi,2024-11-26,11
+Tomatoes,Kapkwen,30.0,50.0,24000.0,Bomet,2024-11-26,11
+Tomatoes,Kawangware,,30.0,4000.0,Nairobi,2024-11-26,11
+Tomatoes,Miruka,54.69,1000.0,17920.0,Nyamira,2024-11-27,11
+Tomatoes,Gakoromone,25.0,30.0,30000.0,Meru,2024-11-27,11
+Tomatoes,Mwingi Town,54.69,70.0,10000.0,Kitui,2024-11-27,11
+Tomatoes,Sabatia,53.33,80.0,12000.0,Kakamega,2024-11-27,11
+Tomatoes,Gikomba,,60.0,4000.0,Nairobi,2024-11-27,11
+Tomatoes,Makutano Embu,25.0,30.0,4000.0,Embu,2024-11-27,11
+Tomatoes,Gongoni,38.0,70.0,45000.0,Kilifi,2024-11-27,11
+Tomatoes,Nairobi Wakulima,,70.0,4000.0,Nairobi,2024-11-27,11
+Tomatoes,Embu Town,23.33,40.0,5000.0,Embu,2024-11-27,11
+Tomatoes,Embu Town,23.33,40.0,7000.0,Embu,2024-11-27,11
+Tomatoes,Kawangware,,40.0,4000.0,Nairobi,2024-11-27,11
+Tomatoes,Mwatate,45.0,50.0,4000.0,Taita-Taveta,2024-11-27,11
+Tomatoes,Kabati Kitui,85.71,120.0,59060.0,Kitui,2024-11-28,11
+Tomatoes,Katito,85.0,100.0,6500.0,Kisumu,2024-11-28,11
+Tomatoes,Malindi Old Market,58.54,60.0,41.0,Kilifi,2024-11-28,11
+Tomatoes,Kinango,55.56,80.0,3000.0,Kwale,2024-11-28,11
+Tomatoes,Molo,,50.0,1500.0,Nakuru,2024-11-28,11
+Tomatoes,Kalundu,31.25,50.0,4000.0,Kitui,2024-11-28,11
+Tomatoes,Kimilili town,100.0,130.0,7000.0,Bungoma,2024-11-28,11
+Tomatoes,Mabera,76.47,100.0,50000.0,Migori,2024-11-28,11
+Tomatoes,Kawangware,,80.0,4000.0,Nairobi,2024-11-28,11
+Tomatoes,Kerugoya,20.0,50.0,2000.0,Kirinyaga,2024-11-29,11
+Tomatoes,Cheptulu,,83.33,4500.0,Vihiga,2024-11-29,11
+Tomatoes,Bungoma town,90.0,120.0,8500.0,Bungoma,2024-11-29,11
+Tomatoes,Gakoromone,30.0,350.0,4000.0,Meru,2024-11-29,11
+Tomatoes,Malimili Livestock Market,50.0,70.0,3000.0,Kakamega,2024-11-29,11
+Tomatoes,Malimili Livestock Market,50.0,70.0,3000.0,Kakamega,2024-11-29,11
+Tomatoes,Malimili Livestock Market,50.0,70.0,3000.0,Kakamega,2024-11-29,11
+Tomatoes,Malimili Livestock Market,50.0,70.0,3000.0,Kakamega,2024-11-29,11
+Tomatoes,Malimili Livestock Market,50.0,70.0,3000.0,Kakamega,2024-11-29,11
+Tomatoes,Kirwara Market,,35.71,1800.0,Muranga,2024-11-29,11
+Tomatoes,Malimili Livestock Market,50.0,70.0,3000.0,Kakamega,2024-11-29,11
+Tomatoes,Kisasi,30.0,45.0,4000.0,Kitui,2024-11-29,11
+Tomatoes,Chuka,36.67,50.0,2000.0,Tharaka-Nithi,2024-11-29,11
+Tomatoes,Mumias,,90.0,4000.0,Kakamega,2024-11-29,11
+Tomatoes,Gakoromone,25.0,30.0,36000.0,Meru,2024-11-29,11
+Tomatoes,Gongoni,38.0,70.0,45000.0,Kilifi,2024-11-29,11
+Tomatoes,Kawangware,,60.0,4000.0,Nairobi,2024-11-29,11
+Tomatoes,Voi Wholesale,40.0,,2450.0,Taita-Taveta,2024-11-29,11
+Tomatoes,Voi Wholesale,40.0,,5600.0,Taita-Taveta,2024-11-29,11
+Tomatoes,Malimili Livestock Market,50.0,70.0,3000.0,Kakamega,2024-11-29,11
+Tomatoes,Mwatate,35.0,40.0,4000.0,Taita-Taveta,2024-11-30,11
+Tomatoes,Akala,110.0,50.0,14000.0,Siaya,2024-11-30,11
+Tomatoes,Kapsabet Market,57.14,100.0,10000.0,Nandi,2024-11-30,11
+Tomatoes,Molo,,60.0,1500.0,Nakuru,2024-11-30,11
+Tomatoes,Isebania Market,,50.0,700.0,Migori,2024-11-30,11
+Tomatoes,Kibuye,100.0,150.0,4000.0,Kisumu,2024-12-01,12
+Tomatoes,Mumias,,90.0,4000.0,Kakamega,2024-12-01,12
+Tomatoes,Khayega,70.0,80.0,10000.0,Kakamega,2024-12-01,12
+Tomatoes,Mabera,70.59,100.0,15000.0,Migori,2024-12-01,12
+Tomatoes,Kabati Kitui,85.71,100.0,3600.0,Kitui,2024-12-02,12
+Tomatoes,Gongoni,36.0,70.0,90000.0,Kilifi,2024-12-02,12
+Tomatoes,Malindi Old Market,58.54,60.0,41.0,Kilifi,2024-12-02,12
+Tomatoes,Molo,,50.0,1500.0,Nakuru,2024-12-02,12
+Tomatoes,Ugunja,,100.0,4000.0,Siaya,2024-12-03,12
+Tomatoes,Kabati - Muranga,35.0,50.0,4000.0,Muranga,2024-12-03,12
+Tomatoes,Kerugoya,25.0,50.0,1800.0,Kirinyaga,2024-12-03,12
+Tomatoes,Molo,,50.0,1200.0,Nakuru,2024-12-03,12
+Tomatoes,Bondo,70.31,100.0,7000.0,Siaya,2024-12-03,12
+Tomatoes,Nkubu,4.0,30.0,5000.0,Meru,2024-12-03,12
+Tomatoes,Holo,111.43,80.0,4000.0,Kisumu,2024-12-03,12
+Tomatoes,Tawa,40.0,50.0,5000.0,Makueni,2024-12-03,12
+Tomatoes,Gikomba,,60.0,4000.0,Nairobi,2024-12-03,12
+Tomatoes,Kathonzweni,50.0,60.0,35000.0,Makueni,2024-12-03,12
+Tomatoes,Bondeni,50.0,70.0,2500.0,Trans-Nzoia,2024-12-03,12
+Tomatoes,Voi Wholesale,21.43,,2400.0,Taita-Taveta,2024-12-03,12
+Tomatoes,Voi Wholesale,21.43,,4500.0,Taita-Taveta,2024-12-03,12
+Tomatoes,Ngurubani Market,30.0,40.0,2500.0,Kirinyaga,2024-12-03,12
+Tomatoes,Ahero,70.0,100.0,12000.0,Kisumu,2024-12-03,12
+Tomatoes,Chuka,36.67,50.0,1500.0,Tharaka-Nithi,2024-12-03,12
+Tomatoes,Serem - Vihiga,,80.0,2000.0,Vihiga,2024-12-04,12
+Tomatoes,Kawangware,,50.0,4000.0,Nairobi,2024-12-04,12
+Tomatoes,Mukuyu Market,,50.0,4000.0,Muranga,2024-12-04,12
+Tomatoes,Miruka,62.5,100.0,13440.0,Nyamira,2024-12-04,12
+Tomatoes,Mwingi Town,62.5,80.0,4000.0,Kitui,2024-12-04,12
+Tomatoes,Mulot,44.12,80.0,3000.0,Bomet,2024-12-04,12
+Tomatoes,Embu Town,23.33,40.0,3000.0,Embu,2024-12-04,12
+Tomatoes,Kangeta,40.0,50.0,2600.0,Meru,2024-12-04,12
+Tomatoes,Embu Town,23.33,40.0,3000.0,Embu,2024-12-04,12
+Tomatoes,Mwatate,40.0,50.0,2000.0,Taita-Taveta,2024-12-04,12
+Tomatoes,Mwatate,45.0,50.0,2500.0,Taita-Taveta,2024-12-04,12
+Tomatoes,Gikomba,,60.0,1500.0,Nairobi,2024-12-04,12
+Tomatoes,Kipkaren,50.0,75.0,7500.0,Kakamega,2024-12-05,12
+Tomatoes,Kawangware,,60.0,4000.0,Nairobi,2024-12-05,12
+Tomatoes,Molo,,50.0,1100.0,Nakuru,2024-12-05,12
+Tomatoes,Kimilili town,50.0,60.0,3000.0,Bungoma,2024-12-05,12
+Tomatoes,Maua,40.0,60.0,14000.0,Meru,2024-12-05,12
+Tomatoes,Ngurubani Market,30.0,40.0,3500.0,Kirinyaga,2024-12-05,12
+Tomatoes,Katito,50.0,100.0,6200.0,Kisumu,2024-12-05,12
+Tomatoes,Isebania Market,,100.0,650.0,Migori,2024-12-05,12
+Tomatoes,Kabati Kitui,8.57,100.0,4679.0,Kitui,2024-12-05,12
+Tomatoes,Mumias,,90.91,4000.0,Kakamega,2024-12-06,12
+Tomatoes,Cheptulu,,76.92,5200.0,Vihiga,2024-12-06,12
+Tomatoes,Kerugoya,30.0,50.0,2000.0,Kirinyaga,2024-12-06,12
+Tomatoes,Chwele,122.22,200.0,6000000.0,Bungoma,2024-12-06,12
+Tomatoes,Bondo,78.13,100.0,14000.0,Siaya,2024-12-06,12
+Tomatoes,Bungoma town,80.0,100.0,8200.0,Bungoma,2024-12-06,12
+Tomatoes,Kirwara Market,,33.33,2100.0,Muranga,2024-12-06,12
+Tomatoes,Gongoni,40.0,80.0,90000.0,Kilifi,2024-12-06,12
+Tomatoes,Kawangware,,80.0,4000.0,Nairobi,2024-12-06,12
+Tomatoes,Molo,,50.0,1400.0,Nakuru,2024-12-06,12
+Tomatoes,Gikomba,,60.0,4000.0,Nairobi,2024-12-06,12
+Tomatoes,Gakoromone,20.0,30.0,4000.0,Meru,2024-12-06,12
+Tomatoes,Isebania Market,,100.0,1000.0,Migori,2024-12-07,12
+Tomatoes,Molo,,50.0,1400.0,Nakuru,2024-12-07,12
+Tomatoes,Gikomba,,60.0,4000.0,Nairobi,2024-12-07,12
+Tomatoes,Soko Mjinga Wajir,,100.0,4000.0,Wajir,2024-12-07,12
+Tomatoes,Soko Mjinga Wajir,,100.0,4000.0,Wajir,2024-12-07,12
+Tomatoes,Serem - Vihiga,,80.0,2000.0,Vihiga,2024-12-07,12
+Tomatoes,Samburu,16.67,30.0,25200.0,Kwale,2024-12-07,12
+Tomatoes,Kibiok,66.67,83.33,12000.0,Nandi,2024-12-08,12
+Tomatoes,Khayega,50.0,60.0,3000.0,Kakamega,2024-12-08,12
+Tomatoes,Mumias,,100.0,4000.0,Kakamega,2024-12-08,12
+Tomatoes,Muhoroni,34.29,51.43,8000.0,Kisumu,2024-12-08,12
+Tomatoes,Kibuye,135.71,150.0,3000.0,Kisumu,2024-12-08,12
+Tomatoes,Ngurubani Market,35.0,50.0,3500.0,Kirinyaga,2024-12-09,12
+Tomatoes,Kawangware,,60.0,4000.0,Nairobi,2024-12-09,12
+Tomatoes,Gongoni,38.0,70.0,60000.0,Kilifi,2024-12-09,12
+Tomatoes,Butere Livestock Market,56.25,80.0,5600.0,Kakamega,2024-12-09,12
+Tomatoes,Ugunja,70.0,80.0,4000.0,Siaya,2024-12-10,12
+Tomatoes,Kamukuywa,85.94,93.75,6000.0,Bungoma,2024-12-10,12
+Tomatoes,Kamukuywa,117.19,125.0,8000.0,Bungoma,2024-12-10,12
+Tomatoes,Mabera,,50.0,15000.0,Migori,2024-12-10,12
+Tomatoes,Cheptulu,,66.67,5400.0,Vihiga,2024-12-10,12
+Tomatoes,Malindi Old Market,58.54,60.0,41.0,Kilifi,2024-12-10,12
+Tomatoes,Bondo,90.63,130.0,14000.0,Siaya,2024-12-10,12
+Tomatoes,Nyakoe,50.0,120.0,45600.0,Kisii,2024-12-10,12
+Tomatoes,Molo,,50.0,1500.0,Nakuru,2024-12-10,12
+Tomatoes,Kirwara Market,,35.71,2200.0,Muranga,2024-12-10,12
+Tomatoes,Kathonzweni,50.0,60.0,21000.0,Makueni,2024-12-10,12
+Tomatoes,Gikomba,44.0,60.0,4000.0,Nairobi,2024-12-10,12
+Tomatoes,Ahero,80.0,100.0,7500.0,Kisumu,2024-12-10,12
+Tomatoes,Nkubu,4.0,30.0,5000.0,Meru,2024-12-10,12
+Tomatoes,Chuka,36.67,50.0,2000.0,Tharaka-Nithi,2024-12-10,12
+Tomatoes,Mogogosiek Market,58.82,80.0,2400.0,Bomet,2024-12-10,12
+Tomatoes,Kawangware,,60.0,4000.0,Nairobi,2024-12-10,12
+Tomatoes,Kerugoya,25.0,50.0,1800.0,Kirinyaga,2024-12-10,12
+Tomatoes,Mulot,73.53,150.0,800.0,Bomet,2024-12-11,12
+Tomatoes,Kakamega Town,30.0,80.0,10000.0,Kakamega,2024-12-11,12
+Tomatoes,Maua,40.0,60.0,14000.0,Meru,2024-12-11,12
+Tomatoes,Mukuyu Market,,40.0,4000.0,Muranga,2024-12-11,12
+Tomatoes,Akala,110.0,50.0,14000.0,Siaya,2024-12-11,12
+Tomatoes,Mwingi Town,70.0,100.0,5000.0,Kitui,2024-12-11,12
+Tomatoes,Gakoromone,30.0,50.0,4000.0,Meru,2024-12-11,12
+Tomatoes,Isebania Market,,100.0,500.0,Migori,2024-12-11,12
+Tomatoes,Embu Town,20.0,40.0,5000.0,Embu,2024-12-11,12
+Tomatoes,Gakoromone,30.0,35.0,58000.0,Meru,2024-12-11,12
+Tomatoes,Kawangware,,60.0,4000.0,Nairobi,2024-12-11,12
+Tomatoes,Kangeta,40.0,50.0,2400.0,Meru,2024-12-11,12
+Tomatoes,Embu Town,20.0,40.0,4000.0,Embu,2024-12-11,12
+Tomatoes,Kalundu,31.25,50.0,4000.0,Kitui,2024-12-12,12
+Tomatoes,Serem - Vihiga,,80.0,2000.0,Vihiga,2024-12-12,12
+Tomatoes,Kinango,55.56,80.0,5000.0,Kwale,2024-12-12,12
+Tomatoes,Kirwara Market,,38.46,1800.0,Muranga,2024-12-13,12
+Tomatoes,Ndanai,65.0,100.0,12800.0,Bomet,2024-12-13,12
+Tomatoes,Daraja Mbili,47.62,80.0,21000.0,Kisii,2024-12-13,12
+Tomatoes,Daraja Mbili,58.33,120.0,33000.0,Kisii,2024-12-13,12
+Tomatoes,Daraja Mbili,58.33,80.0,24000.0,Kisii,2024-12-13,12
+Tomatoes,Mumias,,110.0,4000.0,Kakamega,2024-12-13,12
+Tomatoes,Kisasi,25.0,40.0,4000.0,Kitui,2024-12-13,12
+Tomatoes,Chuka,36.67,50.0,1500.0,Tharaka-Nithi,2024-12-13,12
+Tomatoes,Voi Wholesale,46.43,,5600.0,Taita-Taveta,2024-12-13,12
+Tomatoes,Lungalunga,100.0,150.0,1000.0,Kwale,2024-12-13,12
+Tomatoes,Molo,,50.0,1400.0,Nakuru,2024-12-13,12
+Tomatoes,Voi Wholesale,47.14,,2000.0,Taita-Taveta,2024-12-13,12
+Tomatoes,Makutano Embu,20.0,40.0,4000.0,Embu,2024-12-14,12
+Tomatoes,Isebania Market,,140.0,900.0,Migori,2024-12-14,12
+Tomatoes,Ngurubani Market,35.0,50.0,2500.0,Kirinyaga,2024-12-14,12
+Tomatoes,Samburu,13.89,25.0,21600.0,Kwale,2024-12-14,12
+Tomatoes,Kabati - Muranga,50.0,70.0,4000.0,Muranga,2024-12-14,12
+Tomatoes,Kagio,23.44,31.25,30000.0,Kirinyaga,2024-12-14,12
+Tomatoes,Mwatate,40.0,50.0,4000.0,Taita-Taveta,2024-12-14,12
+Tomatoes,Kibuye,100.0,120.0,4000.0,Kisumu,2024-12-15,12
+Tomatoes,Khayega,50.0,70.0,8000.0,Kakamega,2024-12-15,12
+Tomatoes,Kabati Kitui,70.0,100.0,3400.0,Kitui,2024-12-16,12
+Tomatoes,Ngurubani Market,35.0,50.0,2500.0,Kirinyaga,2024-12-16,12
+Tomatoes,Mabera,88.24,300.0,150000.0,Migori,2024-12-16,12
+Tomatoes,Bondo,78.13,100.0,14000.0,Siaya,2024-12-16,12
+Tomatoes,Ahero,80.0,100.0,8000.0,Kisumu,2024-12-16,12
+Tomatoes,Gakoromone,30.0,35.0,18000.0,Meru,2024-12-16,12
+Tomatoes,Butere Livestock Market,53.33,80.0,5250.0,Kakamega,2024-12-16,12
+Tomatoes,Kangeta,40.0,70.0,2250.0,Meru,2024-12-16,12
+Tomatoes,Gakoromone,25.0,35.0,4000.0,Meru,2024-12-16,12
+Tomatoes,Gikomba,,60.0,4000.0,Nairobi,2024-12-16,12
+Tomatoes,Kalundu,31.25,50.0,4000.0,Kitui,2024-12-16,12
+Tomatoes,Kawangware,,50.0,4000.0,Nairobi,2024-12-16,12
+Tomatoes,Molo,,50.0,1400.0,Nakuru,2024-12-16,12
+Tomatoes,Ugunja,70.0,80.0,4000.0,Siaya,2024-12-17,12
+Tomatoes,Nyakoe,95.24,80.0,50000.0,Kisii,2024-12-17,12
+Tomatoes,Bondo,78.13,100.0,14000.0,Siaya,2024-12-17,12
+Tomatoes,Kathonzweni,45.0,50.0,30000.0,Makueni,2024-12-17,12
+Tomatoes,Holo,107.14,100.0,4000.0,Kisumu,2024-12-17,12
+Tomatoes,Chuka,36.67,50.0,1500.0,Tharaka-Nithi,2024-12-17,12
+Tomatoes,Molo,,60.0,1200.0,Nakuru,2024-12-17,12
+Tomatoes,Mogogosiek Market,58.82,75.0,4200.0,Bomet,2024-12-17,12
+Tomatoes,Maua,40.0,60.0,13000.0,Meru,2024-12-17,12
+Tomatoes,Kerugoya,25.0,50.0,1800.0,Kirinyaga,2024-12-17,12
+Tomatoes,Voi Wholesale,30.0,,5600.0,Taita-Taveta,2024-12-17,12
+Tomatoes,Nkubu,6.0,40.0,5000.0,Meru,2024-12-17,12
+Tomatoes,Kawangware,,50.0,4000.0,Nairobi,2024-12-17,12
+Tomatoes,Kirwara Market,,38.46,1900.0,Muranga,2024-12-17,12
+Tomatoes,Voi Wholesale,30.0,,2000.0,Taita-Taveta,2024-12-17,12
+Tomatoes,Embu Town,26.67,40.0,7000.0,Embu,2024-12-18,12
+Tomatoes,Embu Town,26.67,40.0,6000.0,Embu,2024-12-18,12
+Tomatoes,Kawangware,,50.0,4000.0,Nairobi,2024-12-18,12
+Tomatoes,Serem - Vihiga,,80.0,1000.0,Vihiga,2024-12-18,12
+Tomatoes,Gongoni,38.0,70.0,60000.0,Kilifi,2024-12-18,12
+Tomatoes,Molo,,60.0,1200.0,Nakuru,2024-12-18,12
+Tomatoes,Cheptulu,,71.43,3000.0,Vihiga,2024-12-18,12
+Tomatoes,Kakamega Town,50.0,90.0,10000.0,Kakamega,2024-12-18,12
+Tomatoes,Mulot,44.12,70.0,3000.0,Bomet,2024-12-18,12
+Tomatoes,Mukuyu Market,,30.0,4000.0,Muranga,2024-12-18,12
+Tomatoes,Kabiyet Market,70.0,112.0,5000.0,Nandi,2024-12-19,12
+Tomatoes,Kabiyet Market,70.0,112.0,5000.0,Nandi,2024-12-19,12
+Tomatoes,Kinango,44.44,70.0,5000.0,Kwale,2024-12-19,12
+Tomatoes,Mabera,,60.0,30000.0,Migori,2024-12-19,12
+Tomatoes,Kabati - Muranga,50.0,70.0,4000.0,Muranga,2024-12-19,12
+Tomatoes,Kawangware,,60.0,4000.0,Nairobi,2024-12-19,12
+Tomatoes,Kalundu,31.25,50.0,4000.0,Kitui,2024-12-19,12
+Tomatoes,Runyenjes,25.0,35.0,1000.0,Embu,2024-12-19,12
+Tomatoes,Ngurubani Market,35.0,50.0,2100.0,Kirinyaga,2024-12-20,12
+Tomatoes,Kerugoya,30.0,50.0,1800.0,Kirinyaga,2024-12-20,12
+Tomatoes,Cheptulu,,71.43,4000.0,Vihiga,2024-12-20,12
+Tomatoes,Gakoromone,25.0,30.0,3000.0,Meru,2024-12-20,12
+Tomatoes,Bondo,78.13,100.0,14000.0,Siaya,2024-12-20,12
+Tomatoes,Malimili Livestock Market,70.0,80.0,2000.0,Kakamega,2024-12-20,12
+Tomatoes,Mumias,,80.0,4000.0,Kakamega,2024-12-20,12
+Tomatoes,Gakoromone,30.0,35.0,58000.0,Meru,2024-12-20,12
+Tomatoes,Molo,,60.0,1500.0,Nakuru,2024-12-20,12
+Tomatoes,Gongoni,38.0,70.0,50000.0,Kilifi,2024-12-20,12
+Tomatoes,Voi Wholesale,30.0,,2000.0,Taita-Taveta,2024-12-20,12
+Tomatoes,Lungalunga,60.0,100.0,9000.0,Kwale,2024-12-20,12
+Tomatoes,Kirwara Market,,35.71,2200.0,Muranga,2024-12-20,12
+Tomatoes,Voi Wholesale,30.0,,4500.0,Taita-Taveta,2024-12-20,12
+Tomatoes,Kagio,18.75,28.13,42000.0,Kirinyaga,2024-12-21,12
+Tomatoes,Sabatia,69.23,100.0,7150.0,Kakamega,2024-12-21,12
+Tomatoes,Kakamega Town,30.0,60.0,10000.0,Kakamega,2024-12-21,12
+Tomatoes,Makutano Embu,30.0,40.0,4000.0,Embu,2024-12-21,12
+Tomatoes,Isebania Market,,40.0,700.0,Migori,2024-12-21,12
+Tomatoes,Khayega,120.0,150.0,6000.0,Kakamega,2024-12-22,12
+Tomatoes,Kibuye,114.29,150.0,4000.0,Kisumu,2024-12-22,12
+Tomatoes,Chepterit Market - Nandi,20.0,20.0,10.0,Nandi,2024-12-23,12
+Tomatoes,Kangeta,40.0,50.0,2300.0,Meru,2024-12-23,12
+Tomatoes,Cheptulu,,66.67,3000.0,Vihiga,2024-12-23,12
+Tomatoes,Molo,,60.0,1700.0,Nakuru,2024-12-23,12
+Tomatoes,Nkubu,10.0,60.0,7000.0,Meru,2024-12-24,12
+Tomatoes,Kawangware,,50.0,4000.0,Nairobi,2024-12-24,12
+Tomatoes,Kerugoya,30.0,50.0,1800.0,Kirinyaga,2024-12-24,12
+Tomatoes,Maua,40.0,60.0,14000.0,Meru,2024-12-24,12
+Tomatoes,Maua,450.0,500.0,2000.0,Meru,2024-12-24,12
+Tomatoes,Ngurubani Market,35.0,50.0,2400.0,Kirinyaga,2024-12-24,12
+Tomatoes,Mwatate,85.0,90.0,4500.0,Taita-Taveta,2024-12-24,12
+Tomatoes,Kabiyet Market,66.0,97.0,3500.0,Nandi,2024-12-24,12
+Tomatoes,Cheptulu,,71.43,4900.0,Vihiga,2024-12-24,12
+Tomatoes,Nyakoe,83.33,80.0,20000.0,Kisii,2024-12-24,12
+Tomatoes,Bondo,78.13,100.0,21000.0,Siaya,2024-12-24,12
+Tomatoes,Holo,,100.0,4000.0,Kisumu,2024-12-24,12
+Tomatoes,Kawangware,,60.0,4000.0,Nairobi,2024-12-25,12
+Tomatoes,Kakamega Town,40.0,120.0,2000.0,Kakamega,2024-12-25,12
+Tomatoes,Kalundu,70.31,100.0,4000.0,Kitui,2024-12-26,12
+Tomatoes,Kinango,55.56,80.0,3500.0,Kwale,2024-12-26,12
+Tomatoes,Cheptulu,,66.67,2200.0,Vihiga,2024-12-26,12
+Tomatoes,Kawangware,,60.0,4000.0,Nairobi,2024-12-27,12
+Tomatoes,Ngurubani Market,35.0,50.0,3500.0,Kirinyaga,2024-12-27,12
+Tomatoes,Isebania Market,,40.0,350.0,Migori,2024-12-27,12
+Tomatoes,Cheptulu,,62.5,4000.0,Vihiga,2024-12-27,12
+Tomatoes,Nyakoe,55.56,80.0,20000.0,Kisii,2024-12-27,12
+Tomatoes,Mumias,,80.0,4000.0,Kakamega,2024-12-27,12
+Tomatoes,Kerugoya,30.0,50.0,1800.0,Kirinyaga,2024-12-27,12
+Tomatoes,Kagio,39.06,46.88,30000.0,Kirinyaga,2024-12-27,12
+Tomatoes,Gakoromone,45.0,50.0,90000.0,Meru,2024-12-27,12
+Tomatoes,Nyakoe,47.62,70.0,1600.0,Kisii,2024-12-27,12
+Tomatoes,Bondo,75.0,100.0,14000.0,Siaya,2024-12-28,12
+Tomatoes,Mwatate,55.0,60.0,4000.0,Taita-Taveta,2024-12-28,12
+Tomatoes,Kibuye,114.29,150.0,4000.0,Kisumu,2024-12-29,12
+Tomatoes,Mumias,,80.0,4000.0,Kakamega,2024-12-29,12
+Tomatoes,Khayega,80.0,90.0,2500.0,Kakamega,2024-12-29,12
+Tomatoes,Cheptulu,,83.33,3400.0,Vihiga,2024-12-30,12
+Tomatoes,Butere Livestock Market,111.11,100.0,2250.0,Kakamega,2024-12-30,12
+Tomatoes,Gakoromone,60.0,70.0,2000.0,Meru,2024-12-30,12
+Tomatoes,Molo,,60.0,1400.0,Nakuru,2024-12-30,12
+Tomatoes,Ngurubani Market,35.0,50.0,4000.0,Kirinyaga,2024-12-30,12
+Tomatoes,Kalundu,70.31,100.0,4000.0,Kitui,2024-12-30,12
+Tomatoes,Kangeta,40.0,50.0,2200.0,Meru,2024-12-30,12
+Tomatoes,Cheptulu,,71.43,4500.0,Vihiga,2024-12-31,12
+Tomatoes,Bondo,70.31,100.0,2000.0,Siaya,2024-12-31,12
+Tomatoes,Kawangware,,80.0,4000.0,Nairobi,2024-12-31,12
+Tomatoes,Kerugoya,30.0,50.0,1800.0,Kirinyaga,2024-12-31,12
+Tomatoes,Musoli Market,90.0,100.0,3900.0,Kakamega,2024-12-31,12
+Tomatoes,Maua,40.0,60.0,15000.0,Meru,2024-12-31,12
+Tomatoes,Kagio,34.38,43.75,40000.0,Kirinyaga,2024-12-31,12
+Tomatoes,Nkubu,6.0,40.0,4000.0,Meru,2024-12-31,12
+Tomatoes,Mwatate,55.0,60.0,4000.0,Taita-Taveta,2024-12-31,12
+Tomatoes,Molo,,60.0,1300.0,Nakuru,2024-12-31,12
+Tomatoes,Ahero,80.0,100.0,12000.0,Kisumu,2024-12-31,12
+Tomatoes,Kawangware,,60.0,4000.0,Nairobi,2025-01-01,1
+Tomatoes,Kinango,55.56,80.0,3000.0,Kwale,2025-01-02,1
+Tomatoes,Molo,,60.0,11300.0,Nakuru,2025-01-02,1
+Tomatoes,Kalundu,31.25,50.0,4000.0,Kitui,2025-01-02,1
+Tomatoes,Isebania Market,,40.0,1000.0,Migori,2025-01-02,1
+Tomatoes,Kerugoya,30.0,50.0,1500.0,Kirinyaga,2025-01-02,1
+Tomatoes,Kangemi Market,,120.0,4000.0,Nairobi,2025-01-03,1
+Tomatoes,Malimili Livestock Market,60.0,70.0,2000.0,Kakamega,2025-01-03,1
+Tomatoes,Gakoromone,45.0,50.0,30000.0,Meru,2025-01-03,1
+Tomatoes,Kabati - Muranga,50.0,70.0,4000.0,Muranga,2025-01-03,1
+Tomatoes,Cheptulu,,83.33,4800.0,Vihiga,2025-01-03,1
+Tomatoes,Ahero,80.0,100.0,17000.0,Kisumu,2025-01-03,1
+Tomatoes,Ngurubani Market,50.0,75.0,2100.0,Kirinyaga,2025-01-03,1
+Tomatoes,Molo,,60.0,1300.0,Nakuru,2025-01-04,1
+Tomatoes,Akala,160.0,160.0,2000.0,Siaya,2025-01-04,1
+Tomatoes,Kagio,3.13,39.06,32000.0,Kirinyaga,2025-01-04,1
+Tomatoes,Khayega,60.0,70.0,3500.0,Kakamega,2025-01-05,1
+Tomatoes,Kibuye,114.29,150.0,8750.0,Kisumu,2025-01-05,1
+Tomatoes,Gongoni,30.0,70.0,60000.0,Kilifi,2025-01-06,1
+Tomatoes,Kutus,50.0,60.0,2540.0,Kirinyaga,2025-01-06,1
+Tomatoes,Molo,,60.0,1400.0,Nakuru,2025-01-06,1
+Tomatoes,Isebania Market,,133.33,650.0,Migori,2025-01-07,1
+Tomatoes,Cheptulu,,66.67,5000.0,Vihiga,2025-01-07,1
+Tomatoes,Ngurubani Market,50.0,75.0,2400.0,Kirinyaga,2025-01-07,1
+Tomatoes,Ahero,80.0,100.0,10000.0,Kisumu,2025-01-07,1
+Tomatoes,Mogogosiek Market,100.0,140.0,1500.0,Bomet,2025-01-07,1
+Tomatoes,Molo,,50.0,1100.0,Nakuru,2025-01-07,1
+Tomatoes,Holo,,100.0,4000.0,Kisumu,2025-01-07,1
+Tomatoes,Kirwara Market,,41.67,1200.0,Muranga,2025-01-07,1
+Tomatoes,Gikomba,,50.0,4000.0,Nairobi,2025-01-07,1
+Tomatoes,Chuka,31.43,90.0,3800.0,Tharaka-Nithi,2025-01-07,1
+Tomatoes,Kangemi Market,,120.0,4000.0,Nairobi,2025-01-07,1
+Tomatoes,Nkubu,10.0,60.0,4000.0,Meru,2025-01-07,1
+Tomatoes,Gongoni,38.0,70.0,60000.0,Kilifi,2025-01-07,1
+Tomatoes,Kapkwen,37.0,50.0,12000.0,Bomet,2025-01-07,1
+Tomatoes,Kagio,40.63,50.0,27000.0,Kirinyaga,2025-01-07,1
+Tomatoes,Voi Wholesale,40.0,,4200.0,Taita-Taveta,2025-01-07,1
+Tomatoes,Tawa,45.0,65.0,6000.0,Makueni,2025-01-07,1
+Tomatoes,Voi Wholesale,40.0,,2000.0,Taita-Taveta,2025-01-07,1
+Tomatoes,Kerugoya,30.0,50.0,1500.0,Kirinyaga,2025-01-08,1
+Tomatoes,Molo,,50.0,1500.0,Nakuru,2025-01-08,1
+Tomatoes,Akala,160.0,62.5,2000.0,Siaya,2025-01-08,1
+Tomatoes,Mulot,73.53,120.0,4000.0,Bomet,2025-01-08,1
+Tomatoes,Kangeta,40.0,50.0,800.0,Meru,2025-01-08,1
+Tomatoes,Kakamega Town,30.0,70.0,5000.0,Kakamega,2025-01-08,1
+Tomatoes,Kabati - Muranga,35.0,50.0,4000.0,Muranga,2025-01-08,1
+Tomatoes,Embu Town,45.0,70.0,4000.0,Embu,2025-01-08,1
+Tomatoes,Embu Town,45.0,70.0,5000.0,Embu,2025-01-08,1
+Tomatoes,Kawangware,,80.0,4000.0,Nairobi,2025-01-08,1
+Tomatoes,Kinango,55.56,80.0,3500.0,Kwale,2025-01-09,1
+Tomatoes,Mukuyu Market,,80.0,4000.0,Muranga,2025-01-09,1
+Tomatoes,Diani Market,80.0,100.0,15000.0,Kwale,2025-01-09,1
+Tomatoes,Gikomba,,60.0,4000.0,Nairobi,2025-01-09,1
+Tomatoes,Gongoni,38.0,70.0,180000.0,Kilifi,2025-01-09,1
+Tomatoes,Molo,,60.0,1400.0,Nakuru,2025-01-09,1
+Tomatoes,Bungoma town,100.0,150.0,5600.0,Bungoma,2025-01-10,1
+Tomatoes,Kerugoya,30.0,50.0,1500.0,Kirinyaga,2025-01-10,1
+Tomatoes,Ngurubani Market,50.0,75.0,2500.0,Kirinyaga,2025-01-10,1
+Tomatoes,Kisasi,25.0,40.0,4000.0,Kitui,2025-01-10,1
+Tomatoes,Malimili Livestock Market,60.0,70.0,2000.0,Kakamega,2025-01-10,1
+Tomatoes,Bondo,93.75,120.0,7000.0,Siaya,2025-01-10,1
+Tomatoes,Kirwara Market,,76.92,1300.0,Muranga,2025-01-10,1
+Tomatoes,Ndanai,80.0,100.0,12800.0,Bomet,2025-01-10,1
+Tomatoes,Mumias,,100.0,4000.0,Kakamega,2025-01-10,1
+Tomatoes,Kagio,31.25,40.63,28000.0,Kirinyaga,2025-01-10,1
+Tomatoes,Gongoni,38.0,70.0,180000.0,Kilifi,2025-01-10,1
+Tomatoes,Chuka,3.14,100.0,3800.0,Tharaka-Nithi,2025-01-10,1
+Tomatoes,Diani Market,80.0,100.0,4000.0,Kwale,2025-01-11,1
+Tomatoes,Akala,160.0,62.5,2200.0,Siaya,2025-01-11,1
+Tomatoes,Samburu,19.44,30.0,36000.0,Kwale,2025-01-11,1
+Tomatoes,Lubao Livestock Market,30.0,70.0,4000.0,Kakamega,2025-01-11,1
+Tomatoes,Isebania Market,,100.0,900.0,Migori,2025-01-11,1
+Tomatoes,Makutano Embu,,20.0,4000.0,Embu,2025-01-11,1
+Tomatoes,Kibuye,142.86,120.0,4000.0,Kisumu,2025-01-12,1
+Tomatoes,Khayega,60.0,70.0,11000.0,Kakamega,2025-01-12,1
+Tomatoes,Muhoroni,71.43,100.0,5000.0,Kisumu,2025-01-12,1
+Tomatoes,Kutus,50.0,70.0,3000.0,Kirinyaga,2025-01-13,1
+Tomatoes,Gongoni,38.0,70.0,180000.0,Kilifi,2025-01-13,1
+Tomatoes,Diani Market,100.0,120.0,8000.0,Kwale,2025-01-13,1
+Tomatoes,Kawangware,60.0,,4000.0,Nairobi,2025-01-13,1
+Tomatoes,Cheptulu,,71.43,2800.0,Vihiga,2025-01-13,1
+Tomatoes,Butere Livestock Market,100.0,100.0,7200.0,Kakamega,2025-01-13,1
+Tomatoes,Molo,,60.0,1500.0,Nakuru,2025-01-13,1
+Tomatoes,Nyakoe,134.92,100.0,8000.0,Kisii,2025-01-14,1
+Tomatoes,Kerugoya,30.0,50.0,1800.0,Kirinyaga,2025-01-14,1
+Tomatoes,Musoli Market,46.15,100.0,6300.0,Kakamega,2025-01-14,1
+Tomatoes,Kapsabet Market,114.29,200.0,5000.0,Nandi,2025-01-14,1
+Tomatoes,Ahero,80.0,100.0,10000.0,Kisumu,2025-01-14,1
+Tomatoes,Cheptulu,,100.0,3500.0,Vihiga,2025-01-14,1
+Tomatoes,Kirwara Market,,66.67,3500.0,Muranga,2025-01-14,1
+Tomatoes,Nkubu,10.0,60.0,4000.0,Meru,2025-01-14,1
+Tomatoes,Kawangware,,80.0,4000.0,Nairobi,2025-01-14,1
+Tomatoes,Ngurubani Market,60.0,80.0,2500.0,Kirinyaga,2025-01-14,1
+Tomatoes,Tawa,45.0,50.0,2500.0,Makueni,2025-01-14,1
+Tomatoes,Mogogosiek Market,73.53,90.0,3500.0,Bomet,2025-01-14,1
+Tomatoes,Gikomba,,60.0,4000.0,Nairobi,2025-01-14,1
+Tomatoes,Chuka,3.14,80.0,4200.0,Tharaka-Nithi,2025-01-14,1
+Tomatoes,Embu Town,46.67,80.0,5000.0,Embu,2025-01-15,1
+Tomatoes,Isebania Market,,100.0,1000.0,Migori,2025-01-15,1
+Tomatoes,Kamukuywa,34.38,42.19,3500.0,Bungoma,2025-01-15,1
+Tomatoes,Kamukuywa,39.06,46.88,4500.0,Bungoma,2025-01-15,1
+Tomatoes,Mukuyu Market,,80.0,4000.0,Muranga,2025-01-15,1
+Tomatoes,Mwingi Town,60.0,90.0,7000.0,Kitui,2025-01-15,1
+Tomatoes,Sabatia,84.62,100.0,5880.0,Kakamega,2025-01-15,1
+Tomatoes,Kangeta,50.0,60.0,750.0,Meru,2025-01-15,1
+Tomatoes,Gikomba,,60.0,4000.0,Nairobi,2025-01-15,1
+Tomatoes,Akala,160.0,62.5,4700.0,Siaya,2025-01-15,1
+Tomatoes,Kapsowar,72.73,85.0,1500.0,Elgeyo-Marakwet,2025-01-15,1
+Tomatoes,Gongoni,38.0,70.0,45000.0,Kilifi,2025-01-15,1
+Tomatoes,Embu Town,46.67,80.0,6000.0,Embu,2025-01-15,1
+Tomatoes,Diani Market,80.0,100.0,13000.0,Kwale,2025-01-15,1
+Tomatoes,Mabera,94.12,10.0,15000.0,Migori,2025-01-16,1
+Tomatoes,Cheptulu,,111.11,1800.0,Vihiga,2025-01-16,1
+Tomatoes,Kerugoya,30.0,60.0,1800.0,Kirinyaga,2025-01-16,1
+Tomatoes,Kinango,55.56,80.0,7000.0,Kwale,2025-01-16,1
+Tomatoes,Kagio,44.12,52.94,28000.0,Kirinyaga,2025-01-16,1
+Tomatoes,Kutus,50.0,60.0,3000.0,Kirinyaga,2025-01-16,1
+Tomatoes,Molo,,60.0,1500.0,Nakuru,2025-01-16,1
+Tomatoes,Bungoma town,173.08,180.77,8500.0,Bungoma,2025-01-17,1
+Tomatoes,Mumias,,90.0,4000.0,Kakamega,2025-01-17,1
+Tomatoes,Kisasi,30.0,50.0,4000.0,Kitui,2025-01-17,1
+Tomatoes,Ngurubani Market,50.0,70.0,2500.0,Kirinyaga,2025-01-17,1
+Tomatoes,Gakoromone,30.0,40.0,3000.0,Meru,2025-01-17,1
+Tomatoes,Diani Market,80.0,100.0,6000.0,Kwale,2025-01-17,1
+Tomatoes,Marindi,0.08,1.56,4000.0,Migori,2025-01-17,1
+Tomatoes,Chuka,60.0,80.0,3500.0,Tharaka-Nithi,2025-01-17,1
+Tomatoes,Cheptulu,,111.11,3000.0,Vihiga,2025-01-17,1
+Tomatoes,Malimili Livestock Market,60.0,70.0,2500.0,Kakamega,2025-01-17,1
+Tomatoes,Molo,,60.0,1500.0,Nakuru,2025-01-17,1
+Tomatoes,Gakoromone,45.0,50.0,30000.0,Meru,2025-01-17,1
+Tomatoes,Voi Wholesale,40.0,,2000.0,Taita-Taveta,2025-01-17,1
+Tomatoes,Voi Wholesale,40.0,,4500.0,Taita-Taveta,2025-01-17,1
+Tomatoes,Kawangware,116.67,,4000.0,Nairobi,2025-01-17,1
+Tomatoes,Mwatate,60.0,70.0,4000.0,Taita-Taveta,2025-01-18,1
+Tomatoes,Molo,,60.0,1500.0,Nakuru,2025-01-18,1
+Tomatoes,Sabatia,76.92,100.0,4550.0,Kakamega,2025-01-18,1
+Tomatoes,Kapsabet Market,114.29,200.0,5000.0,Nandi,2025-01-18,1
+Tomatoes,Akala,160.0,62.5,16000.0,Siaya,2025-01-18,1
+Tomatoes,Makutano Embu,50.0,80.0,4000.0,Embu,2025-01-18,1
+Tomatoes,Kibuye,150.0,120.0,4000.0,Kisumu,2025-01-19,1
+Tomatoes,Kipkaren,30.0,50.0,100.0,Kakamega,2025-01-19,1
+Tomatoes,Khayega,60.0,75.0,7000.0,Kakamega,2025-01-19,1
+Tomatoes,Muhoroni,80.0,114.29,5500.0,Kisumu,2025-01-19,1
+Tomatoes,Molo,,60.0,1500.0,Nakuru,2025-01-20,1
+Tomatoes,Aram,78.13,101.63,7000.0,Siaya,2025-01-20,1
+Tomatoes,Mwangulu,80.0,100.0,2000.0,Kwale,2025-01-20,1
+Tomatoes,Diani Market,80.0,100.0,13000.0,Kwale,2025-01-20,1
+Tomatoes,Kawangware,,100.0,4000.0,Nairobi,2025-01-20,1
+Tomatoes,Gongoni,38.0,70.0,90000.0,Kilifi,2025-01-20,1
+Tomatoes,Kutus,60.0,70.0,6450.0,Kirinyaga,2025-01-20,1
+Tomatoes,Butere Livestock Market,92.31,100.0,1000.0,Kakamega,2025-01-20,1
+Tomatoes,Nkubu,10.0,60.0,4000.0,Meru,2025-01-21,1
+Tomatoes,Mogogosiek Market,80.0,130.0,3600.0,Bomet,2025-01-21,1
+Tomatoes,Kerugoya,35.0,70.0,1800.0,Kirinyaga,2025-01-21,1
+Tomatoes,Ngurubani Market,40.0,60.0,2500.0,Kirinyaga,2025-01-21,1
+Tomatoes,Maua,40.0,60.0,16000.0,Meru,2025-01-21,1
+Tomatoes,Kapsabet Market,114.29,200.0,10000.0,Nandi,2025-01-21,1
+Tomatoes,Ahero,80.0,100.0,14000.0,Kisumu,2025-01-21,1
+Tomatoes,Kathonzweni,60.0,80.0,21000.0,Makueni,2025-01-21,1
+Tomatoes,Tawa,55.0,60.0,10000.0,Makueni,2025-01-21,1
+Tomatoes,Chuka,60.0,80.0,4200.0,Tharaka-Nithi,2025-01-21,1
+Tomatoes,Diani Market,100.0,120.0,6000.0,Kwale,2025-01-21,1
+Tomatoes,Bondeni,70.59,94.12,2000.0,Trans-Nzoia,2025-01-21,1
+Tomatoes,Kawangware,,80.0,4000.0,Nairobi,2025-01-21,1
+Tomatoes,Gikomba,,60.0,4000.0,Nairobi,2025-01-21,1
+Tomatoes,Voi Wholesale,28.57,,2400.0,Taita-Taveta,2025-01-21,1
+Tomatoes,Voi Wholesale,21.43,,4500.0,Taita-Taveta,2025-01-21,1
+Tomatoes,Cheptulu,,90.91,3000.0,Vihiga,2025-01-21,1
+Tomatoes,Akala,160.0,62.5,14000.0,Siaya,2025-01-22,1
+Tomatoes,Molo,,60.0,1400.0,Nakuru,2025-01-22,1
+Tomatoes,Sabatia,69.23,100.0,6500.0,Kakamega,2025-01-22,1
+Tomatoes,Nairobi Wakulima,,70.0,4000.0,Nairobi,2025-01-22,1
+Tomatoes,Kangemi Market,80.0,120.0,4000.0,Nairobi,2025-01-22,1
+Tomatoes,Kawangware,,80.0,4000.0,Nairobi,2025-01-22,1
+Tomatoes,Diani Market,100.0,120.0,12000.0,Kwale,2025-01-22,1
+Tomatoes,Kakamega Town,70.0,150.0,5000.0,Kakamega,2025-01-22,1
+Tomatoes,Katito,70.0,100.0,7500.0,Kisumu,2025-01-23,1
+Tomatoes,Kerugoya,40.0,70.0,1500.0,Kirinyaga,2025-01-23,1
+Tomatoes,Aram,78.13,95.79,6500.0,Siaya,2025-01-23,1
+Tomatoes,Kinango,66.67,100.0,4000.0,Kwale,2025-01-23,1
+Tomatoes,Kagio,44.12,52.94,18000.0,Kirinyaga,2025-01-23,1
+Tomatoes,Mukuyu Market,,70.0,4000.0,Muranga,2025-01-23,1
+Tomatoes,Kutus,43.33,1600.0,3200.0,Kirinyaga,2025-01-23,1
+Tomatoes,Kimilili town,60.0,70.0,10000.0,Bungoma,2025-01-23,1
+Tomatoes,Gikomba,,50.0,4000.0,Nairobi,2025-01-23,1
+Tomatoes,Kawangware,,80.0,4000.0,Nairobi,2025-01-23,1
+Tomatoes,Kalundu,54.69,80.0,4000.0,Kitui,2025-01-23,1
+Tomatoes,Gongoni,38.0,80.0,50000.0,Kilifi,2025-01-23,1
+Tomatoes,Diani Market,100.0,150.0,15000.0,Kwale,2025-01-23,1
+Tomatoes,Gakoromone,45.0,50.0,25000.0,Meru,2025-01-24,1
+Tomatoes,Cheptulu,,100.0,4500.0,Vihiga,2025-01-24,1
+Tomatoes,Bondo,78.13,120.0,7000.0,Siaya,2025-01-24,1
+Tomatoes,Bungoma town,166.67,179.49,8000.0,Bungoma,2025-01-24,1
+Tomatoes,Molo,,60.0,1500.0,Nakuru,2025-01-24,1
+Tomatoes,Kirwara Market,,83.33,1800.0,Muranga,2025-01-24,1
+Tomatoes,Malimili Livestock Market,60.0,70.0,2000.0,Kakamega,2025-01-24,1
+Tomatoes,Kangeta,50.0,60.0,800.0,Meru,2025-01-24,1
+Tomatoes,Gongoni,38.0,80.0,45000.0,Kilifi,2025-01-24,1
+Tomatoes,Chuka,50.0,60.0,4200.0,Tharaka-Nithi,2025-01-24,1
+Tomatoes,Diani Market,100.0,150.0,5000.0,Kwale,2025-01-24,1
+Tomatoes,Wundanyi,,70.0,2000.0,Taita-Taveta,2025-01-24,1
+Tomatoes,Mumias,,100.0,4000.0,Kakamega,2025-01-24,1
+Tomatoes,Kibuye,150.0,150.0,25200.0,Kisumu,2025-01-25,1
+Tomatoes,Ngurubani Market,40.0,120.0,2500.0,Kirinyaga,2025-01-25,1
+Tomatoes,Kakamega Town,45.0,100.0,15000.0,Kakamega,2025-01-25,1
+Tomatoes,Diani Market,80.0,100.0,15000.0,Kwale,2025-01-25,1
+Tomatoes,Akala,160.0,62.5,3500.0,Siaya,2025-01-25,1
+Tomatoes,Embu Town,50.0,70.0,4000.0,Embu,2025-01-25,1
+Tomatoes,Embu Town,50.0,70.0,5000.0,Embu,2025-01-25,1
+Tomatoes,Mulot,70.0,100.0,800.0,Bomet,2025-01-25,1
+Tomatoes,Kawangware,,80.0,4000.0,Nairobi,2025-01-26,1
+Tomatoes,Mghange,,60.0,1000.0,Taita-Taveta,2025-01-26,1
+Tomatoes,Muhoroni,62.86,100.0,6000.0,Kisumu,2025-01-26,1
+Tomatoes,Mwangulu,50.0,60.0,212.0,Kwale,2025-01-27,1
+Tomatoes,Butere Livestock Market,88.71,100.0,1950.0,Kakamega,2025-01-27,1
+Tomatoes,Aram,78.13,84.39,5000.0,Siaya,2025-01-27,1
+Tomatoes,Molo,,60.0,1400.0,Nakuru,2025-01-27,1
+Tomatoes,Gongoni,38.0,80.0,45000.0,Kilifi,2025-01-27,1
+Tomatoes,Kalundu,54.69,80.0,4000.0,Kitui,2025-01-27,1
+Tomatoes,Aram,71.88,79.62,7000.0,Siaya,2025-01-27,1
+Tomatoes,Mogogosiek Market,80.0,130.0,1300.0,Bomet,2025-01-28,1
+Tomatoes,Holo,107.14,100.0,4000.0,Kisumu,2025-01-28,1
+Tomatoes,Maua,45.0,60.0,14000.0,Meru,2025-01-28,1
+Tomatoes,Kabiyet Market,80.0,100.0,10000.0,Nandi,2025-01-28,1
+Tomatoes,Ahero,80.0,90.0,12000.0,Kisumu,2025-01-28,1
+Tomatoes,Kerugoya,40.0,70.0,1500.0,Kirinyaga,2025-01-28,1
+Tomatoes,Gikomba,44.0,60.0,5000.0,Nairobi,2025-01-28,1
+Tomatoes,Kirwara Market,,66.67,1500.0,Muranga,2025-01-28,1
+Tomatoes,Tawa,55.0,60.0,6000.0,Makueni,2025-01-28,1
+Tomatoes,Voi Wholesale,40.0,,5600.0,Taita-Taveta,2025-01-28,1
+Tomatoes,Voi Wholesale,40.0,,2000.0,Taita-Taveta,2025-01-28,1
+Tomatoes,Bondeni,70.59,94.12,1500.0,Trans-Nzoia,2025-01-28,1
+Tomatoes,Kagio,44.12,52.94,24000.0,Kirinyaga,2025-01-28,1
+Tomatoes,Ngurubani Market,40.0,60.0,1800.0,Kirinyaga,2025-01-28,1
+Tomatoes,Kabati - Muranga,30.0,50.0,4000.0,Muranga,2025-01-28,1
+Tomatoes,Chuka,40.0,70.0,4200.0,Tharaka-Nithi,2025-01-28,1
+Tomatoes,Nkubu,8.0,50.0,5000.0,Meru,2025-01-28,1
+Tomatoes,Kapsabet Market,114.29,180.0,10000.0,Nandi,2025-01-28,1
+Tomatoes,Chepterit Market - Nandi,60.0,50.0,1750.0,Nandi,2025-01-29,1
+Tomatoes,Makutano Embu,40.0,70.0,4000.0,Embu,2025-01-29,1
+Tomatoes,Molo,,60.0,1200.0,Nakuru,2025-01-29,1
+Tomatoes,Sabatia,84.62,100.0,3250.0,Kakamega,2025-01-29,1
+Tomatoes,Kakamega Town,40.0,100.0,3000.0,Kakamega,2025-01-29,1
+Tomatoes,Kangeta,40.0,50.0,900.0,Meru,2025-01-29,1
+Tomatoes,Kangemi Market,,80.0,4000.0,Nairobi,2025-01-29,1
+Tomatoes,Kawangware,,80.0,4000.0,Nairobi,2025-01-29,1
+Tomatoes,Embu Town,41.67,70.0,5000.0,Embu,2025-01-29,1
+Tomatoes,Diani Market,120.0,150.0,8000.0,Kwale,2025-01-29,1
+Tomatoes,Gongoni,38.0,90.0,26000.0,Kilifi,2025-01-29,1
+Tomatoes,Kawangware,,80.0,4000.0,Nairobi,2025-01-30,1
+Tomatoes,Daraja Mbili,66.67,60.0,24000.0,Kisii,2025-01-30,1
+Tomatoes,Daraja Mbili,62.5,60.0,36000.0,Kisii,2025-01-30,1
+Tomatoes,Aram,78.13,88.18,7000.0,Siaya,2025-01-30,1
+Tomatoes,Katito,70.0,85.0,7500.0,Kisumu,2025-01-30,1
+Tomatoes,Kipkaren,45.0,60.0,1000.0,Kakamega,2025-01-30,1
+Tomatoes,Gongoni,38.0,90.0,80000.0,Kilifi,2025-01-30,1
+Tomatoes,Kinango,66.67,100.0,3000.0,Kwale,2025-01-30,1
+Tomatoes,Ngurubani Market,40.0,65.0,2200.0,Kirinyaga,2025-01-31,1
+Tomatoes,Ngurubani Market,40.0,130.0,2200.0,Kirinyaga,2025-01-31,1
+Tomatoes,Kerugoya,40.0,70.0,1800.0,Kirinyaga,2025-01-31,1
+Tomatoes,Bungoma town,165.0,180.0,7500.0,Bungoma,2025-01-31,1
+Tomatoes,Amukura,150.0,200.0,780.0,Busia,2025-01-31,1
+Tomatoes,Kakamega Town,40.0,100.0,4000.0,Kakamega,2025-01-31,1
+Tomatoes,Molo,,60.0,1508.0,Nakuru,2025-01-31,1
+Tomatoes,Malimili Livestock Market,60.0,70.0,2500.0,Kakamega,2025-01-31,1
+Tomatoes,Kisasi,50.0,70.0,4000.0,Kitui,2025-01-31,1
+Tomatoes,Port Victoria,90.0,100.0,50000.0,Busia,2025-01-31,1
+Tomatoes,Diani Market,100.0,140.0,12000.0,Kwale,2025-01-31,1
+Tomatoes,Kagio,44.12,52.94,28000.0,Kirinyaga,2025-01-31,1
+Tomatoes,Cheptulu,,83.33,4600.0,Vihiga,2025-01-31,1
+Tomatoes,Kawangware,,80.0,4000.0,Nairobi,2025-01-31,1
+Tomatoes,Chuka,40.0,70.0,4200.0,Tharaka-Nithi,2025-01-31,1
+Tomatoes,Gongoni,38.0,90.0,45000.0,Kilifi,2025-01-31,1
+Tomatoes,Gakoromone,45.0,50.0,26000.0,Meru,2025-01-31,1
+Tomatoes,Mumias,,100.0,4000.0,Kakamega,2025-01-31,1
+Tomatoes,Samburu,18.06,30.0,36000.0,Kwale,2025-02-01,2
+Tomatoes,Sabatia,1.09,100.0,2150.0,Kakamega,2025-02-01,2
+Tomatoes,Kapsabet Market,114.29,200.0,10000.0,Nandi,2025-02-01,2
+Tomatoes,Kawangware,,80.0,4000.0,Nairobi,2025-02-01,2
+Tomatoes,Kawangware,,80.0,4000.0,Nairobi,2025-02-02,2
+Tomatoes,Muhoroni,80.0,100.0,9000.0,Kisumu,2025-02-02,2
+Tomatoes,Kipkaren,60.0,80.0,4500.0,Kakamega,2025-02-02,2
+Tomatoes,Khayega,50.0,65.0,5000.0,Kakamega,2025-02-02,2
+Tomatoes,Kibuye,150.0,150.0,4000.0,Kisumu,2025-02-02,2
+Tomatoes,Eldoret Main,80.0,100.0,5000.0,Uasin-Gishu,2025-02-03,2
+Tomatoes,Diani Market,100.0,140.0,16000.0,Kwale,2025-02-03,2
+Tomatoes,Aram,78.13,86.21,6000.0,Siaya,2025-02-03,2
+Tomatoes,Gongoni,38.0,80.0,500000.0,Kilifi,2025-02-03,2
+Tomatoes,Kalundu,54.69,80.0,4000.0,Kitui,2025-02-03,2
+Tomatoes,Kutus,36.67,1300.0,5400.0,Kirinyaga,2025-02-03,2
+Tomatoes,Ahero,80.0,90.0,10000.0,Kisumu,2025-02-04,2
+Tomatoes,Amukura,150.0,250.0,480.0,Busia,2025-02-04,2
+Tomatoes,Ngurubani Market,40.0,60.0,2100.0,Kirinyaga,2025-02-04,2
+Tomatoes,Kabiyet Market,60.0,100.0,20000.0,Nandi,2025-02-04,2
+Tomatoes,Cheptulu,,76.92,3200.0,Vihiga,2025-02-04,2
+Tomatoes,Bondo,93.75,150.0,7000.0,Siaya,2025-02-04,2
+Tomatoes,Kapsabet Market,114.29,200.0,10000.0,Nandi,2025-02-04,2
+Tomatoes,Holo,107.14,100.0,4000.0,Kisumu,2025-02-04,2
+Tomatoes,Maua,45.0,60.0,16000.0,Meru,2025-02-04,2
+Tomatoes,Kerugoya,40.0,70.0,1800.0,Kirinyaga,2025-02-04,2
+Tomatoes,Tawa,55.0,60.0,7000.0,Makueni,2025-02-04,2
+Tomatoes,Mogogosiek Market,73.53,80.0,4000.0,Bomet,2025-02-04,2
+Tomatoes,Molo,,60.0,1100.0,Nakuru,2025-02-04,2
+Tomatoes,Nkubu,6.0,40.0,5000.0,Meru,2025-02-04,2
+Tomatoes,Kirwara Market,,62.5,1800.0,Muranga,2025-02-04,2
+Tomatoes,Diani Market,100.0,140.0,8000.0,Kwale,2025-02-04,2
+Tomatoes,Chuka,0.71,70.0,4200.0,Tharaka-Nithi,2025-02-04,2
+Tomatoes,Gongoni,38.0,80.0,50000.0,Kilifi,2025-02-04,2
+Tomatoes,Bondeni,70.59,88.24,2000.0,Trans-Nzoia,2025-02-04,2
+Tomatoes,Kathonzweni,65.0,70.0,28000.0,Makueni,2025-02-04,2
+Tomatoes,Makutano Embu,50.0,60.0,4000.0,Embu,2025-02-05,2
+Tomatoes,Mwingi Town,70.0,100.0,6400.0,Kitui,2025-02-05,2
+Tomatoes,Sabatia,84.62,83.33,2600.0,Kakamega,2025-02-05,2
+Tomatoes,Eldoret Main,100.0,120.0,5000.0,Uasin-Gishu,2025-02-05,2
+Tomatoes,Akala,160.0,62.5,14000.0,Siaya,2025-02-05,2
+Tomatoes,Molo,,60.0,1200.0,Nakuru,2025-02-05,2
+Tomatoes,Gongoni,38.0,80.0,72000.0,Kilifi,2025-02-05,2
+Tomatoes,Kabati - Muranga,30.0,50.0,4000.0,Muranga,2025-02-05,2
+Tomatoes,Mulot,87.5,120.0,3000.0,Bomet,2025-02-05,2
+Tomatoes,Bura market,60.0,100.0,3200.0,Tana-River,2025-02-05,2
+Tomatoes,Diani Market,100.0,140.0,9000.0,Kwale,2025-02-05,2
+Tomatoes,Mukuyu Market,,60.0,4000.0,Muranga,2025-02-05,2
+Tomatoes,Embu Town,50.0,70.0,4000.0,Embu,2025-02-05,2
+Tomatoes,Kangeta,40.0,50.0,1000.0,Meru,2025-02-05,2
+Tomatoes,Kawangware,,80.0,4000.0,Nairobi,2025-02-06,2
+Tomatoes,Ngurubani Market,40.0,60.0,2800.0,Kirinyaga,2025-02-06,2
+Tomatoes,Kipkaren,60.0,80.0,3000.0,Kakamega,2025-02-06,2
+Tomatoes,Kinango,66.67,100.0,3500.0,Kwale,2025-02-06,2
+Tomatoes,Gikomba,,60.0,3000.0,Nairobi,2025-02-06,2
+Tomatoes,Diani Market,100.0,140.0,10000.0,Kwale,2025-02-06,2
+Tomatoes,Molo,,60.0,1400.0,Nakuru,2025-02-06,2
+Tomatoes,Kutus,40.0,50.0,20000.0,Kirinyaga,2025-02-06,2
+Tomatoes,Gongoni,38.0,80.0,60000.0,Kilifi,2025-02-06,2
+Tomatoes,Kimilili town,110.0,130.0,10000.0,Bungoma,2025-02-06,2
+Tomatoes,Webuye town,75.0,82.0,2800.0,Bungoma,2025-02-06,2
+Tomatoes,Bondo,109.38,150.0,7000.0,Siaya,2025-02-07,2
+Tomatoes,Chepterit Market - Nandi,30.0,50.0,200.0,Nandi,2025-02-07,2
+Tomatoes,Mumias,,90.91,4000.0,Kakamega,2025-02-07,2
+Tomatoes,Kerugoya,30.0,70.0,1800.0,Kirinyaga,2025-02-07,2
+Tomatoes,Nyakoe,95.24,80.0,20000.0,Kisii,2025-02-07,2
+Tomatoes,Bungoma town,166.67,192.31,9000.0,Bungoma,2025-02-07,2
+Tomatoes,Malimili Livestock Market,60.0,70.0,1500.0,Kakamega,2025-02-07,2
+Tomatoes,Chuka,0.71,60.0,4200.0,Tharaka-Nithi,2025-02-07,2
+Tomatoes,Kagio,1500.0,58.82,25000.0,Kirinyaga,2025-02-07,2
+Tomatoes,Kagio,1500.0,58.82,25000.0,Kirinyaga,2025-02-07,2
+Tomatoes,Kawangware,,80.0,4000.0,Nairobi,2025-02-07,2
+Tomatoes,Gakoromone,50.0,45.0,25000.0,Meru,2025-02-07,2
+Tomatoes,Molo,,60.0,1400.0,Nakuru,2025-02-07,2
+Tomatoes,Voi Wholesale,25.0,,2000.0,Taita-Taveta,2025-02-07,2
+Tomatoes,Voi Wholesale,25.0,,5600.0,Taita-Taveta,2025-02-07,2
+Tomatoes,Diani Market,100.0,140.0,9000.0,Kwale,2025-02-07,2
+Tomatoes,Isebania Market,,300.0,600.0,Migori,2025-02-08,2
+Tomatoes,Samburu,20.0,30.0,35000.0,Kwale,2025-02-08,2
+Tomatoes,Kawangware,,80.0,4000.0,Nairobi,2025-02-08,2
+Tomatoes,Mwatate,45.0,50.0,7000.0,Taita-Taveta,2025-02-08,2
+Tomatoes,Bura market,37.5,100.0,1500.0,Tana-River,2025-02-08,2
+Tomatoes,Samburu,20.0,30.0,35000.0,Kwale,2025-02-08,2
+Tomatoes,Kibuye,142.86,120.0,4000.0,Kisumu,2025-02-09,2
+Tomatoes,Kawangware,,60.0,4000.0,Nairobi,2025-02-09,2
+Tomatoes,Khayega,80.0,100.0,3500.0,Kakamega,2025-02-09,2
+Tomatoes,Mumias,,90.91,4000.0,Kakamega,2025-02-09,2
+Tomatoes,Muhoroni,80.0,100.0,4200.0,Kisumu,2025-02-09,2
+Tomatoes,Kipkaren,60.0,80.0,4500.0,Kakamega,2025-02-09,2
+Tomatoes,Butere Livestock Market,76.92,83.33,1950.0,Kakamega,2025-02-10,2
+Tomatoes,Molo,,60.0,1500.0,Nakuru,2025-02-10,2
+Tomatoes,Kawangware,,80.0,4000.0,Nairobi,2025-02-10,2
+Tomatoes,Gongoni,38.0,80.0,500000.0,Kilifi,2025-02-10,2
+Tomatoes,Diani Market,100.0,150.0,21000.0,Kwale,2025-02-10,2
+Tomatoes,Kawangware,,80.0,4000.0,Nairobi,2025-02-11,2
+Tomatoes,Gongoni,38.0,80.0,950000.0,Kilifi,2025-02-11,2
+Tomatoes,Chuka,0.57,50.0,4200.0,Tharaka-Nithi,2025-02-11,2
