@@ -25,6 +25,7 @@ urlpatterns = [
     path("", include('shamba.urls')), 
     path("api/farmproducts/", include('Farm_Products.urls')), 
     path("", include('Farm_Insights.urls')),
+    path('price-predictions/', include('price_predictions.urls')),
 ]
 if settings.DEBUG:
     urlpatterns += static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)

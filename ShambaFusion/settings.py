@@ -49,7 +49,7 @@ INSTALLED_APPS = [
     "Farm_Products",
     "Disease_Prediction",
     "Marketplace",
-    "price_predictions",
+    "price_predictions.apps.PricePredictionsConfig",
 ]
 
 MIDDLEWARE = [

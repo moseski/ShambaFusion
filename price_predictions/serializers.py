@@ -1,26 +1,34 @@
 from rest_framework import serializers
-from .models import TomatoMarketData, TomatoPricePrediction
+from .models import PricePrediction
 
-class TomatoMarketDataSerializer(serializers.ModelSerializer):
+class PricePredictionSerializer(serializers.ModelSerializer):
+    """Serializer for PricePrediction model"""
     class Meta:
-        model = TomatoMarketData
-        fields = ['market', 'date', 'supply_volume', 'wholesale_price', 'retail_price', 'created_at']
-        read_only_fields = ['created_at']
+        model = PricePrediction
+        fields = '__all__'
 
-    def validate_supply_volume(self, value):
-        """Ensure supply volume is positive."""
-        if value <= 0:
-            raise serializers.ValidationError("Supply volume must be greater than zero.")
+class PricePredictionRequestSerializer(serializers.Serializer):
+    """Serializer for price prediction requests"""
+    crop_type = serializers.CharField(max_length=100)
+    county = serializers.CharField(max_length=100)
+    supply_volume = serializers.FloatField(min_value=0)
+    
+    def validate_crop_type(self, value):
+        """Validate crop type"""
+        valid_crops = [
+            "tomatoes", "potatoes", "onions", "maize", "beans", 
+            "cabbage", "kale", "carrots", "spinach", "green-peas"
+        ]
+        if value.lower() not in valid_crops:
+            raise serializers.ValidationError(f"Invalid crop type. Choose from: {', '.join(valid_crops)}")
         return value
-
-class TomatoPricePredictionSerializer(serializers.ModelSerializer):
-    class Meta:
-        model = TomatoPricePrediction
-        fields = ['market_data', 'predicted_price', 'prediction_date', 'created_at']
-        read_only_fields = ['created_at']
-
-    def validate_predicted_price(self, value):
-        """Ensure predicted price is a positive number."""
-        if value <= 0:
-            raise serializers.ValidationError("Predicted price must be greater than zero.")
+    
+    def validate_county(self, value):
+        """Validate county"""
+        valid_counties = [
+            "nairobi", "mombasa", "kisumu", "nakuru", "kiambu", "machakos",
+            "uasin-gishu", "kakamega", "nyeri", "kilifi", "bungoma", "trans-nzoia"
+        ]
+        if value.lower() not in valid_counties:
+            raise serializers.ValidationError(f"Invalid county. Choose from: {', '.join(valid_counties)}")
         return value
